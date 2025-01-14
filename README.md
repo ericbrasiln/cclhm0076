@@ -24,5 +24,5 @@ Se preferir, acesse o cronograma em formato PDF [aqui](https://ericbrasil.com.br
 
 CC-BY-SA-4.0 © [Eric Brasil, 2025](https://ericbrasil.com.br)
 
-![ihl](imgs/logos.png)
+![ihl](imgs/banner_logos_hist.png)
 
