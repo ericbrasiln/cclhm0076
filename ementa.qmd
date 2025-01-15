@@ -27,13 +27,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ## Módulo I - Sociedades Autóctones das Américas<br>
 
-### AULA 1 (23/01/2025): Como a inteligência artificial "vê" nosso curso? 
-
-- em breve
-
----
-
-### AULA 2 (30/01/2025): Quais Américas? Apresentação e reflexões sobre a disciplina
+### AULA 1 (06/02/2025): Quais Américas? Apresentação e reflexões sobre a disciplina
 
 **Objetivos**
 
@@ -47,7 +41,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 3 (06/02/2025): Sociedades autóctones americanas antes do século XVI - Parte 1
+### AULA 2 (13/02/2025): Sociedades autóctones americanas antes do século XVI - Parte 1
 
 **Objetivos**
 
@@ -61,14 +55,14 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 4 (13/02/2025): Sociedades autóctones americanas antes do século XVI - Parte 2
+### AULA 3 (20/02/2025): Sociedades autóctones americanas antes do século XVI - Parte 2
 
 **Objetivos**
 
 - Analisar a formação socio-histórica da sociedade inca
 - Entender o debate historiográfico acerca da sociedade inca
 
-**Leituras
+**Leituras**
 
 - MURRA, John. “As sociedades andinas anteriores a 1532”. In: História da América Latina: América Latina Colonial. BETHEL, Leslie (org.). São Paulo: Edusp, 2004, pp. 63-100.
 
@@ -76,7 +70,13 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ## Módulo II - Conquistas, Colonização e Resistências<br>
 
-### AULA 5 (20/02/2025): Expansão europeia nos séculos XV e XVI e a chegada na América
+### AULA 4 (26/02/2025): Como a inteligência artificial "vê" nosso curso? (1,0 ponto)
+
+**Modalidade**
+
+- Atividade Remota
+
+--- Expansão europeia nos séculos XV e XVI e a chegada na América
 
 **Objetivos**
 
@@ -89,7 +89,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 6 (27/02/2025): As várias visões da conquista
+### AULA 5 (20/03/2025): As várias visões da conquista
 
 **Objetivos**
 
@@ -103,11 +103,23 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 7 (06/03/2025): Formação da sociedade colonial espanhola (XVI-XVIII)
+### AULA 6 (27/03/2025): Resistências, negociações e agência indígenas nos séculos XVI e XVII
 
 **Objetivos**
 
-- Compreender o processo de constituição da sociedade colonial espanhola nas américas entre os séculos XVI e XVIII
+- Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente à dominação colonial nos séculos XVI e XVII.
+
+**Leituras**
+
+- Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente à dominação colonial nos séculos XVI e XVII.
+
+---
+
+### AULA 7 (03/04/2025): Formação da sociedade colonial espanhola (XVI-XVIII)
+
+**Objetivos**
+
+- Compreender o processo de constituição da sociedade colonial espanhola nas Américas entre os séculos XVI e XVIII
 
 **Leituras**
 
@@ -116,11 +128,11 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 8 (13/03/2025): Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
+### AULA 8 (10/04/2025): Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
 
 **Objetivos**
 
-- Analisar as formas de trabalho e tributo nas sociedades colonial espanhol
+- Analisar as formas de trabalho e tributo nas sociedades coloniais espanholas
 - Compreender os impactos do trabalho e tributo na ordem social das sociedades autóctones
 
 **Leituras**
@@ -129,19 +141,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 9 (20/03/2025): Resistências, negociações e agência indígenas nos séculos XVI e XVII
-
-**Objetivos**
-
-- Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente a dominação colonial nos séculos XVI e XVII.
-
-**Leituras**
-
-- Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente a dominação colonial nos séculos XVI e XVII.
-
----
-
-### AULA 10 (27/03/2025): Prova escrita presencial (10,0 pontos)
+### AULA 9 (17/04/2025): Prova escrita presencial (10,0 pontos)
 
 **Temas**
 
@@ -153,7 +153,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ## Módulo III - Escravidão Africana nas Américas<br>
 
-### AULA 11 (03/04/2025): Tráfico transatlântico de africanos escravizados: história e historiografia
+### AULA 10 (24/04/2025): Tráfico transatlântico de africanos escravizados: história e historiografia
 
 **Objetivos**
 
@@ -161,12 +161,12 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Leituras**
 
-- FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). Estudos afro-latino-americanos : uma introdução. Buenos Aires: CLACSO, 2018, p. 47–74. Disponível em: <http://biblioteca.clacso.edu.ar/clacso/se/20181206024023/EstudiosAfro_PT.pdf>. Acesso em: 16 abr. 2019.
+- FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). Estudos afro-latino-americanos: uma introdução. Buenos Aires: CLACSO, 2018, p. 47–74. Disponível em: <http://biblioteca.clacso.edu.ar/clacso/se/20181206024023/EstudiosAfro_PT.pdf>. Acesso em: 16 abr. 2019.
 - WILLIAMS, Eric. Origens da escravidão negra. In: Capitalismo e escravidão. São Paulo: Companhia das Letras, 2012.
 
 ---
 
-### AULA 12 (10/04/2025): A escravidão nas regiões Andina, Platina e Mexicana
+### AULA 11 (08/05/2025): A escravidão nas regiões Andina, Platina e Mexicana
 
 **Objetivos**
 
@@ -174,25 +174,25 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Leituras**
 
-- CHAVEZ-HITA, Adriana Naveda. Presencia africana en Nueva España, un repasso historiográfico. In: GUTIÉRREZ, Duró (Org.). Poblaciones y Culturas de origen africano en México. México: Instituto Nacional de Antropologia e Historia, 2005.
+- CHAVEZ-HITA, Adriana Naveda. Presencia africana en Nueva España, un repasso historiográfico. In: GUTIÉRREZ, Duró (Org.). Poblaciones y Culturas de origem africano en México. México: Instituto Nacional de Antropologia e Historia, 2005.
 - KLEIN, Herbert S. Los esclavos africanos. In: Historia General de La America Latina: Consolidación del Ordem Colonial. Paris: UNESCO; Editorial Trotta, 2007, v. 3.
-- ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y sus fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
+- ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y suas fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
 
 ---
 
-### AULA 13 (24/04/2025): O Caribe, as colônias na América do Norte e o sistema de plantation
+### AULA 12 (15/05/2025): O Caribe, as colônias na América do Norte e o sistema de plantation
 
 **Objetivos**
 
-- Analisar a formação dos sistemas escravistas nas colônias inglesas e francesas no Caribe a na América do Norte.
+- Analisar a formação dos sistemas escravistas nas colônias inglesas e francesas no Caribe e na América do Norte.
 
 **Leituras**
 
-- KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
+- KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidão Africana na América Latina e Caribe. Brasília: Editora Universidade de Brasília, 2015
 
 ---
 
-### AULA 14 (08/05/2025): Lutas contra o cativeiro, lutas pela liberdade
+### AULA 13 (22/05/2025): Lutas contra o cativeiro, lutas pela liberdade
 
 **Objetivos**
 
@@ -205,7 +205,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ---
 
-### AULA 15 (12/05/2025): Trabalho escrito final (8,0 pontos)
+### AULA 14 (29/05/2025): Trabalho escrito final (8,0 pontos)
 
 ---
 
