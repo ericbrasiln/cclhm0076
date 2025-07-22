@@ -26,6 +26,10 @@ O cronograma da disciplina está organizado em três módulos temáticos e inclu
 
 ---
 
+Versão atual, semestre 2025.2, no branch `main`.
+
+---
+
 ## Licença
 
 Distribuído sob licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
