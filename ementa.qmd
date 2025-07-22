@@ -11,26 +11,26 @@ description: "Plano de Ensino da disciplina História da América: Colonização
 lang: pt-BR
 logo: imgs/banner\_logos\_hist.png
 toc: true
-toc-depth: 3
+toc-depth: 5
 ---
 
 |   Código  |                   Disciplina                   |  CH | Dia | Horário | Sala |
 | :-------: | :--------------------------------------------: | :-: | :-: | :-----: | :--: |
 | CCLHM0076 | História da América: Colonização e Resistência | 60h |  4ª | 14h-18h |   ?  |
 
-# Ementa
+# **Ementa**
 
 Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. O ensino de história e historiografia da América na escola básica.
 
 [Clique aqui para acessar a versão em pdf](http://ericbrasil.com.br/cclhm0076/ementa.pdf)
 
----
-
 # Conteúdo Programático
 
 ## Módulo I - Sociedades Autóctones das Américas
 
-### AULA 1 (07/08/2025): Quais Américas? Apresentação e reflexões sobre a disciplina
+### AULA 1 (07/08/2025)
+
+**Tema**: Quais Américas? Apresentação e reflexões sobre a disciplina
 
 **Objetivos**
 
@@ -44,7 +44,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * KRENAK, A. Paisagens, territórios e pressão colonial. *Espaço Ameríndio*, v. 9, n. 3, p. 327–327, 30 dez. 2015. DOI: 10.22456/1982-6524.61133. Link: https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/61133
 
 
-### AULA 2 (14/08/2025): Sociedades autóctones americanas antes do século XVI - Parte 1
+### AULA 2 (14/08/2025)
+
+**Tema**: Sociedades autóctones americanas antes do século XVI 
 
 **Objetivos**
 
@@ -55,21 +57,18 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 **Leituras**
 
 * NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas.” In: **O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521).** São Paulo: Universidade de São Paulo, 30 set. 2019. pp. 25-54.
-
-### AULA 3 (21/08/2025): Sociedades autóctones americanas antes do século XVI - Parte 2
-
-**Objetivos**
-
-* Analisar a formação socio-histórica da sociedade inca
-* Entender o debate historiográfico acerca da sociedade inca
-
-**Leituras**
-
 * MURRA, John. “As sociedades andinas anteriores a 1532”. In: **História da América Latina: América Latina Colonial.** BETHEL, Leslie (org.). São Paulo: Edusp, 2004, pp. 63-100.
+
+### AULA 3 (21/08/2025)
+
+**Tema**: III Semana de História do IHL-Malês
+
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
-### AULA 4 (28/08/2025): Expansão europeia nos séculos XV e XVI e a chegada na América
+### AULA 4 (28/08/2025)
+
+**Tema**: Expansão europeia nos séculos XV e XVI e a chegada na América
 
 **Objetivos**
 
@@ -80,7 +79,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 * BOXER, Charles R. O império marítimo português, 1415-1825. São Paulo: Companhia das Letras, 2002. pp. .
 
-### AULA 5 (04/09/2025): As várias visões da conquista
+### AULA 5 (04/09/2025)
+
+**Tema**: As várias visões da conquista
 
 **Objetivos**
 
@@ -92,7 +93,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha. História Unisinos. Vol. 18 Nº 2 - 2014.
 * Relatos Astecas da Conquista. Trechos selecionados.
 
-### AULA 6 (11/09/2025): Formação da sociedade colonial espanhola (XVI-XVIII)
+### AULA 6 (11/09/2025)
+
+**Tema**: Formação da sociedade colonial espanhola (XVI-XVIII)
 
 **Objetivos**
 
@@ -103,7 +106,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * RAMINELLI, Ronald. "A monarquia católica e os poderes locais do Novo Mundo." Simpósio Nacional de História, XXVI, São Paulo (2011): 1-26.
 * STOLKE, V. O enigma das interseções: classe, "raça", sexo, sexualidade: a formação dos impérios transatlânticos do século XVI ao XIX. Revista Estudos Feministas, v. 14, n. 1, p. 15–42, jan. 2006. 
 
-### AULA 7 (18/09/2025): Resistências, negociações e agência indígenas nos séculos XVI e XVII
+### AULA 7 (18/09/2025)
+
+**Tema**: Resistências, negociações e agência indígenas nos séculos XVI e XVII
 
 **Objetivos**
 
@@ -114,7 +119,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.) América em tempo de conquista. Rio de Janeiro: Zahar Editor, 1992, pp. 77-87.
 * MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. Métis: história & cultura, v. 16, n. 31, 11 set. 2017.
 
-### AULA 8 (25/09/2025): Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
+### AULA 8 (25/09/2025)
+
+**Tema**: Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
 
 **Objetivos**
 
@@ -125,7 +132,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 * ZAGALSKY, Paula Cecilia. O trabalho mineiro de Potosí nos mundos do trabalho indígena na América colonial hispânica, séculos XVI-XVII; Paco Editorial; 2022; 59-84 
 
-### AULA 9 (02/10/2025): Prova escrita presencial
+### AULA 9 (02/10/2025)
+
+**Tema**: Prova escrita presencial
 
 **Temas**
 
@@ -135,7 +144,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 ## Módulo III - Escravidão Africana nas Américas
 
-### AULA 10 (09/10/2025): Tráfico transatlântico de africanos escravizados
+### AULA 10 (09/10/2025)
+
+**Tema**: Tráfico transatlântico de africanos escravizados
 
 **Objetivos**
 
@@ -146,7 +157,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). Estudos afro-latino-americanos : uma introdução. Buenos Aires: CLACSO, 2018, p. 47–74. Disponível em: <http://biblioteca.clacso.edu.ar/clacso/se/20181206024023/EstudiosAfro_PT.pdf>. Acesso em: 16 abr. 2019.
 * WILLIAMS, Eric. Origens da escravidão negra. In: Capitalismo e escravidão. São Paulo: Companhia das Letras, 2012.
 
-### AULA 11 (16/10/2025): A escravidão nas regiões Andina, Platina e Mexicana
+### AULA 11 (16/10/2025)
+
+**Tema**: A escravidão nas regiões Andina, Platina e Mexicana
 
 **Modalidade**: Aula Remota
 
@@ -160,7 +173,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 * KLEIN, Herbert S. Los esclavos africanos. In: Historia General de La America Latina: Consolidación del Ordem Colonial. Paris: UNESCO; Editorial Trotta, 2007, v. 3.
 * ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y sus fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
 
-### AULA 12 (23/10/2025): O Caribe, as colônias na América do Norte e o sistema de plantation
+### AULA 12 (23/10/2025)
+
+**Tema**: O Caribe, as colônias na América do Norte e o sistema de plantation
 
 **Objetivos**
 
@@ -170,7 +185,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 * KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
 
-### AULA 13 (30/10/2025): Lutas contra o cativeiro, lutas pela liberdade - parte 1
+### AULA 13 (30/10/2025)
+
+**Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 1
 
 **Objetivos**
 
@@ -181,7 +198,9 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 * ARANA, Palor Vargas. Balanço historiográfico sobre as insurgências de africanos(as) e afrodescendentes contra a escravidão em América. Anais eletrônicos da XII Jornada de Estudos Históricos Professor Manoel Salgado (2017) PPGHIS-UFRJ, v. 3, p. 657-678, 2017.
 
-### AULA 14 (06/11/2025): Lutas contra o cativeiro, lutas pela liberdade - parte 2
+### AULA 14 (06/11/2025)
+
+**Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 2
 
 **Objetivos**
 
@@ -192,6 +211,8 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 * EM BREVE.
 
-### AULA 15 (13/11/2025): Aula de encerramento e balanço final da disciplina
+### AULA 15 (13/11/2025)
+
+**Tema**: Aula de encerramento e balanço final da disciplina
 
 ![](imgs/banner_logos_hist.png)

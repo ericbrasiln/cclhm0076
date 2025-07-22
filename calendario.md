@@ -25,8 +25,8 @@ geometry:
 | Aula | Data       | Módulo | Tema                                                                                  | CH | Observação           |
 |------|------------|--------|---------------------------------------------------------------------------------------|----|----------------------|
 | 1    | 07/08/2025 | I      | Quais Américas? Apresentação e reflexões sobre a disciplina                           | 4  | Presencial           |
-| 2    | 14/08/2025 | I      | Sociedades autóctones americanas antes do século XVI - Parte 1                        | 4  | Presencial           |
-| 3    | 21/08/2025 | I      | Sociedades autóctones americanas antes do século XVI - Parte 2                        | 4  | Presencial           |
+| 2    | 14/08/2025 | I      | Sociedades autóctones americanas antes do século XVI                                  | 4  | Presencial           |
+| 3    | 21/08/2025 | I      | III Semana de História do IHL-Malês                                                   | 4  | Presencial           |
 | 4    | 28/08/2025 | II     | Expansão europeia nos séculos XV e XVI e a chegada na América                         | 4  | Presencial           |
 | 5    | 04/09/2025 | II     | As várias visões da conquista                                                         | 4  | Presencial           |
 | 6    | 11/09/2025 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                                  | 4  | Presencial           |
