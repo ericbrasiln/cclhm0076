@@ -1,28 +1,38 @@
-# História da América: Colonização e Resistência - CCLHM0076
+# História da América: Colonização e Resistência – CCLHM0076
 
-Repositório da disciplina História da América: Colonização e Resistência. Prof Eric Brasil (ILHM/UNILAB)
+Repositório da disciplina **História da América: Colonização e Resistência** (2025.2), ministrada pelo Prof. Eric Brasil no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB.
 
- 
-| Docente     | Período | CH  | Horário          | Sala | Contato |
-|:-----------:|:-------:|:---:|:----------------:|:----:|:---------------------------:|
-| Eric Brasil | 2024.2  | 60h | Quintas, 14h-18h | ?    | profericbrasil@unilab.edu.br|
+| Docente     | Período | CH  | Horário               | Sala | Contato                         |
+|:-----------:|:-------:|:---:|:---------------------:|:----:|:-------------------------------:|
+| Eric Brasil | 2025.2  | 60h | Quartas, 14h–18h      | ?    | profericbrasil@unilab.edu.br    |
 
+---
 
 ## Ementa
 
-Clique [aqui](https://ericbrasil.com.br/cclhm0076/ementa)) para acessar a ementa da disciplina online.
+Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. O ensino de história e historiografia da América na escola básica.
 
-Se preferir, acesse a ementa em formato PDF [aqui](https://ericbrasil.com.br/cclhm0076/ementa.pdf).
+📄 Acesse a [ementa online](https://ericbrasil.com.br/cclhm0076/ementa)  
+📥 Ou baixe em [formato PDF](https://ericbrasil.com.br/cclhm0076/ementa.pdf)
+
+---
 
 ## Cronograma
 
-Clique [aqui](https://ericbrasil.com.br/cclhm0076/calendario) para acessar o cronograma da disciplina online.
+O cronograma da disciplina está organizado em três módulos temáticos e inclui 15 encontros semanais, com aulas expositivas, leituras dirigidas e avaliações.
 
-Se preferir, acesse o cronograma em formato PDF [aqui](https://ericbrasil.com.br/cclhm0076/calendario.pdf).
+🗓️ Consulte o [cronograma online](https://ericbrasil.com.br/cclhm0076/calendario)  
+📥 Ou baixe em [formato PDF](https://ericbrasil.com.br/cclhm0076/calendario.pdf)
+
+---
+
+Versão atual, semestre 2025.2, no branch `main`.
+
+---
 
 ## Licença
 
-CC-BY-SA-4.0 © [Eric Brasil, 2025](https://ericbrasil.com.br)
+Distribuído sob licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+© [Eric Brasil, 2025](https://ericbrasil.com.br)
 
 ![ihl](imgs/banner_logos_hist.png)
-
