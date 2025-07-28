@@ -6,7 +6,7 @@ author:
       email: profericbrasil@gmail.com
       orcid: 0000-0001-5067-8475
       affiliation: Instituto de Humanidades e Letras - UNILAB
-date: 2025-07-22
+date: 2025-07-28
 description: "Plano de Ensino da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2025.2, no curso de Licenciatura em História da UNILAB."
 lang: pt-BR
 logo: imgs/banner\_logos\_hist.png
@@ -75,6 +75,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Tema**: III Semana de História do IHL-Malês
 
+Participação da turma na III Semana de História do Instituto de Humanidades e Letras - UNILAB
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
