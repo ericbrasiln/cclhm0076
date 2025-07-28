@@ -3,10 +3,10 @@ title: "História da América: Colonização e Resistência"
 subtitle: "CCLHM0076 - 2025.2"
 author:
     - name: Eric Brasil
-      email: profericbrasil@gmail.com
+      email: profericbrasil@unilab.edu.br
       orcid: 0000-0001-5067-8475
       affiliation: Instituto de Humanidades e Letras - UNILAB
-date: 2025-07-22
+date: 2025-07-28
 description: "Plano de Ensino da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2025.2, no curso de Licenciatura em História da UNILAB."
 lang: pt-BR
 logo: imgs/banner\_logos\_hist.png
@@ -40,8 +40,8 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Leituras**
 
-* SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009.
-* KRENAK, A. Paisagens, territórios e pressão colonial. *Espaço Ameríndio*, v. 9, n. 3, p. 327–327, 30 dez. 2015. DOI: 10.22456/1982-6524.61133. Link: https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/61133
+* SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009. [Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf).
+* KRENAK, A. Paisagens, territórios e pressão colonial. *Espaço Ameríndio*, v. 9, n. 3, p. 327–327, 30 dez. 2015. DOI: 10.22456/1982-6524.61133. [Link para download](https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/61133).
 
 ### AULA 2 (07/08/2025)
 
@@ -75,6 +75,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Tema**: III Semana de História do IHL-Malês
 
+Participação da turma na III Semana de História do Instituto de Humanidades e Letras - UNILAB
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
