@@ -3,7 +3,7 @@ title: "História da América: Colonização e Resistência"
 subtitle: "CCLHM0076 - 2025.2"
 author:
     - name: Eric Brasil
-      email: profericbrasil@gmail.com
+      email: profericbrasil@unilab.edu.br
       orcid: 0000-0001-5067-8475
       affiliation: Instituto de Humanidades e Letras - UNILAB
 date: 2025-07-28
@@ -40,8 +40,8 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 **Leituras**
 
-* SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009.
-* KRENAK, A. Paisagens, territórios e pressão colonial. *Espaço Ameríndio*, v. 9, n. 3, p. 327–327, 30 dez. 2015. DOI: 10.22456/1982-6524.61133. Link: https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/61133
+* SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009. [Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf).
+* KRENAK, A. Paisagens, territórios e pressão colonial. *Espaço Ameríndio*, v. 9, n. 3, p. 327–327, 30 dez. 2015. DOI: 10.22456/1982-6524.61133. [Link para download](https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/61133).
 
 ### AULA 2 (07/08/2025)
 
