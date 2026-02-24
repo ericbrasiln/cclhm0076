@@ -1,6 +1,6 @@
 ---
 title: "História da América: Colonização e Resistência"
-subtitle: "CCLHM0076 - 2025.2"
+subtitle: "CCLHM0076 - 2026.1"
 author:
     - name: Eric Brasil
       email: profericbrasil@unilab.edu.br
@@ -16,7 +16,7 @@ format: html
 page-layout: full
 ---
 
-Bem-vindo(as) ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2025.2.
+Bem-vindo(as) ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2026.1.
 
 ## Sobre a Disciplina
 
@@ -31,9 +31,9 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 
 - **Professor**: Eric Brasil
 - **Código da disciplina**: CCLHM0076
-- **Período Letivo**: 2025.2
+- **Período Letivo**: 2026.1
 - **Carga horária**: 60h
-- **Dia e horário das aulas**: Quartas-feiras, das 8h às 12h
+- **Dia e horário das aulas**: Quintas-feiras, às 8h30
 - **Formato**: Presencial com atividades remotas ocasionais
 - **Local**: IHLM - Campus dos Malês
 
@@ -66,7 +66,7 @@ Este trabalho está licenciado sob a [Licença Creative Commons Atribuição 4.0
 
 ---
 
-© 2025 Eric Brasil — Todos os direitos reservados.
+© 2026 Eric Brasil — Todos os direitos reservados.
 
 ![](imgs/banner_logos_hist.png)
 
