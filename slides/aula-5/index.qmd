@@ -18,6 +18,12 @@ author:
 toc: false
 ---
 
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula5.png)
+
+---
+
 ## Conquista das ilhas do Caribe (1492–1519) {.center}
 
 - Ouro de aluvião
