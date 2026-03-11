@@ -1,0 +1,75 @@
+---
+title: "História da América: Colonização e Resistência"
+subtitle: "CCLHM0076 - 2026.1"
+author:
+  - name: Eric Brasil
+    email: profericbrasil@unilab.edu.br
+    orcid: 0000-0001-5067-8475
+    affiliation: Instituto de Humanidades e Letras - UNILAB
+date: today
+description: "Plano de Ensino da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2026.1, no curso de Licenciatura em História da UNILAB."
+lang: pt-BR
+date-format: long
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 1
+    documentclass: article
+    geometry:
+      - top=3cm
+      - bottom=3cm
+      - left=3.5cm
+      - right=3.5cm
+    fontsize: 12pt
+    colorlinks: true
+---
+# Título 1
+
+Tabela: 
+
+|   Código      |                   Disciplina                   |  CH | Dia | Horário        | Sala |
+| :-----------: | :--------------------------------------------: | :-: | :-: | :------------: | :--: |
+| CCLHM0076     | História da América: Colonização e Resistência | 60h |  5ª | 8h30-11h30     |  4   |
+
+---
+
+## Título 2
+
+### Título 3
+
+Parágrafo 1
+
+## Título 2
+
+Lista:
+
+- Item 1
+- Item 2
+- Item 3
+
+## Título 2
+
+Lista numerada:
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+---
+::: {.callout-tip}
+Dica...
+:::
+
+::: {.callout-warning}
+Atenção...
+:::
+
+::: {.callout-important}
+Importante...
+:::
+
