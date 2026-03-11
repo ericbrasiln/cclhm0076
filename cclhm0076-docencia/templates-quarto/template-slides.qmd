@@ -1,46 +1,94 @@
 ---
-title: "Título da aula"
-subtitle: "CCLHM0076 — História da América: colonização e resistência"
-date: today
+title: "Aula N: Título da aula"
+date: "AAAA-MM-DD"
 date-format: full
 lang: pt-br
 format:
-  revealjs: 
+  revealjs:
     theme: [default, ../custom.scss]
     slide-number: true
     incremental: false
-    chalkboard: 
+    chalkboard:
       buttons: true
-    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0076"
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0076 — História da América: colonização e resistência"
     logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
 author:
   - name: Eric Brasil
-    email: profericbrasil@gmail.com
     orcid: 0000-0001-5067-8475
-    affiliation: UNILAB 
 toc: false
 ---
 
-
-## {.center}
-
-![Acesse a apresentação](imgs/qrc14.png)
-
----
-
-## Título de slide {.center}
+## Título do slide {.center}
 
 Texto do slide. Pode ser uma lista, um parágrafo ou qualquer conteúdo que queira destacar.
 
-::::notes
-Aqui estão as notas do apresentador. Elas não aparecerão na apresentação, mas podem ser usadas para orientar a fala durante a exposição. Evite colocar muito texto aqui, prefira tópicos ou palavras-chave que ajudem a lembrar os pontos principais a serem abordados.
-::::
+---
+
+## Slide com lista {.center}
+
+- Item 1
+- Item 2
+- Item 3
 
 ---
 
-## {.center}
+## Slide com título e subtítulo {.center}
 
-![Slide apenas com imagem. aqui é a legenda](aqui-o-link-da-imagem.jpg)
+### Subtítulo do slide {.center}
+
+Texto do slide.
+
+---
+
+## Slide apenas com imagem {.center}
+
+![Legenda da imagem](caminho/para/imagem.jpg)
+
+---
+
+## Slide com imagem e tamanho ajustado {.center}
+
+![Legenda da imagem](caminho/para/imagem.jpg){width=80%}
+
+---
+
+## Slide com imagem e link na legenda {.center}
+
+![[Texto do link](https://url-da-fonte.org)](caminho/para/imagem.jpg){width=80%}
+
+---
+
+## Slide com citação {.center}
+
+> "Texto da citação aqui."
+
+SOBRENOME, Nome. *Título da obra*. Local: Editora, ano, p. XX.
+
+---
+
+## Slide com background e conteúdo {background-image="caminho/para/imagem.jpg" background-opacity="0.4" .center}
+
+Texto sobre o background.
+
+---
+
+## {background-image="caminho/para/imagem.jpg" .center}
+
+---
+
+## Slide com iframe interativo {background-iframe="https://url-do-site.com" background-interactive="true"}
+
+::: {style="position: absolute; width: 40%; right: 0; background-color: rgba(255,255,255,0.9); color: black; padding: 20px; font-size: 20px;"}
+Texto de apresentação ou contexto sobre o site exibido no iframe.
+:::
+
+---
+
+## Slide com overlay lateral {background-image="caminho/para/imagem.jpg"}
+
+::: {style="position: absolute; width: 15%; right: 0; background-color: rgba(255,255,255,0.9); padding: 20px; font-size: 20px; text-align: center;"}
+**Rótulo**
+:::
 
 ---
 
@@ -48,49 +96,18 @@ Aqui estão as notas do apresentador. Elas não aparecerão na apresentação, m
 
 ::::columns
 :::column
-Texto da primeira coluna. Pode ser uma lista, um parágrafo ou qualquer conteúdo que queira destacar.
+Texto da primeira coluna.
 :::
 
 :::column
-Texto da segunda coluna. Pode ser uma lista, um parágrafo ou qualquer conteúdo que queira destacar.
+Texto da segunda coluna.
 :::
 ::::
 
 ---
 
-## Slide com título {.center}
-
-### E subtítulo {.center}
-
-Texto do slide. Pode ser uma lista, um parágrafo ou qualquer conteúdo que queira destacar.
-
----
-
-## Título de slide com imagem {.center}
-
-![legenda](link){width=120}
-
-`{width=120}` é opcional, serve para ajustar o tamanho da imagem. Você pode usar `{height=100}` ou ambos `{width=120 height=100}`.
-
----
-
-## Slide com citação {.center}
-
-> Citação aqui. Pode ser um trecho de um texto, uma frase de um autor ou qualquer conteúdo que queira destacar. (Autor, ano)
-
----
-
 ## Bibliografia da aula {.center}
 
----
-
-### Leitura obrigatória {.center}
+- SOBRENOME, Nome. "Título do capítulo". In: **Título da obra**. Local: Editora, ano, pp. XX-XX.
 
 - SOBRENOME, Nome. *Título da obra*. Local: Editora, ano.
-
----
-
-### Leitura complementar {.center}
-
-- SOBRENOME, Nome. *Título da obra*. Local: Editora, ano.
-
