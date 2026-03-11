@@ -18,6 +18,12 @@ author:
 toc: false
 ---
 
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula3.png)
+
+---
+
 ## QUAIS AMÉRICAS? {.center}
 
 ### Apresentação e reflexões sobre a disciplina {.center}
