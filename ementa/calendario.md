@@ -32,7 +32,7 @@ format:
 | Aula | Data       | Módulo | Tema                                                                            | CH | Observação           |
 | ---- | ---------- | ------ | ------------------------------------------------------------------------------- | -- | -------------------- |
 | 1    | 26/02/2026 | I      | Quais Américas? Apresentação e reflexões sobre a disciplina                     | 4  | Presencial           |
-| 2    | 05/03/2026 | I      | Como a Inteligência Artificial Generativa "vê" nossa disciplina                 | 4  | Atividade remota     |
+| 2    | 05/03/2026 | I      | Atividade presencial — Cuba nos Malês!                                          | 4  | Presencial           |
 | 3    | 12/03/2026 | I      | Sociedades autóctones americanas antes do século XVI                            | 4  | Presencial           |
 | 4    | 19/03/2026 | I      | Expansão europeia nos séculos XV e XVI e a chegada na América                   | 4  | Presencial           |
 | 5    | 26/03/2026 | II     | As várias visões da conquista                                                   | 4  | Presencial           |

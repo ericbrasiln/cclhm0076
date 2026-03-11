@@ -42,7 +42,7 @@ format:
 Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas. O ensino de história e historiografia da América na escola básica.
 
 ::: {.callout-tip}
-[Clique aqui para acessar a versão em pdf](http://ericbrasil.com.br/cclhm0076/ementa.pdf)
+[Clique aqui para acessar a versão em pdf](https://ericbrasil.com.br/cclhm0076/ementa/ementa.pdf)
 :::
 
 ::: {.callout-warning}
@@ -55,8 +55,8 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 A avaliação da disciplina será composta por:
 
-* **AT1. Atividade remota assíncrona**: a ser realizada entre **05/03/2026** e **19/03/2026**, com entrega prevista para **19/03/2026**. A atividade consistirá em uma análise crítica sobre o uso de **Inteligência Artificial Generativa** no ensino de História, com foco em suas potencialidades e limitações na construção do conhecimento histórico. **Nota: 2,0 pontos.**
-* **AT2. Leitura e participação**: ao longo do semestre, serão realizados debates de textos e leitura crítica de fontes em sala de aula. As/os estudantes deverão selecionar **um texto da bibliografia** e **uma fonte** para apresentar e debater em sala. **A estratégia será definida coletivamente na primeira aula.** **Nota: 8,0 pontos.**
+* **AT1. Atividade assíncrona**: iniciada na aula de **26/02/2026**, com prazo de entrega até **12/03/2026 (23:59)**. A atividade consiste em debater o conceito de **América Latina / *latinidad*** e a forma como o Brasil é percebido (ou não) nesse campo. Carga horária: 4 horas. Acesse pelo [formulário online](https://forms.gle/YABz9wUbPsPcnBFj9). **Nota: 1,0 ponto.**
+* **AT2. Leitura e participação**: ao longo do semestre, serão realizados debates de textos e leitura crítica de fontes em sala de aula. As/os estudantes deverão selecionar **um texto da bibliografia** e **uma fonte** para apresentar e debater em sala. **A estratégia será definida coletivamente na primeira aula.** **Nota: 9,0 pontos.**
 * **AT3. Prova escrita presencial**: a ser realizada em **23/04/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
 
 A média final da disciplina será calculada com base nas notas das atividades **AT1**, **AT2** e **AT3**, conforme a seguinte fórmula:
@@ -92,22 +92,17 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ### AULA 2 (05/03/2026)
 
-**Tema**: Como a Inteligência Artificial Generativa "vê" nossa disciplina
+**Tema**: Atividade presencial — Cuba nos Malês!
 
-**Modalidade**: Atividade remota assíncrona
+**Modalidade**: Atividade presencial
 
 **Objetivos**
 
-* Refletir sobre o uso de Inteligência Artificial Generativa no ensino de História
-* Analisar as limitações e potencialidades da IA Generativa na construção do conhecimento histórico
+* [EM BREVE]
 
 **Materiais de Apoio**
 
 * [EM BREVE]
-
-::: {.callout-important}
-A atividade será remota com prazo de 2 semanas para entrega.
-:::
 
 ### AULA 3 (12/03/2026)
 
