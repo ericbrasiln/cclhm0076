@@ -148,6 +148,21 @@ Ao trabalhar com textos fornecidos, identificar quando possível:
 O texto produzido deve ser útil para estudo, preparação de aula e debate em sala,
 sem extrapolar o que o autor sustenta.
 
+### Leitura de bibliografia
+
+Para tarefas envolvendo leitura e análise de textos da disciplina, consultar os
+arquivos de referência em `cclhm0076-docencia/leitura-bibliografia/`:
+
+| Arquivo | Quando ler |
+|---|---|
+| `leitura-bibliografia/resenha.md` | Ao produzir resenha ou síntese de texto para uso do docente |
+| `leitura-bibliografia/questoes-apoio.md` | Ao elaborar as 5 questões de leitura guiada para estudantes |
+
+**Pré-requisito para ambos:** o texto deve estar disponível no contexto (PDF
+fornecido ou conteúdo colado). Nunca simular leitura de texto ausente.
+Sempre verificar a aula e o módulo correspondentes em `ementa/ementa.md`
+antes de iniciar qualquer produção.
+
 ### Atividades pedagógicas
 
 Estrutura mínima para toda atividade elaborada:
