@@ -88,7 +88,7 @@ corrido, em prosa, com parágrafos bem delimitados:
 5. **Posição no debate** — com quem dialoga, onde concorda ou diverge
 6. **Relevância para a disciplina** — articulação com a aula e o módulo
 
-**Extensão indicada:** 400–600 palavras.
+**Extensão indicada:** 600–1200 palavras.
 
 ---
 
