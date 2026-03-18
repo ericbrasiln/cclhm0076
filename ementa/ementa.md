@@ -57,7 +57,7 @@ A avaliação da disciplina será composta por:
 
 * **AT1. Atividade assíncrona**: iniciada na aula de **26/02/2026**, com prazo de entrega até **12/03/2026 (23:59)**. A atividade consiste em debater o conceito de **América Latina / *latinidad*** e a forma como o Brasil é percebido (ou não) nesse campo. Carga horária: 4 horas. Acesse pelo [formulário online](https://forms.gle/YABz9wUbPsPcnBFj9). **Nota: 1,0 ponto.**
 * **AT2. Leitura e participação**: ao longo do semestre, serão realizados debates de textos e leitura crítica de fontes em sala de aula. As/os estudantes deverão selecionar **um texto da bibliografia** e **uma fonte** para apresentar e debater em sala. **A estratégia será definida coletivamente na primeira aula.** **Nota: 9,0 pontos.**
-* **AT3. Prova escrita presencial**: a ser realizada em **23/04/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
+* **AT3. Prova escrita presencial**: a ser realizada em **30/04/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
 
 A média final da disciplina será calculada com base nas notas das atividades **AT1**, **AT2** e **AT3**, conforme a seguinte fórmula:
 
@@ -104,9 +104,13 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 * [EM BREVE]
 
-### AULA 3 (12/03/2026)
+::: {.callout-warning}
+**12/03/2026 — Sem aula:** paralisação estudantil.
+:::
 
-**Tema**: Sociedades autóctones americanas antes do século XVI 
+### AULA 3 (19/03/2026)
+
+**Tema**: Sociedades autóctones americanas antes do século XVI
 
 **Objetivos**
 
@@ -119,7 +123,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas.” In: **O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521).** São Paulo: Universidade de São Paulo, 30 set. 2019. pp. 25-54.
 * MURRA, John. “As sociedades andinas anteriores a 1532”. In: **História da América Latina: América Latina Colonial.** BETHEL, Leslie (org.). São Paulo: Edusp, 2004, pp. 63-100.
 
-### AULA 4 (19/03/2026)
+### AULA 4 (26/03/2026)
 
 **Tema**: Expansão europeia nos séculos XV e XVI e a chegada na América
 
@@ -134,7 +138,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
-### AULA 5 (26/03/2026)
+### AULA 5 (02/04/2026)
 
 **Tema**: As várias visões da conquista
 
@@ -148,7 +152,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha. *História Unisinos*. Vol. 18 Nº 2 - 2014.
 * Relatos Astecas da Conquista. Trechos selecionados.
 
-### AULA 6 (02/04/2026)
+### AULA 6 (09/04/2026)
 
 **Tema**: Formação da sociedade colonial espanhola (XVI-XVIII)
 
@@ -163,7 +167,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * RAMINELLI, Ronald. "A monarquia católica e os poderes locais do Novo Mundo." *Simpósio Nacional de História*, XXVI, São Paulo (2011): 1-26.
 * STOLKE, V. O enigma das interseções: classe, "raça", sexo, sexualidade: a formação dos impérios transatlânticos do século XVI ao XIX. *Revista Estudos Feministas*, v. 14, n. 1, p. 15–42, jan. 2006. 
 
-### AULA 7 (09/04/2026)
+### AULA 7 (16/04/2026)
 
 **Tema**: Resistências, negociações e agência indígenas nos séculos XVI e XVII
 
@@ -176,7 +180,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.) **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992, pp. 77-87.
 * MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. Métis: história & cultura, v. 16, n. 31, 11 set. 2017.
 
-### AULA 8 (16/04/2026)
+### AULA 8 (23/04/2026)
 
 **Tema**: Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
 
@@ -189,7 +193,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 * ZAGALSKY, Paula Cecilia. O trabalho mineiro de Potosí nos mundos do trabalho indígena na América colonial hispânica, séculos XVI-XVII; Paco Editorial; 2022; 59-84 
 
-### AULA 9 (23/04/2026)
+### AULA 9 (30/04/2026)
 
 **Prova escrita presencial**
 
@@ -206,7 +210,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 ## Módulo III - Escravidão Africana nas Américas
 
-### AULA 10 (30/04/2026)
+### AULA 10 (07/05/2026)
 
 **Tema**: Tráfico transatlântico de africanos escravizados
 
@@ -219,7 +223,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 * FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). Estudos afro-latino-americanos : uma introdução. Buenos Aires: CLACSO, 2018, p. 47–74. Disponível em: <http://biblioteca.clacso.edu.ar/clacso/se/20181206024023/EstudiosAfro_PT.pdf>. Acesso em: 16 abr. 2019.
 * WILLIAMS, Eric. Origens da escravidão negra. In: Capitalismo e escravidão. São Paulo: Companhia das Letras, 2012.
 
-### AULA 11 (07/05/2026)
+### AULA 11 (14/05/2026)
 
 **Tema**: O Caribe, as colônias na América do Norte e o sistema de plantation
 
@@ -231,7 +235,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
 
-### AULA 12 (14/05/2026)
+### AULA 12 (21/05/2026)
 
 **Tema**: A escravidão nas regiões Andina, Platina e Mexicana
 
@@ -245,7 +249,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 * KLEIN, Herbert S. Los esclavos africanos. In: Historia General de La America Latina: Consolidación del Ordem Colonial. Paris: UNESCO; Editorial Trotta, 2007, v. 3.
 * ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y sus fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
 
-### AULA 13 (21/05/2026)
+### AULA 13 (28/05/2026)
 
 **Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 1
 
@@ -258,7 +262,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * ARANA, Paola Vargas. Balanço historiográfico sobre as insurgências de africanos(as) e afrodescendentes contra a escravidão em América. Anais eletrônicos da XII Jornada de Estudos Históricos Professor Manoel Salgado (2017) PPGHIS-UFRJ, v. 3, p. 657-678, 2017.
 
-### AULA 14 (28/05/2026)
+### AULA 14 (11/06/2026)
 
 **Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 2
 
@@ -273,7 +277,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 ### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
 
-### AULA 15 (11/06/2026)
+### AULA 15 (18/06/2026)
 
 **Tema**: O ensino de história e historiografia da América na escola básica
 
@@ -285,13 +289,4 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 **Materiais de apoio**
 
 * EM BREVE.
-
-### AULA 16 (18/06/2026)
-
-**Tema**: Aula de encerramento e balanço final da disciplina
-
-**Objetivos**
-
-* Realizar um balanço final da disciplina
-* Discutir os principais aprendizados e desafios enfrentados ao longo do semestre
 
