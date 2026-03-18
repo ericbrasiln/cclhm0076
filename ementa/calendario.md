@@ -37,7 +37,7 @@ format:
 | 3    | 19/03/2026 | I      | Sociedades autóctones americanas antes do século XVI                            | 4  | Presencial                    |
 | 4    | 26/03/2026 | I      | Expansão europeia nos séculos XV e XVI e a chegada na América                   | 4  | Presencial                    |
 | 5    | 02/04/2026 | II     | As várias visões da conquista                                                   | 4  | Presencial                    |
-| 6    | 09/04/2026 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                            | 4  | Aula remota (Meet)            |
+| 6    | 09/04/2026 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                            | 4  | Aula remota             |
 | 7    | 16/04/2026 | II     | Resistências, negociações e agência indígenas nos séculos XVI e XVII            | 4  | Presencial                    |
 | 8    | 23/04/2026 | II     | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | 4  | Presencial                    |
 | 9    | 30/04/2026 | II     | Prova escrita presencial                                                        | 4  | Presencial                    |

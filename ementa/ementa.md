@@ -96,13 +96,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 **Modalidade**: Atividade presencial
 
-**Objetivos**
-
-* [EM BREVE]
-
-**Materiais de Apoio**
-
-* [EM BREVE]
+########### 12/03/2026
 
 ::: {.callout-warning}
 **12/03/2026 — Sem aula:** paralisação estudantil.
@@ -118,9 +112,12 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * Analisar a formação socio-histórica da sociedade mexica
 * Entender o debate historiográfico acerca da sociedade mexica
 
-**Leituras**
+**Leitura obrigatória**
 
 * NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas.” In: **O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521).** São Paulo: Universidade de São Paulo, 30 set. 2019. pp. 25-54.
+
+**Leitura complementar**
+
 * MURRA, John. “As sociedades andinas anteriores a 1532”. In: **História da América Latina: América Latina Colonial.** BETHEL, Leslie (org.). São Paulo: Edusp, 2004, pp. 63-100.
 
 ### AULA 4 (26/03/2026)
@@ -132,9 +129,10 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * Analisar os processos de expansão marítima europeia nos séc. XV e XVI
 * Caracterizar a presença portuguesa na costa africana e as ambições espanholas
 
-**Leituras**
+**Leitura obrigatória**
 
-* BOXER, Charles R. *O império marítimo português, 1415-1825*. São Paulo: Companhia das Letras, 2002.
+* BOXER, Charles R. *O império marítimo português, 1415-1825*. São Paulo: Companhia das Letras, 2002. [Capítulos 1 e 2]
+* SCHWARTZ, Stuart B.; LOCKHART, James. A América Latina na época colonial. Rio de Janeiro: Civilização Brasileira, 2002. pp. 21-40
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
@@ -147,22 +145,28 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 * Caracterizar as principais correntes historiográficas acerca da conquista europeia sobre as sociedades mexicas e incas (XVI).
 * Analisar historicamente as relações entre invasores europeus e as variadas sociedades americanas na primeira metade do século XVI.
 
-**Leituras**
+**Leitura obrigatória**
 
 * SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha. *História Unisinos*. Vol. 18 Nº 2 - 2014.
 * Relatos Astecas da Conquista. Trechos selecionados.
+
+**Leitura complementar**
+
+* RESTALL, Matthew. Guerreiros Invisíveis: o mito do conquistador branco. In: **Sete mitos da conquista espanhola**. Rio de Janeiro: José Olympio, 2006.
 
 ### AULA 6 (09/04/2026)
 
 **Tema**: Formação da sociedade colonial espanhola (XVI-XVIII)
 
-**Modalidade**: Aula Remota (Meet)
-
 **Objetivos**
 
 * Compreender o processo de constituição da sociedade colonial espanhola nas Américas entre os séculos XVI e XVIII
 
-**Leituras**
+**Leitura obrigatória**
+
+- CEBALLOS, Rodrigo. À margem do Império: autoridades, negociações e conflitos-Modos de governar na América espanhola (séculos XVI e XVII). *SAECULUM–Revista de História*, 2009. 
+
+**Leitura complementar**
 
 * RAMINELLI, Ronald. "A monarquia católica e os poderes locais do Novo Mundo." *Simpósio Nacional de História*, XXVI, São Paulo (2011): 1-26.
 * STOLKE, V. O enigma das interseções: classe, "raça", sexo, sexualidade: a formação dos impérios transatlânticos do século XVI ao XIX. *Revista Estudos Feministas*, v. 14, n. 1, p. 15–42, jan. 2006. 
