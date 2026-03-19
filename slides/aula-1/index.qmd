@@ -1,5 +1,5 @@
 ---
-title: "Aula 1: Quais Américas? Apresentação e reflexões sobre a disciplina"
+title: "Aula 1: Apresentação e combinados"
 date: "2026-02-26"
 date-format: full
 lang: pt-br
@@ -28,8 +28,6 @@ toc: false
 
 - Apresentar o curso, cronograma e formas de avaliação
 - Estabelecer combinados e rotinas
-- Discutir práticas de ensino relacionadas à história da América
-- Debater conceitos: *índio/indígena* e *América Latina*
 
 ---
 
@@ -62,13 +60,21 @@ toc: false
 - **AT2 — Leitura e participação**: apresentação de um texto da bibliografia e debate de fontes em sala — **9,0 pontos**
 - **AT3 — Prova escrita presencial** *(30/04/2026)*: questões discursivas sobre as aulas 5–8 — **10,0 pontos**
 
+---
+
+## {.center}
+
 $$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
 
 ---
 
-## Cronograma {.center}
+## Site da disciplina {.center}
 
-[https://ericbrasil.com.br/cclhm0076/ementa/calendario](https://ericbrasil.com.br/cclhm0076/ementa/calendario)
+- Página inicial: [https://ericbrasil.com.br/cclhm0076/](https://ericbrasil.com.br/cclhm0076/)
+- Ementa: [https://ericbrasil.com.br/cclhm0076/ementa/ementa](https://ericbrasil.com.br/cclhm0076/ementa/ementa)
+- Cronograma: [https://ericbrasil.com.br/cclhm0076/ementa/calendario](https://ericbrasil.com.br/cclhm0076/ementa/calendario)
+- Lista dos Slides: [https://ericbrasil.com.br/cclhm0076/#slides-das-aulas](https://ericbrasil.com.br/cclhm0076/#slides-das-aulas)
+- Código-fonte: [https://github.com/ericbrasiln/cclhm0076](https://github.com/ericbrasiln/cclhm0076)
 
 ---
 
@@ -122,22 +128,13 @@ $$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
 ## E a tal da Inteligência Artificial? {.center}
 <br>
 
+:::: {.columns}
+::: {.column width="50%"}
+![Vídeo criado com o Veo3 do Google](https://ericbrasil.com.br/cclhm0081/slides/aula-1/videos/ia.gif)
+:::
+::: {.column width="50%"}
 - Pode usar?
 - Bom, eu tô usando aqui, então sim, pode usar.
 - Mas como usar? Vejam esse [material de apoio](https://ericbrasil.com.br/cclhm00114/aulas/aula7)
-
----
-
-## Conceitos em debate {.center}
-
-- O que é a **América**? Quais Américas existem?
-- **Índio / indígena**: história de um conceito
-- **América Latina** e o lugar do Brasil nesse campo
-
----
-
-## Leitura da aula {.center}
-
-> SILVA, K. V.; SILVA, M. H. **Índio**. In: *Dicionário de conceitos históricos*. São Paulo: Contexto, 2009.
-
-[Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf)
+:::
+::::
