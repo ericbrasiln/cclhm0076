@@ -1,0 +1,143 @@
+---
+title: "Aula 1: Quais Américas? Apresentação e reflexões sobre a disciplina"
+date: "2026-02-26"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0076 — História da América: colonização e resistência"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## Acesse os slides da Aula 1 {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula1.png)
+
+---
+
+## Objetivos da aula {.center}
+
+- Apresentar o curso, cronograma e formas de avaliação
+- Estabelecer combinados e rotinas
+- Discutir práticas de ensino relacionadas à história da América
+- Debater conceitos: *índio/indígena* e *América Latina*
+
+---
+
+## Apresentação da disciplina {.center}
+
+- **Disciplina:** História da América: Colonização e Resistência
+- **Código:** CCLHM0076
+- **Professor:** Eric Brasil
+- **Período:** 2026.1
+- **Dia e horário:** Quintas-feiras, 8h30 às 11h30 — Sala 4
+- **Formato:** Presencial com atividades remotas ocasionais
+- **E-mail:** profericbrasil@unilab.edu.br
+
+---
+
+## Sobre a disciplina {.center}
+
+- Formações sociais e políticas nas Américas antes do século XV
+- Invasões, contatos e conquistas nos séculos XV e XVI
+- Formação das sociedades coloniais: desigualdades e diferenças
+- Trabalho, tributo e resistências nas Américas coloniais
+- Escravidão africana e formação das Afro-Américas
+- O ensino de história da América na escola básica
+
+---
+
+## Avaliações {.center}
+
+- **AT1 — Atividade assíncrona** *(entrega: 12/03/2026)*: debate sobre o conceito de América Latina e a percepção do Brasil — **1,0 ponto**
+- **AT2 — Leitura e participação**: apresentação de um texto da bibliografia e debate de fontes em sala — **9,0 pontos**
+- **AT3 — Prova escrita presencial** *(30/04/2026)*: questões discursivas sobre as aulas 5–8 — **10,0 pontos**
+
+$$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
+
+---
+
+## Cronograma {.center}
+
+[https://ericbrasil.com.br/cclhm0076/ementa/calendario](https://ericbrasil.com.br/cclhm0076/ementa/calendario)
+
+---
+
+## Combinado não sai caro! {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](https://media1.tenor.com/m/e8-36w65OA4AAAAd/ed-truck.gif)
+:::
+::: {.column width="50%"}
+- **Horário**: quintas-feiras, iniciando impreterivelmente às 8h30!
+- **Presença obrigatória**: mínimo de 75% para aprovação (chamada será feita)
+:::
+::::
+
+---
+
+## Combinado não sai caro! {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+- **Atividades remotas**: serão anunciadas com antecedência
+- **Material de apoio**: slides e textos disponibilizados no site do curso e no SIGAA
+:::
+::: {.column width="50%"}
+- **Participação**: esperamos que todos participem ativamente das discussões
+- **Respeito, empatia e diálogo são essenciais**
+:::
+::::
+
+---
+
+## E as leituras obrigatórias? São Obrigatórias, ué {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl1c3hwejd6MXJxNzBsbWdwNHFqd3A0cXFqZDY2dTJpZ29kaHZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgY4dDdN1W3NS/giphy.gif)
+
+:::
+::: {.column width="50%"}
+
+- Não tem como fugir: **é um curso de História, e leitura é fundamental**.
+- Mais do que ler por ler, nosso foco é a **leitura crítica e reflexiva**.
+
+:::
+::::
+
+---
+
+## E a tal da Inteligência Artificial? {.center}
+<br>
+
+- Pode usar?
+- Bom, eu tô usando aqui, então sim, pode usar.
+- Mas como usar? Vejam esse [material de apoio](https://ericbrasil.com.br/cclhm00114/aulas/aula7)
+
+---
+
+## Conceitos em debate {.center}
+
+- O que é a **América**? Quais Américas existem?
+- **Índio / indígena**: história de um conceito
+- **América Latina** e o lugar do Brasil nesse campo
+
+---
+
+## Leitura da aula {.center}
+
+> SILVA, K. V.; SILVA, M. H. **Índio**. In: *Dicionário de conceitos históricos*. São Paulo: Contexto, 2009.
+
+[Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf)
