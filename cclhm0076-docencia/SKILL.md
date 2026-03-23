@@ -64,6 +64,7 @@ cclhm0076/                         ← raiz do repositório
 │   ├── imgs/                      ← imagens e QR codes compartilhados
 │   ├── custom.scss
 │   └── slides_old/                ← HTML legado para consulta/conversão
+├── noticias/                          ← avisos para estudantes (AAAA-MM-DD_aulaX.md)
 ├── tarefas/
 ├── index.html
 ├── index.md
@@ -156,12 +157,59 @@ arquivos de referência em `cclhm0076-docencia/leitura-bibliografia/`:
 | Arquivo | Quando ler |
 |---|---|
 | `leitura-bibliografia/resenha.md` | Ao produzir resenha ou síntese de texto para uso do docente |
-| `leitura-bibliografia/questoes-apoio.md` | Ao elaborar as 5 questões de leitura guiada para estudantes |
+| `leitura-bibliografia/questoes-apoio.md` | Ao elaborar questões de leitura guiada para estudantes |
 
 **Pré-requisito para ambos:** o texto deve estar disponível no contexto (PDF
 fornecido ou conteúdo colado). Nunca simular leitura de texto ausente.
 Sempre verificar a aula e o módulo correspondentes em `ementa/ementa.md`
 antes de iniciar qualquer produção.
+
+### Questões de apoio à leitura
+
+Arquivos gerados para cada texto da bibliografia, salvos em `bibliografia/apoio/`.
+
+**Nomenclatura:** `autor_ano_questoes-apoio.md` ou `autor_ano_questoes-PAGINAS.md`
+(ex.: `nardi_questoes_25-54.md`, `boxer_2002_cap1_questoes-apoio.md`)
+
+**Número de questões:** entre 5 e 8. Nunca mais que 8.
+
+**YAML frontmatter:**
+
+```yaml
+---
+title: "Questões de apoio à leitura: Autor (ano)"
+author: "Eric Brasil"
+date: today
+date-format: full
+lang: pt-BR
+---
+```
+
+**Estrutura do corpo:**
+
+```markdown
+**Autor, "Título abreviado", ano, pp. XX–XX**
+Aula N | Tema da aula
+
+---
+
+1. Questão em parágrafo corrido.
+
+2. Questão em parágrafo corrido.
+```
+
+Regras de formatação:
+- Questões numeradas com `1.` simples — sem `**N.**`, sem blocos, sem seções temáticas
+- Cada questão em parágrafo único, sem sub-itens
+- Após gerar o `.md`, o docente renderiza para PDF; commitar ambos os arquivos
+
+**Incluir na ementa** uma seção `**Material de apoio**` logo após as leituras obrigatórias da aula correspondente:
+
+```markdown
+**Material de apoio**
+
+* [Questões de apoio à leitura — Autor (ano)](../bibliografia/apoio/arquivo.pdf): roteiro com N perguntas sobre [...], para orientar a leitura e o debate em sala.
+```
 
 ### Atividades pedagógicas
 
@@ -348,6 +396,53 @@ O corpo do PR deve:
 - Incluir tabela de commits quando houver mais de um
 - Deixar explícito que foi criado pelo Claude Code
 - Encerrar com `🤖 Criado com [Claude Code](https://claude.com/claude-code)`
+- **Não incluir checklists** (`- [ ]`) no corpo do PR
+
+---
+
+## Noticias para estudantes
+
+Arquivos em `noticias/`, com avisos periódicos sobre aulas, leituras e atividades.
+
+**Nomenclatura:** `AAAA-MM-DD_aulaX.md` — ex.: `2026-03-23_aula4.md`
+
+**YAML frontmatter** (mesmo padrão da ementa, com adaptações):
+
+```yaml
+---
+title: "Aviso: Aula N — DD/MM/AAAA"
+subtitle: "CCLHM0076 - 2026.1"
+author:
+  - name: Eric Brasil
+    email: profericbrasil@unilab.edu.br
+    orcid: 0000-0001-5067-8475
+    affiliation: Instituto de Humanidades e Letras - UNILAB
+date: AAAA-MM-DD
+description: "Informações sobre a Aula N — leituras, materiais de apoio e slides."
+lang: pt-BR
+date-format: long
+format:
+  html:
+    toc: false
+    logo: ../imgs/banner_logos_hist.png
+  pdf:
+    toc: false
+    documentclass: article
+    geometry:
+      - top=3cm
+      - bottom=3cm
+      - left=3.5cm
+      - right=3.5cm
+    fontsize: 12pt
+    colorlinks: true
+---
+```
+
+**Rodapé obrigatório** em toda mensagem para estudantes:
+
+```markdown
+*Mensagem escrita com assistência do [Claude Code](https://claude.com/claude-code).*
+```
 
 ---
 
@@ -359,6 +454,14 @@ O corpo do PR deve:
 - **Antes de commitar:** revisar ortografia, gramática e coerência
 - **Preservar:** comentários, metadados e estruturas YAML relevantes já existentes
 - **Voz dos textos:** refletir o docente, não uma redação genérica de assistente
+
+---
+
+## Gitignore — regras do projeto
+
+- `bibliografia/*.pdf` — PDFs dos textos de leitura (direitos autorais); **não rastrear**
+- `bibliografia/apoio/*.pdf` — PDFs das questões de apoio (gerados pelo docente com Quarto); **rastrear normalmente**
+- `*_resenha.md` — rascunhos de resenha; **não rastrear**
 
 ---
 

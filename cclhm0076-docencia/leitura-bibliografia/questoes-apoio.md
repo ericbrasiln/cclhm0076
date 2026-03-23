@@ -16,71 +16,44 @@ conhecimento externo não fornecido aos estudantes.
 
 ---
 
-## Formato fixo — 5 questões
+## Número de questões
 
-Toda lista de questões de apoio segue exatamente esta estrutura:
+Entre **5 e 8 questões**. Nem menos que 5, nem mais que 8.
 
-| Nº | Categoria | Foco |
-|:--:|---|---|
-| 1 | Objetivos e problema | O que o texto busca responder ou demonstrar |
-| 2 | Fontes e metodologia | Como o autor constrói seu argumento |
-| 3 | Argumento central | Qual é a tese e como ela se desenvolve |
-| 4 | Conceitos-chave | Que noções estruturam a análise |
-| 5 | Diálogo com a disciplina | Como o texto se articula com a aula e o módulo |
+O número exato depende da extensão e complexidade do texto. Textos mais longos
+ou com múltiplos tópicos admitem até 8; textos mais curtos ou focados pedem
+entre 5 e 6.
 
 ---
 
-## Diretrizes por questão
+## Dimensões a cobrir
 
-### Questão 1 — Objetivos e problema
+As questões devem, em conjunto, cobrir as seguintes dimensões — sem necessidade
+de ordem fixa nem de uma questão por dimensão:
 
-Deve levar o estudante a identificar:
-- Qual problema histórico ou historiográfico o texto enfrenta
-- Qual é a pergunta central que orienta a análise
-- O que o autor se propõe a demonstrar ou argumentar
+| Dimensão | O que explorar |
+|---|---|
+| **Problema e objetivos** | O que o texto busca responder ou demonstrar |
+| **Fontes e metodologia** | Como o autor constrói o argumento, que fontes usa |
+| **Argumento central** | Qual é a tese e como ela se desenvolve |
+| **Conceitos-chave** | Que noções estruturam a análise e como o autor as usa |
+| **Contexto e recorte** | Período, região, dimensão temática privilegiada |
+| **Diálogo com a disciplina** | Como o texto se articula com a aula e o módulo |
 
-Evitar: perguntas que se respondam com "sim" ou "não".
-Preferir: "Que problema…", "Qual é o objetivo central…", "O que o autor busca…"
+Nem todas as dimensões precisam estar presentes em toda lista. Adaptar às
+especificidades do texto e ao que é mais relevante para o debate em sala.
 
-### Questão 2 — Fontes e metodologia
+---
 
-Deve levar o estudante a identificar:
-- Que tipos de fontes o autor utiliza
-- Como essas fontes são mobilizadas no argumento
-- Que abordagem metodológica orienta a análise
+## Diretrizes gerais
 
-Evitar: perguntas genéricas sobre "método" sem ancoragem no texto.
-Preferir: perguntas que exijam localizar exemplos concretos no texto.
-
-### Questão 3 — Argumento central
-
-Deve levar o estudante a:
-- Formular com suas próprias palavras a tese principal
-- Identificar como o argumento se desenvolve ao longo do texto
-- Distinguir argumento central de argumentos secundários
-
-Evitar: perguntas que aceitem como resposta um trecho copiado.
-Preferir: perguntas que exijam síntese e paráfrase.
-
-### Questão 4 — Conceitos-chave
-
-Deve levar o estudante a:
-- Identificar os conceitos que estruturam a análise
-- Compreender como o autor os define ou os usa
-- Perceber a função desses conceitos no argumento
-
-Evitar: listas de termos sem ancoragem na análise do texto.
-Preferir: perguntas que articulem conceito e argumento.
-
-### Questão 5 — Diálogo com a disciplina
-
-Deve levar o estudante a:
-- Relacionar o texto com o tema da aula em que está inserido
-- Identificar conexões com outros textos ou debates do módulo
-- Refletir sobre a relevância do texto para a compreensão da história das Américas
-
-Esta questão é a mais aberta e exige que o Claude conheça a aula e o módulo
-correspondentes — verificar sempre em `ementa/ementa.md` antes de formulá-la.
+- Questões abertas e discursivas — nunca de múltipla escolha ou verdadeiro/falso
+- Cada questão deve exigir síntese ou paráfrase — evitar as que se respondem
+  com um trecho copiado ou com "sim/não"
+- Linguagem acessível ao nível de graduação em História
+- A última questão pode ser mais aberta, articulando o texto com o tema da aula
+  — verificar sempre em `ementa/ementa.md` antes de formulá-la
+- Não inserir gabarito ou respostas esperadas no documento entregue ao estudante
 
 ---
 
@@ -88,36 +61,52 @@ correspondentes — verificar sempre em `ementa/ementa.md` antes de formulá-la.
 
 1. Ler o texto disponível no contexto
 2. Identificar a aula e o módulo correspondentes em `ementa/ementa.md`
-3. Redigir as 5 questões na ordem da tabela acima
+3. Redigir entre 5 e 8 questões, cobrindo as dimensões relevantes para o texto
 4. Revisar: cada questão deve ser respondível **apenas com o texto fornecido**
 5. Revisar: nenhuma questão deve aceitar "sim/não" como resposta suficiente
-6. Revisar: a questão 5 deve mencionar explicitamente o tema da aula ou do módulo
 
 ---
 
 ## Formato de entrega
 
+**Arquivo:** salvar em `bibliografia/apoio/` com nomenclatura:
+`autor_ano_questoes-apoio.md` ou `autor_ano_questoes-PAGINAS.md`
+
+**YAML frontmatter:**
+
+```yaml
+---
+title: "Questões de apoio à leitura: Autor (ano)"
+author: "Eric Brasil"
+date: today
+date-format: full
+lang: pt-BR
+---
 ```
-**Questões de leitura — [Autor, Título abreviado, Ano]**
-Aula N | [Tema da aula]
 
-1. [Questão sobre objetivos e problema]
+**Corpo do documento:**
 
-2. [Questão sobre fontes e metodologia]
-
-3. [Questão sobre argumento central]
-
-4. [Questão sobre conceitos-chave]
-
-5. [Questão sobre diálogo com a disciplina]
-```
+```markdown
+**Autor, "Título abreviado", ano, pp. XX–XX**
+Aula N | Tema da aula
 
 ---
 
-## Restrições
+1. Questão em parágrafo corrido.
 
-- Exatamente 5 questões — nem mais, nem menos
-- Questões abertas, discursivas — nunca de múltipla escolha ou verdadeiro/falso
-- Linguagem acessível ao nível de graduação em História
-- Não inserir gabarito ou respostas esperadas no documento entregue ao estudante
-- Não formular questões que exijam conhecimento além do texto fornecido
+2. Questão em parágrafo corrido.
+```
+
+Regras de formatação:
+- Questões numeradas com `1.` simples — sem `**N.**`, sem blocos, sem seções temáticas
+- Cada questão em parágrafo único, sem sub-itens
+- Após gerar o `.md`, o docente renderiza para PDF; commitar ambos os arquivos
+
+**Incluir na ementa** uma seção `**Material de apoio**` logo após as leituras
+obrigatórias da aula correspondente:
+
+```markdown
+**Material de apoio**
+
+* [Questões de apoio à leitura — Autor (ano)](../bibliografia/apoio/arquivo.pdf): roteiro com N perguntas sobre [...], para orientar a leitura e o debate em sala.
+```
