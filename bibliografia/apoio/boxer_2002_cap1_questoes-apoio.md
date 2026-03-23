@@ -1,13 +1,13 @@
 ---
-title: "Questões de apoio à leitura: Boxer (2002) — Prólogo e Cap. 1"
+title: "Questões de apoio à leitura: Boxer (2002)"
 author: "Eric Brasil"
-date: "2026-03-12"
+date: today
+date-format: full
 lang: pt-BR
 ---
 
-# Questões de leitura
-
 **Boxer, *O império marítimo português*, Prólogo e Cap. 1, 2002**
+
 Aula 4 | Expansão europeia nos séculos XV e XVI e a chegada na América
 
 ---
@@ -20,4 +20,4 @@ Aula 4 | Expansão europeia nos séculos XV e XVI e a chegada na América
 
 4. Boxer utiliza os conceitos de *lançados* e *tangos-maos* para descrever um tipo específico de agente histórico na costa africana. O que esses termos designam e que função esses intermediários desempenhavam nas relações entre portugueses e populações africanas? Como a Coroa portuguesa reagia à sua existência?
 
-5. Boxer abre o Capítulo 1 com a observação de que os portugueses e os espanhóis foram co-pioneiros da expansão atlântica, e fecha com a carta de dom Manuel a Fernando e Isabel anunciando o retorno de Vasco da Gama — episódio situado apenas seis anos após a viagem de Colombo. De que forma o texto permite compreender a expansão ibérica como um processo compartilhado e concorrente, e não como trajetórias isoladas? Que elementos — a Reconquista como herança comum, as bulas papais, a rivalidade pelo Atlântico, a busca de especiarias e de aliados cristãos — articulam a expansão portuguesa à espanhola e criam o quadro histórico para a chegada dos ibéricos nas Américas, tema da Aula 4 e do Módulo I da disciplina?
+5. Boxer abre o Capítulo 1 com a observação de que os portugueses e os espanhóis foram co-pioneiros da expansão atlântica, e fecha com a carta de dom Manuel a Fernando e Isabel anunciando o retorno de Vasco da Gama — episódio situado apenas seis anos após a viagem de Colombo. De que forma o texto permite compreender a expansão ibérica como um processo compartilhado e concorrente, e não como trajetórias isoladas? Que elementos articulam a expansão portuguesa à espanhola e criam o quadro histórico para a chegada dos ibéricos nas Américas, tema da Aula 4 e do Módulo I da disciplina?
