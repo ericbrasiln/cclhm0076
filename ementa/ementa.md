@@ -90,6 +90,16 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 * SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009. [Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf).
 
+**Atividade assíncrona (AT1)**
+
+::: {.callout-important}
+Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga horária: 4 horas. Valor: **1,0 ponto**.
+
+**Tema:** Debatendo o conceito de América Latina / *latinidad* e a forma como o Brasil é percebido (ou não) nesse campo.
+
+[Acesse o formulário aqui](https://forms.gle/YABz9wUbPsPcnBFj9)
+:::
+
 ### AULA 2 (05/03/2026)
 
 **Tema**: Atividade presencial — Cuba nos Malês!
@@ -109,12 +119,15 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 **Objetivos**
 
 * Caracterizar a ocupação e a história do Caribe antes do século XV
-* Analisar a formação socio-histórica da sociedade mexica
-* Entender o debate historiográfico acerca da sociedade mexica
+* Introduzir o debate sobre as sociedades autóctones mesoamericanas
 
 **Leitura obrigatória**
 
 * NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas.” In: **O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521).** São Paulo: Universidade de São Paulo, 30 set. 2019. pp. 25-54.
+
+**Material de apoio**
+
+* [Questões de apoio à leitura — Nardi (2019)](../bibliografia/apoio/nardi_questoes_25-54.pdf): roteiro com 7 perguntas sobre os conceitos e contextos do capítulo, para orientar a leitura e o debate em sala.
 
 **Leitura complementar**
 
@@ -122,17 +135,28 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ### AULA 4 (26/03/2026)
 
-**Tema**: Expansão europeia nos séculos XV e XVI e a chegada na América
+**Tema**: Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI
 
 **Objetivos**
 
+* Analisar a formação socio-histórica da sociedade mexica
+* Entender o debate historiográfico acerca da sociedade mexica
 * Analisar os processos de expansão marítima europeia nos séc. XV e XVI
 * Caracterizar a presença portuguesa na costa africana e as ambições espanholas
 
 **Leitura obrigatória**
 
-* BOXER, Charles R. *O império marítimo português, 1415-1825*. São Paulo: Companhia das Letras, 2002. [Capítulos 1 e 2]
-* SCHWARTZ, Stuart B.; LOCKHART, James. A América Latina na época colonial. Rio de Janeiro: Civilização Brasileira, 2002. pp. 21-40
+* NARDI, Tawnne T. de A. "Mesoamérica, Mexicas e Tlapanecas." In: **O império mexica e a província de Tlapa. Relações políticas e tributárias nos códices mesoamericanos (1461-1521).** São Paulo: Universidade de São Paulo, 30 set. 2019. pp. 25-54. *(debate/conclusão)*
+* BOXER, Charles R. *O império marítimo português, 1415-1825*. São Paulo: Companhia das Letras, 2002. [Capítulo 1]
+
+**Material de apoio**
+
+* [Questões de apoio à leitura — Nardi (2019)](../bibliografia/apoio/nardi_questoes_25-54.pdf): roteiro com 7 perguntas sobre os conceitos e contextos do capítulo, para orientar a leitura e o debate em sala.
+* [Questões de apoio à leitura — Boxer (2002)](../bibliografia/apoio/boxer_2002_cap1_questoes-apoio.pdf): roteiro com 5 perguntas sobre o Prólogo e o Capítulo 1, para orientar a leitura e o debate em sala.
+
+**Leitura complementar**
+
+* SCHWARTZ, Stuart B.; LOCKHART, James. *A América Latina na época colonial*. Rio de Janeiro: Civilização Brasileira, 2002. pp. 21-40
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
