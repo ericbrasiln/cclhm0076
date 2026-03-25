@@ -45,22 +45,21 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 
 | Aula | Data | Tema | Link |
 |---|---|---|---|
-| 1 | 26/02/2026 | Quais Américas? Apresentação e reflexões sobre a disciplina | — |
+| 1 | 26/02/2026 | Quais Américas? Apresentação e reflexões sobre a disciplina | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-1/) |
 | 2 | 05/03/2026 | Atividade presencial — Cuba nos Malês! | — |
-| 3 | 12/03/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
-| 4 | 19/03/2026 | Expansão europeia nos séculos XV e XVI | — |
-| 5 | 26/03/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
-| 6 | 02/04/2026 | Formação da sociedade colonial espanhola *(remota)* | — |
-| 7 | 09/04/2026 | Resistências, negociações e agência indígenas (XVI–XVII) | — |
-| 8 | 16/04/2026 | Trabalho e tributo colonial | — |
-| 9 | 23/04/2026 | **Prova escrita presencial** | — |
-| 10 | 30/04/2026 | Tráfico transatlântico de africanos escravizados | — |
-| 11 | 07/05/2026 | O Caribe, as colônias na América do Norte e o plantation | — |
-| 12 | 14/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
-| 13 | 21/05/2026 | Lutas contra o cativeiro — parte 1 | — |
-| 14 | 28/05/2026 | Lutas contra o cativeiro — parte 2 | — |
-| 15 | 11/06/2026 | O ensino de história da América na escola básica | — |
-| 16 | 18/06/2026 | Aula de encerramento e balanço final | — |
+| 3 | 19/03/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
+| 4 | 26/03/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
+| 5 | 02/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
+| 6 | 09/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) *(remota)* | — |
+| 7 | 16/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | — |
+| 8 | 23/04/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | — |
+| 9 | 30/04/2026 | **Prova escrita presencial** | — |
+| 10 | 07/05/2026 | Tráfico transatlântico de africanos escravizados | — |
+| 11 | 14/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
+| 12 | 21/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
+| 13 | 28/05/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | — |
+| 14 | 11/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
+| 15 | 18/06/2026 | O ensino de história e historiografia da América na escola básica | — |
 
 ## Contato
 

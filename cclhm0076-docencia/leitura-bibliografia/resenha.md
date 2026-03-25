@@ -78,8 +78,7 @@ Após a leitura, avaliar:
 
 ## Estrutura da resenha
 
-Produzir a resenha na seguinte ordem, sem títulos de seção visíveis — texto
-corrido, em prosa, com parágrafos bem delimitados:
+Produzir a resenha na seguinte ordem:
 
 1. **Referência completa** (ABNT) — antes do texto, em destaque
 2. **Apresentação** — autor, texto, inserção historiográfica (2–3 frases)
@@ -87,8 +86,21 @@ corrido, em prosa, com parágrafos bem delimitados:
 4. **Desenvolvimento** — argumentos parciais, conceitos e fontes mobilizadas
 5. **Posição no debate** — com quem dialoga, onde concorda ou diverge
 6. **Relevância para a disciplina** — articulação com a aula e o módulo
+7. **Questões de apoio** — respostas às questões do arquivo `*_questoes-apoio.md` correspondente ao texto, quando disponível
 
-**Extensão indicada:** 600–1200 palavras.
+**Formato:** predominantemente em prosa, com parágrafos bem delimitados. Tópicos
+e listas podem ser usados para organizar conceitos, glossários ou respostas às
+questões de apoio quando isso facilitar a leitura.
+
+**Extensão:** varia conforme o texto. Textos curtos (artigos, capítulos de até
+30 páginas) tendem a gerar resenhas mais curtas; textos mais longos ou densos
+conceptualmente justificam resenhas mais extensas. Não há limite fixo — a
+extensão deve ser proporcional à complexidade e ao volume do texto lido.
+
+**Questões de apoio:** antes de iniciar a redação, verificar se existe um
+arquivo `*_questoes-apoio.md` correspondente ao texto em `bibliografia/apoio/`.
+Se existir, incluir uma seção final "Questões de apoio" respondendo cada
+questão com base estrita no texto lido.
 
 ---
 
