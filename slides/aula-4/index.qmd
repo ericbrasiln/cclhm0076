@@ -39,7 +39,7 @@ toc: false
 
 ## {.center}  
 
-![Genoese World Map. [New York: Hispanic Society of America, 1912] Map. https://www.loc.gov/item/97690053/.](https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct002087/full/pct:25/0/default.jpg)
+![Genoese World Map. [New York: Hispanic Society of America, 1912] Map. https://www.loc.gov/item/97690053/.](../imgs/genoese.jpg)
 
 ---
 
