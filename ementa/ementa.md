@@ -174,6 +174,10 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 * SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha. *História Unisinos*. Vol. 18 Nº 2 - 2014.
 * Relatos Astecas da Conquista. Trechos selecionados.
 
+**Material de apoio**
+
+* [Questões de apoio à leitura — Santos (2014)](../bibliografia/apoio/santos_2014_questoes-apoio.pdf): roteiro com 5 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
+
 **Leitura complementar**
 
 * RESTALL, Matthew. Guerreiros Invisíveis: o mito do conquistador branco. In: **Sete mitos da conquista espanhola**. Rio de Janeiro: José Olympio, 2006.
