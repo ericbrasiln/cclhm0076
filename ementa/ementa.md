@@ -57,7 +57,7 @@ A avaliação da disciplina será composta por:
 
 * **AT1. Atividade assíncrona**: iniciada na aula de **26/02/2026**, com prazo de entrega até **12/03/2026 (23:59)**. A atividade consiste em debater o conceito de **América Latina / *latinidad*** e a forma como o Brasil é percebido (ou não) nesse campo. Carga horária: 4 horas. Acesse pelo [formulário online](https://forms.gle/YABz9wUbPsPcnBFj9). **Nota: 1,0 ponto.**
 * **AT2. Leitura e participação**: ao longo do semestre, serão realizados debates de textos e leitura crítica de fontes em sala de aula. As/os estudantes deverão selecionar **um texto da bibliografia** e **uma fonte** para apresentar e debater em sala. **A estratégia será definida coletivamente na primeira aula.** **Nota: 9,0 pontos.**
-* **AT3. Prova escrita presencial**: a ser realizada em **07/05/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
+* **AT3. Prova escrita presencial**: a ser realizada em **30/04/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
 
 A média final da disciplina será calculada com base nas notas das atividades **AT1**, **AT2** e **AT3**, conforme a seguinte fórmula:
 
@@ -220,19 +220,6 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 
 ### AULA 8 (30/04/2026)
 
-**Tema**: Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
-
-**Objetivos**
-
-* Analisar as formas de trabalho e tributo nas sociedades coloniais espanholas
-* Compreender os impactos do trabalho e tributo na ordem social das sociedades autóctones
-
-**Leituras**
-
-* ZAGALSKY, Paula Cecilia. O trabalho mineiro de Potosí nos mundos do trabalho indígena na América colonial hispânica, séculos XVI-XVII; Paco Editorial; 2022; 59-84 
-
-### AULA 9 (07/05/2026)
-
 **Prova escrita presencial**
 
 **Temas**
@@ -245,6 +232,19 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 ::: {.callout-important}
 A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve escolher apenas **DUAS** das 3 questões para responder. A prova terá duração de 2 horas e será realizada no formato presencial, na sala de aula. O conteúdo da prova abrangerá os temas discutidos nas aulas 5 a 8, conforme descrito acima.
 :::
+
+### AULA 9 (07/05/2026)
+
+**Tema**: Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
+
+**Objetivos**
+
+* Analisar as formas de trabalho e tributo nas sociedades coloniais espanholas
+* Compreender os impactos do trabalho e tributo na ordem social das sociedades autóctones
+
+**Leituras**
+
+* ZAGALSKY, Paula Cecilia. O trabalho mineiro de Potosí nos mundos do trabalho indígena na América colonial hispânica, séculos XVI-XVII; Paco Editorial; 2022; 59-84
 
 ## Módulo III - Escravidão Africana nas Américas
 

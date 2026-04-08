@@ -40,8 +40,8 @@ format:
 | 5    | 09/04/2026 | II     | As várias visões da conquista                                                   | 4  | Presencial                    |
 | 6    | 16/04/2026 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                            | 4  | Aula remota                   |
 | 7    | 23/04/2026 | II     | Resistências, negociações e agência indígenas nos séculos XVI e XVII            | 4  | Presencial                    |
-| 8    | 30/04/2026 | II     | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | 4  | Presencial                    |
-| 9    | 07/05/2026 | II     | Prova escrita presencial                                                        | 4  | Presencial                    |
+| 8    | 30/04/2026 | II     | Prova escrita presencial                                                        | 4  | Presencial                    |
+| 9    | 07/05/2026 | II     | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | 4  | Presencial                    |
 | 10   | 14/05/2026 | III    | Tráfico transatlântico de africanos escravizados: história e historiografia     | 4  | Presencial                    |
 | 11   | 21/05/2026 | III    | O Caribe, as colônias na América do Norte e o sistema de plantation             | 4  | Presencial                    |
 | 12   | 28/05/2026 | III    | A escravidão nas regiões Andina, Platina e Mexicana                             | 4  | Presencial                    |
