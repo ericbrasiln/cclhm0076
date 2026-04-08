@@ -49,17 +49,16 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 | 2 | 05/03/2026 | Atividade presencial — Cuba nos Malês! | — |
 | 3 | 19/03/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
 | 4 | 26/03/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
-| 5 | 02/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
-| 6 | 09/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) *(remota)* | — |
-| 7 | 16/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | — |
-| 8 | 23/04/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | — |
-| 9 | 30/04/2026 | **Prova escrita presencial** | — |
-| 10 | 07/05/2026 | Tráfico transatlântico de africanos escravizados | — |
-| 11 | 14/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
-| 12 | 21/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
-| 13 | 28/05/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | — |
-| 14 | 11/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
-| 15 | 18/06/2026 | O ensino de história e historiografia da América na escola básica | — |
+| 5 | 09/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
+| 6 | 16/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) *(remota)* | — |
+| 7 | 23/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | — |
+| 8 | 30/04/2026 | **Prova escrita presencial** | — |
+| 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | — |
+| 10 | 14/05/2026 | Tráfico transatlântico de africanos escravizados | — |
+| 11 | 21/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
+| 12 | 28/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
+| 13 | 11/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | — |
+| 14 | 18/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
 
 ## Contato
 
