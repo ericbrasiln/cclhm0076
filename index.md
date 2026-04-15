@@ -50,7 +50,7 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 | 3 | 19/03/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
 | 4 | 26/03/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
 | 5 | 09/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
-| 6 | 16/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) *(remota)* | — |
+| 6 | 16/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-6/) |
 | 7 | 23/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | — |
 | 8 | 30/04/2026 | **Prova escrita presencial** | — |
 | 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | — |

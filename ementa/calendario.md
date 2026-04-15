@@ -38,7 +38,7 @@ format:
 | 4    | 26/03/2026 | I      | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI           | 4  | Presencial                    |
 | —    | 02/04/2026 | —      | —                                                                               | —  | Recesso decretado pela Reitoria |
 | 5    | 09/04/2026 | II     | As várias visões da conquista                                                   | 4  | Presencial                    |
-| 6    | 16/04/2026 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                            | 4  | Aula remota                   |
+| 6    | 16/04/2026 | II     | Formação da sociedade colonial espanhola (XVI-XVIII)                            | 4  | Presencial                    |
 | 7    | 23/04/2026 | II     | Resistências, negociações e agência indígenas nos séculos XVI e XVII            | 4  | Presencial                    |
 | 8    | 30/04/2026 | II     | Prova escrita presencial                                                        | 4  | Presencial                    |
 | 9    | 07/05/2026 | II     | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | 4  | Presencial                    |
