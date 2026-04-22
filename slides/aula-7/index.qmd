@@ -1,0 +1,168 @@
+---
+title: "Aula 7: Resistências, negociações e agência indígenas (XVI-XVII)"
+date: "2026-04-23"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0076 — História da América: colonização e resistência"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula7.png)
+
+---
+
+## Resistências, negociações e agência indígenas {.center}
+
+- Os povos indígenas foram apenas vítimas passivas da Conquista?
+- Que formas assumiu a agência histórica das sociedades americanas nos séculos XVI e XVII?
+- Como os historiadores vêm interpretando essas formas de resistência?
+
+---
+
+## Afinal, o que é Resistir? {.center}
+
+- Luta armada?
+- Organização coletiva?
+- Assassinatos, fugas, suicídio?
+- E os gestos cotidianos, os silêncios, as simulações?
+
+---
+
+# Debate historiográfico {.center}
+
+---
+
+## **Aculturação X Resistência (1970-80): Nathan Wachtel** {.center}
+
+- Chaves interpretativas para pensar as formas pelas quais as populações indígenas interagiam com a sociedade envolvente
+- Reconstrução das sociedades nativas assumiu diversas formas: resistência, mestiçagem ou algum grau de aculturação
+
+---
+
+## **Aculturação X Resistência (1970-80): Nathan Wachtel** {.center}
+
+  - **Aculturação**: populações no interior da sociedade colonial; integração; "perda" da cultura
+  - **Resistência**: índios que habitavam as margens dos impérios — lutar para preservar seus "valores tradicionais"
+
+---
+
+## **História Cultural: adaptação, criatividade, hibridismo (1980-90): Serge Gruzinski** {.center}
+
+- No vale do México, em meio à destruição material e cultural, os índios tiveram que realizar uma readaptação completa de suas antigas práticas
+- Praticavam antigos cultos em segredo; aprenderam mecanismos jurídicos dos espanhóis para defender as terras de suas aldeias
+
+---
+
+## **História Cultural: adaptação, criatividade, hibridismo (1980-90): Serge Gruzinski** {.center}
+
+- Antigos chefes indígenas aprenderam o idioma do conquistador e aderiram à nova ordem política para preservar antigos privilégios
+- O Novo Mundo dos índios foi um mundo de violência extrema e aniquilação, **mas também** de mestiçagens e adaptações frente aos imperativos da conquista
+
+---
+
+## **Etnohistória (1990-2000): novas abordagens teórico-metodológicas** {.center}
+
+- **Etnia**: mais do que identidade imemorial, é considerada fruto do próprio processo de colonização — ações e escolhas dos próprios índios dentro de um contexto histórico específico
+
+---
+
+## **Etnohistória (1990-2000): novas abordagens teórico-metodológicas** {.center}
+
+- **Mestiçagem**: mais do que fenômeno biológico ou cultural, uma dimensão da vida social — estratégia de sobrevivência e marca da sociedade colonial e de suas ressignificações materiais e simbólicas
+- Interação entre as histórias de índios e colonizadores, **sem silenciar as desigualdades e violências**
+
+---
+
+## BRUIT (1992) {.center}
+
+**"O visível e o invisível na Conquista hispânica da América"**
+
+*In:* VAINFAS, Ronaldo (org.). **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992.
+
+---
+
+## Bruit (1992): a resistência invisível {.center}
+
+- **Visível e Invisível!**
+- Índios como agentes históricos
+- "Resistência não-militar":
+  - Silêncio
+  - Teimosia e tenacidade
+  - Mentira
+  - Bebedeira
+  - Domínio da língua
+
+---
+
+## {.center}
+
+> "Ora, enfrentamos aqui uma situação paradoxal, pois mesmo derrotados, submetidos e explorados, os índios desenvolveram, ao mesmo tempo, práticas e comportamentos que tornaram o processo da conquista instável e o frustraram em seus objetivos, fazendo com que a nova sociedade mergulhasse numa crise permanente a partir de seus próprios fundamentos. A nova sociedade nascia desequilibrada, corroída em seus alicerces, e por isso mesmo afogada numa crise do mesmo modo sub-reptícia."
+
+(BRUIT, 1992, p. 79)
+
+---
+
+## {.center}
+
+> "Mas regressemos à resistência. O surpreendente na história da conquista, apesar da destruição e o genocídio, é que os índios sobreviveram física e culturalmente, e sua presença, de algum modo marcante em quase todas as sociedades do continente, é um fato em face do qual não se pode fechar os olhos. (...)
+
+---
+
+## {.center}
+
+>Essa sobrevivência não desmente o massacre nem dá razão aos conquistadores. Em nossa opinião, esse fato, que constitui uma das maiores façanhas da humanidade, permite colocar o significado da conquista por seu reverso e fundamenta nossa tentativa de traduzir o seu lado oculto."
+
+(BRUIT, 1992, p. 80)
+
+---
+
+## Las Casas e a simulação dos índios {.center}
+
+- Indígenas mentiam para defender e confundir
+- Simulavam ingenuidade, obediência e passividade
+- Rancor pela destruição e pelo genocídio
+- A simulação como arma: "fingir que crêem e que abraçam a fé cristã"
+
+---
+
+## O fracasso da evangelização {.center}
+
+> "Desta maneira, eles cantam quando querem, e se embebedam quando querem, e fazem suas festas como querem, e cantam os cantares antigos que usavam em tempos de sua idolatria, não todos, mas muitos, e ninguém entende o que dizem porque seus cantares são muito fechados. (...)
+
+---
+
+## O fracasso da evangelização {.center}
+
+>E se alguns cantares foram feitos após sua conversão e tratam das coisas de Deus e de seus santos, estão envolvidos em muitos erros e heresias, e ainda suas danças contêm muitas superstições antigas e ritos idolátricos, especialmente onde não residem quem os entenda."
+
+Sahagun, citado por BRUIT (1992, p. 94)
+
+---
+
+## Para a discussão {.center}
+
+As leituras de **Bruit (1992)** e **Martins (2017)** propõem uma questão central:
+
+> Se toda a documentação da conquista foi produzida pelos vencedores, como podemos fazer a história dos vencidos — e reconhecer sua agência histórica?
+
+Vamos debater a partir dos textos.
+
+---
+
+## Bibliografia da aula {.center}
+
+- BRUIT, Héctor H. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.). **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992, pp. 77-99.
+- MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. **Métis: história & cultura**, v. 16, n. 31, 11 set. 2017, pp. 245-274.
