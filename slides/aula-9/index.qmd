@@ -1,0 +1,231 @@
+---
+title: "Aula 9: Trabalho e tributo colonial — impactos na ordem social"
+date: "2026-05-07"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0076 — História da América: colonização e resistência"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula9.png)
+
+---
+
+## Trabalho e tributo colonial {.center}
+
+- Como as sociedades coloniais espanholas organizaram o trabalho e o tributo?
+- Que formas de trabalho compulsório e voluntário coexistiram?
+- Que impactos essas formas produziram na ordem social das sociedades autóctones?
+
+---
+
+# Formas de trabalho e tributo na América colonial hispânica {.center}
+
+---
+
+## A encomienda {.center}
+
+- Concessão real a colonos espanhóis (**encomenderos**) do direito de exigir tributo e trabalho de comunidades indígenas
+- Origem: repartimientos concessivos das Antilhas (desde 1490s)
+- O encomendero devia proteção militar e catequese em troca de trabalho e tributo
+
+---
+
+## A encomienda {.center}
+
+- Controvérsia sobre a perpetuidade: debate entre encomenderos e a Coroa
+- **Bartolomé de las Casas** e a defesa dos direitos indígenas
+- **Leis Novas de 1542**: proibição de novas encomiendas hereditárias
+- A disputa entre o poder encomendero e o poder real marcou o século XVI
+
+---
+
+## Formas de trabalho indígena {.center}
+
+- **Indios de encomienda**: tributo e trabalho sob controle do encomendero
+- **Yanaconas**: indígenas desligados de suas comunidades de origem, serviam a amos particulares ou à Coroa
+- **Indígenas escravizados** ("piezas"): especialmente nas primeiras décadas coloniais
+- **Mita**: sistema de recrutamento forzado de trabalhadores por turno
+- **Mingas**: trabalhadores assalariados voluntários
+
+---
+
+## O tributo indígena {.center}
+
+- Obrigatoriedade do pagamento em espécie ou dinheiro a partir da consolidação colonial
+- A quase total monetização do tributo pelo Vice-rei Toledo (década de 1570)
+- Responsabilidade do pagamento recaía sobre as autoridades indígenas (caciques)
+- O tributo monetário favorecia a participação indígena nas relações mercantis — de forma crescentemente coactiva
+
+---
+
+## Reduções e controle {.center}
+
+- **Redução de indios a pueblos**: política de concentração populations de acordo com parâmetros europeus
+- Trastocou o antigo padrão de povoamento disperso andino
+- Objetivo: maior controle político, fiscal e religioso
+- Resultados variáveis segundo a região e a resistência local
+
+---
+
+## Mita de Potosí: caso paradigmático {.center}
+
+- Cerro Rico de Potosí (atual Bolívia): maior centro produtor de prata do mundo nos séculos XVI-XVII
+- A partir de 1573: sistema mitayo estabelecido pelo Vice-rei Toledo
+- Combinava trabalho forçado (mita) e trabalho assalariado voluntário (minga)
+- Proporção no início do século XVII: ~70% voluntário e ~30% compulsório
+
+---
+
+# O caso de Potosí: práticas laborais além das normas {.center}
+
+---
+
+## Zagalsky (2014): argumento central {.center}
+
+> O artigo propõe rastrear os vestígios documentais das **práticas laborais cotidianas** dos trabalhadores indígenas mineiros em Potosí, que nem sempre estiveram em consonância com as normativas coloniais.
+
+(ZAGALSKY, 2014, p. 55)
+
+---
+
+## Potosí no contexto continental {.center}
+
+- Entre 1550 e 1800, domínios de Portugal e Espanha produziram mais de 80% da prata e 70% do ouro mundiais
+- Potosí concentrou mais de 90% da produção total de prata peruana durante seu apogeu
+- Dois ciclos de auge: 1570-1630 (liderado pelo Vice-reinado do Peru) e 1770-1800 (liderado pelo México)
+
+---
+
+## A etapa da huayra (1545-1573) {.center}
+
+- Organização da produção sob **controle indígena**
+- Processamento em fornos de fundição (huayrachinas) nas encostas do cerro
+- Yanaconas controlavam os meios de produção e as fases produtivas
+- Encomenderos enviavam contingentes privados de tributários
+
+---
+
+## A etapa do azogue (a partir de ~1573) {.center}
+
+- Vice-rei Toledo introduziu a **amalgama com mercúrio** (azogue)
+- Quase total concentração dos meios de produção em mãos espanholas
+- Ampliação excepcional da escala produtiva
+- Consolidação do sistema mitayo
+
+---
+
+## A mita potosina: estrutura {.center}
+
+- Migração forçada de indígenas tributários (18-50 anos) de 16 corregimientos das terras altas
+- Porcentagens variadas: Charcas (17%), La Paz (16%), Cuzco (15%), Canas y Canches (13%)
+- Sistema por tercios: 1/3 em turno semanal (mita ordinária), 2/3 teoricamente em descanso
+- Os mitayos migravam com mulheres, filhos e parte de seus recursos
+
+---
+
+## Jornal e custo conmutativo {.center}
+
+- Jornal mitayo teórico, mas pago de forma incompleta ou atrasada
+- Início do séc. XVII: salário semanal de **barretero mitayo = 3 pesos** vs. **barretero minga = 10 pesos**
+- O custo conmutativo (pagar um substituto) recaía coletivamente sobre as comunidades
+- Um ano de mita podia custar ~250 pesos ao mitayo entre conmuta, tributos e despesas
+
+---
+
+## Práticas laborais: ritmos de trabalho {.center}
+
+- A jornada "de sol a sol" era norma teórica, mas a prática era outra:
+
+> "su trabajo de ellos es un rato y descansar otro en las ocupaciones que lo admiten, principalmente en las minas donde el día y la noche son una misma cosa (...) trabajan cuando les parece y duermen o descansan cuando les está más a cuento"
+
+(GARCÍA DE LLANOS, apud ZAGALSKY, 2014, p. 75)
+
+---
+
+## Práticas laborais: companhas {.center}
+
+- Trabalho em **compañías**: dois barreteros revezavam-se com a mesma barreta
+- O peso das ferramentas (25-30 libras) impunha um ritmo de alternância
+- Impossível fiscalizar a jornada contínua no interior das minas
+- Os ritmos de trabalho estavam, na prática, **sob controle indígena**
+
+---
+
+## Práticas laborais: tarefas e cuotas {.center}
+
+- Ordenanzas proibiam cuotas de produtividade — mas eram impostas na prática
+- Controle semanal do mineral extraído: quartas, sextas e sábados
+- Pagamentos subordinados à quantidade de mineral, não aos dias trabalhados
+- Castigos físicos e multas como mecanismos de disciplinamento
+
+---
+
+## Conmuta e especialização {.center}
+
+- Prática conmutativa generalizada a partir da década de 1590
+- Mitayos pouco especializados pagavam mingas especializadas para cumprir seu turno
+- Os mitayos **subsidiavam os custos de produção** dos donos de minas
+- Barreteros experientes evitavam transmitir saberes para manter sua condição de imprescindíveis
+
+---
+
+## A rotação que impede a especialização {.center}
+
+> "el que este año se ocupa en labrar las minas, el que viene en ser labrador y el siguiente en trajinar, y el otro en ser pastor (...) y vuelve otra vez a la labor de las minas, y el miserable anda siempre en esta rueda, de que resulta que nada haga con perfección"
+
+(ESTEBAN DE LARTAUN, 1615, apud ZAGALSKY, 2014, p. 79)
+
+---
+
+## Castigos, agravios e mortalidade {.center}
+
+- O "entero" semanal: momento de tensão, reclamações e violência entre mineros, capitanes e indígenas
+- Castigos físicos sistemáticos nas canchas (quartas, sextas e sábados)
+- Em uma labor de 50 indígenas, 8 a 12 eram açoitados por semana
+- Huidas, suicídios e mortes por "tristeza o melancolía" registradas nas fontes
+
+---
+
+## O mundo laboral para além da opressão {.center}
+
+- Zagalsky argumenta contra uma leitura apenas maniqueísta:
+- O sistema perdurou por séculos — como se reproduziu?
+- García de Llanos: sem negar a opressão, visibiliza os **margens de autonomia** dos trabalhadores
+- Ritmos próprios, trabalho em compañías, controle indígena sobre o tempo dentro das minas
+
+---
+
+## Síntese {.center}
+
+- A legislação colonial (ordenas virreinais, cédulas reais) estabelecia normas, mas as **práticas se distanciavam** das normas
+- A mita potosina combinou coercição e margens de agência indígena
+- Conmuta, ritmos próprios e organização em compañías revelam a **plasticidade** do mundo laboral
+- O sistema se reproduziu pela combinação de coerção, negociação e adaptação
+
+---
+
+## Para a discussão {.center}
+
+- Se as práticas laborais se distanciavam das normas, em que medida a legislação colonial era efetiva?
+- Como conciliar a documentação produzida pelos dominadores com a visibilização da agência dos trabalhadores indígenas?
+- Que paralelos podemos traçar entre o caso de Potosí e outras formas de trabalho compulsório nas Américas coloniais?
+
+---
+
+## Bibliografia da aula {.center}
+
+- ZAGALSKY, Paula C. Trabajadores indígenas mineros en el Cerro Rico de Potosí: tras los rastros de sus prácticas laborales (siglos XVI y XVII). *Revista Mundos do Trabalho*, vol. 6, n. 12, pp. 55-82, julho-dezembro de 2014.
