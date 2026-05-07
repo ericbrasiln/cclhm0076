@@ -51,9 +51,9 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 | 4 | 26/03/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
 | 5 | 09/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
 | 6 | 16/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-6/) |
-| 7 | 23/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | — |
+| 7 | 23/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-7/) |
 | 8 | 30/04/2026 | **Prova escrita presencial** | — |
-| 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | — |
+| 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-9/) |
 | 10 | 14/05/2026 | Tráfico transatlântico de africanos escravizados | — |
 | 11 | 21/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
 | 12 | 28/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
