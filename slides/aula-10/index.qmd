@@ -1,5 +1,5 @@
 ---
-title: "Aula 10: Tráfico transatlântico de africanos escravizados — história e historiografia"
+title: "Aula 10: Tráfico transatlântico de africanos escravizados"
 date: "2026-05-14"
 date-format: full
 lang: pt-br
@@ -39,28 +39,28 @@ toc: false
 
 ## Em teoria, o que é um escravo? Uma definição {.center}
 
+:::incremental
 - **Bem móvel** — propriedade, negociável
 - **Condição herdada** — transmissão intergeracional
 - **Sem direitos** — exclusão jurídica
 - **Coerção direta ou indireta** — violência física e estrutural
 - **Estrangeiros** — origem exógena ao grupo dominante
 - **Trabalho** — extração de força de trabalho compulsória
-
-Escravização: violência, judicial, voluntária
+:::
 
 ---
 
 ## A escravidão nas formações sociais (Lovejoy) {.center}
 
-::: {.callout-note}
-**Escravidão incidental** — incidental à estrutura da sociedade e ao funcionamento da economia (poucas pessoas possuem poucos escravos)
+:::incremental
+- **Escravidão incidental** — incidental à estrutura da sociedade e ao funcionamento da economia (poucas pessoas possuem poucos escravos)
+- **Escravidão como instituição** — escravos nas mais diversas áreas e em grandes quantidades; afetam a organização social e têm papel central na economia
 :::
 
-::: {.callout-warning}
-**Escravidão como instituição** — escravos nas mais diversas áreas e em grandes quantidades; afetam a organização social e têm papel central na economia
-:::
 
-|
+---
+
+## A escravidão nas formações sociais (Lovejoy) {.center}
 
 **Sociedade escravocrata** × **Modo de produção escravista**
 
@@ -115,8 +115,6 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 - Questão racial?
 
 > "A escravidão não nasceu do racismo: pelo contrário, o racismo foi consequência da escravidão" (WILLIAMS, p. 34)
-
-- "Estoque indígena" — esgotamento e替代
 
 ---
 
@@ -204,7 +202,7 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 
 ## Asiento, licencias e contrabando {.center}
 
-- **Asiento**: contrato monopoly para fornecimento de escravos à América espanhola
+- **Asiento**: contrato de monopólio para fornecimento de escravizados à América espanhola
 - **Licencias**: autorizações individuais para introduzir cativos
 - Fontes oficiais metropolitanas oferecem uma visão **parcial**
 - **Contrabando e fraude**: práticas sistemáticas que comprometem as estimativas oficiais
@@ -236,6 +234,11 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 - **Cuba**: escalada do tráfico impulsionada pela Revolução Haitiana (1791–1804)
   - Expansão da plantation açucareira cubana após o colapso haitiano
   - Fatores geopolíticos: demanda britânica, conexões comerciais norte-americanas
+
+---
+
+## Cuba e Brasil no século XIX {.center}
+
 - **Brasil**: longa resistência à supressão do tráfico
   - Escravidão como base da formação do **Estado-nação independente**
   - Tráfico ilegal persistente após 1831 (Lei Feijó)
@@ -246,9 +249,14 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 
 > "A história do tráfico é necessariamente acompanhada pela luta pela liberdade e pela construção de uma vida comunitária"
 
+
+---
+
+## Resistência e reconstrução {.center}
+
 - **Quilombos**: Palmares e outros
 - **Irmandades religiosas**: solidariedade e identidade
-- **Tambo/candombe** no Rio da Prata: expressão cultural e resistência
+- **Candombe** no Rio da Prata: expressão cultural e resistência
 - **Revoltas escravas** em Cuba e na Bahia
 - A **procedência** dos cativos africanos influenciou as formas de resistência
 
@@ -268,7 +276,6 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 1. Os paradigmas quantitativista e sociocultural são **realmente complementares** ou há tensões irredutíveis entre eles?
 2. Como as fontes **notariais** alteram as periodizações baseadas apenas em fontes metropolitanas?
 3. O conceito de tráfico **transimperial** desfoca a centralidade do tráfico atlântico ou a complexifica?
-4. Como articular a tese de Williams (racismo como consequência da escravidão) com os dados sobre **procedência e identidade** dos cativos apresentados por Ferreira e Seijas?
 
 ---
 
