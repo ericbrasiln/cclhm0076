@@ -43,8 +43,8 @@ format:
 | 8    | 30/04/2026 | II     | Prova escrita presencial                                                        | 4  | Presencial                    |
 | 9    | 07/05/2026 | II     | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | 4  | Presencial                    |
 | 10   | 14/05/2026 | III    | Tráfico transatlântico de africanos escravizados: história e historiografia     | 4  | Presencial                    |
-| 11   | 21/05/2026 | III    | O Caribe, as colônias na América do Norte e o sistema de plantation             | 4  | Presencial                    |
-| 12   | 28/05/2026 | III    | A escravidão nas regiões Andina, Platina e Mexicana                             | 4  | Presencial                    |
+| 11   | 21/05/2026 | III    | A escravidão nas regiões Andina, Platina e Mexicana                             | 4  | Assíncrona (vídeo-aula)      |
+| 12   | 28/05/2026 | III    | O Caribe, as colônias na América do Norte e o sistema de plantation             | 4  | Presencial                    |
 | —    | 04/06/2026 | —      | Corpus Christi                                                                  | —  | Feriado — sem aula            |
 | 13   | 11/06/2026 | III    | Lutas contra o cativeiro, lutas pela liberdade - parte 1                        | 4  | Presencial                    |
 | 14   | 18/06/2026 | III    | Lutas contra o cativeiro, lutas pela liberdade - parte 2                        | 4  | Presencial                    |

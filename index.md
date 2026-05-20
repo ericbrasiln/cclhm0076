@@ -55,8 +55,8 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 | 8 | 30/04/2026 | **Prova escrita presencial** | — |
 | 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-9/) |
 | 10 | 14/05/2026 | Tráfico transatlântico de africanos escravizados | — |
-| 11 | 21/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
-| 12 | 28/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana | — |
+| 11 | 21/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana *(assíncrona — vídeo-aula)* | [vídeo-aula](https://www.youtube.com/watch?v=lnyPIwc_KKo) |
+| 12 | 28/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
 | 13 | 11/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | — |
 | 14 | 18/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
 
