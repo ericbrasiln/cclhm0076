@@ -263,19 +263,13 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 ### AULA 11 (21/05/2026)
 
-**Tema**: O Caribe, as colônias na América do Norte e o sistema de plantation
-
-**Objetivos**
-
-* Analisar a formação dos sistemas escravistas nas colônias inglesas e francesas
-
-**Leituras**
-
-* KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
-
-### AULA 12 (28/05/2026)
-
 **Tema**: A escravidão nas regiões Andina, Platina e Mexicana
+
+**Modalidade**: Atividade assíncrona (vídeo-aula)
+
+::: {.callout-important}
+**Vídeo-aula obrigatória**: [A escravidão nas regiões Andina, Platina e Mexicana](https://www.youtube.com/watch?v=lnyPIwc_KKo)
+:::
 
 **Objetivos**
 
@@ -286,6 +280,18 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 * CHAVEZ-HITA, Adriana Naveda. Presencia africana en Nueva España, un repasso historiográfico. In: GUTIÉRREZ, Duró (Org.). Poblaciones y Culturas de origen africano en México. México: Instituto Nacional de Antropologia e Historia, 2005.
 * KLEIN, Herbert S. Los esclavos africanos. In: Historia General de La America Latina: Consolidación del Ordem Colonial. Paris: UNESCO; Editorial Trotta, 2007, v. 3.
 * ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y sus fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
+
+### AULA 12 (28/05/2026)
+
+**Tema**: O Caribe, as colônias na América do Norte e o sistema de plantation
+
+**Objetivos**
+
+* Analisar a formação dos sistemas escravistas nas colônias inglesas e francesas
+
+**Leituras**
+
+* KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
 
 ### AULA 13 (11/06/2026)
 
