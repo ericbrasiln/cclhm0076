@@ -156,7 +156,9 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## {.center}
 
-<iframe src="https://youtu.be/ED7iQlMi5oU?si=X6oDp0Bq9dBCqeBn" title="Assassin’s Creed Black Flag Resynced Naval Combat Gameplay 2026" width="560" height="315" allowfullscreen></iframe>
+<div style="display:flex;justify-content:center;">
+<iframe src="https://www.youtube.com/embed/ED7iQlMi5oU" title="Assassin's Creed Black Flag Resynced Naval Combat Gameplay 2026" width="840" height="472" allowfullscreen style="border:none;"></iframe>
+</div>
 
 ---
 
