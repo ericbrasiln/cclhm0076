@@ -181,6 +181,133 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
+# Virgínia: da servidão à escravidão racial (1619–1705) {.center}
+
+---
+
+## Os "20 e tantos negros" de 1619 {.center}
+
+- Agosto de 1619: navio holandês aporta em Point Comfort com africanos capturados de navio espanhol
+- Comprados pelo Governador e pelo Cape Merchant por "víveres"
+- Primeiros africanos na colônia: colocados no sistema de **servidão por contrato** — não na escravidão
+
+---
+
+## Servidão, não escravidão (1619–1640) {.center}
+
+:::incremental
+- Censos de 1623-25: 23 africanos — todos listados como **servants**
+- Volume 1 dos *Statutes at Large* de Hening (1619-1660): **nenhuma entrada sob "slaves"**
+- Caso de **Brase** (1625): pago 40 libras de tabaco/mês — "Não se paga salário a um escravo"
+- **John Phillip** (1624): testemunhou em tribunal como homem livre e cristão
+- Africanos batizados podiam reivindicar liberdade com base no **direito comum inglês**: cristão não pode escravizar cristão
+:::
+
+---
+
+## A transição: servos e escravos convivendo (1640–1660) {.center}
+
+:::incremental
+- Sistema **dual**: alguns africanos eram servos por prazo, outros já escravizados
+- **Caso John Punch** (1640): escravo e africano fugiram juntos; os brancos tiveram pena estendida; Punch condenado à **servidão vitalícia** — primeira sentença judicial de escravidão
+- **Caso Manuel** (1644): vendido como "escravo para sempre"; Assembleia decidiu que devia servir apenas 21 anos — **porque era cristão**
+- Caso dos filhos de **Emanuell Driggs** (1652): pai comprou a liberdade da filha Jane do contrato de servidão
+:::
+
+---
+
+## Anthony Johnson: um negro proprietário de servos {.center}
+
+- Chegou em 1621; liberto em dois anos
+- Casou-se com Mary (1622); obteve 250 acres em Northampton County
+- Importou 5 servos; estabeleceu **a primeira comunidade negra** nas colônias
+- 1653: Johnson processou Robert Parker pelo retorno de seu servo **John Casor**
+- **O tribunal decidiu a favor do proprietário negro** — Casor voltou à servidão vitalícia
+
+---
+
+## Brancos e negros: solidariedade e convivência {.center}
+
+> "Lado a lado no campo, o servo branco e o escravo plantavam, capinavam, cortavam tabaco, ou sentavam lado a lado no celeiro preparando as folhas para o mercado." — *Philip Bruce*
+
+- Trabalho idêntico, condições semelhantes
+- **Fugas conjuntas**: brancos e negros fugiam juntos (caso Punch, 1640; caso de 6 servos brancos + 1 negro)
+- **Relações sexuais interraciais** registradas nos tribunais — punição dupla para a mulher negra
+
+---
+
+## Fechando as portas: a codificação racial (1660–1680) {.center}
+
+:::incremental
+- **1660-61**: leis punindo servos brancos que fogem com negros — extensão de pena + multa de 4.500 libras de tabaco por negro perdido
+- **1662**: *partus sequitur ventrem* — filho segue condição da **mãe** (inversão do direito comum inglês)
+- **1667**: batismo **não altera** a condição de escravo — fecha a porta da cristandade
+- **1669**: matar um escravo "por acidente" durante correção **não é crime** — o escravo é propriedade
+- **1670**: negros e índios libertos **não podem comprar servos cristãos** brancos
+:::
+
+---
+
+## A Rebelião de Bacon (1676) {.center}
+
+- **Nathaniel Bacon**: membro da elite planter que liderou servos, libertos e escravos
+- Queimaram Jamestown em setembro de 1676
+- Tropas britânicas restauraram o controle
+- 80 escravos e 20 servos continuaram resistindo após a derrota de Bacon
+- **Lição dos planters**: se brancos e negros continuassem juntos, a colônia era insustentável
+
+---
+
+## A codificação final (1680–1705) {.center}
+
+:::incremental
+- **1680**: lei contra insurreições — negros não podem portar armas, sair sem certificado, levantar a mão contra cristão = 30 chibatadas
+- **1682**: todo não-cristão importado = **escravo para a vida**, mesmo que batizado depois
+- **1691**: escravos fugitivos podem ser **mortos** por qualquer pessoa; casamento inter-racial = banimento; alforria = deportação
+- **1705**: código escravista completo — escravo sem papel de servidão = escravo vitalício; servo branco sem papel = 5 anos de serviço
+:::
+
+---
+
+## A lei de 1705: a escravidão como propriedade {.center}
+
+:::incremental
+- Seção 3: servo sem papel escrito = **escravo para a vida**; impossível reivindicar liberdade sem documento
+- Seção 4: batismo não altera status — **raça**, não religião, determina a condição
+- Seção 7: servo branco não pode ser chicoteado nu sem ordem judicial
+- Seção 11: negros (mesmo cristãos) não podem comprar servos brancos; servo branco de senhor inter-racial = **automaticamente livre**
+- Seção 37: escravo fugitivo pode ser **morto ou desmembrado** por qualquer pessoa
+:::
+
+---
+
+## Da servidão à "linha de cor" {.center}
+
+:::incremental
+- 1619: africanos inseridos no sistema de **servidão por contrato**
+- 1640-1660: sistema **dual** — servos e escravos convivem
+- 1660-1680: **leis fecham** as vias de liberdade (cristandade, origem paterna, contrato)
+- 1676: Rebelião de Bacon → medo de aliança interracial
+- 1680-1705: **escravidão plena** codificada — raça como critério definitivo
+- Brancos pobres: protegidos por lei, separados dos negros por **privilégio racial**
+- Negros: transformados em **propriedade** — "nenhum direito que o branco estivesse obrigado a respeitar"
+:::
+
+---
+
+## McLaughlin: a construção racial da escravidão {.center}
+
+> "O uso da raça para separar trabalhadores com condições semelhantes não terminou na Virgínia do século XVII. Ao longo da história americana, a raça foi uma linha divisória potente."
+> — McLaughlin, 2019, p. 32
+
+:::incremental
+- Escravidão não começou como instituição racial — **foi construída** por lei ao longo de 86 anos
+- A separação racial serviu para **dividir a classe trabalhadora** e proteger a elite planter
+- As sementes de *Dred Scott v. Sandford* (1857) foram plantadas no solo da Virgínia em 1705
+:::
+
+---
+
 # Barbados: a transformação drástica {.center}
 
 ---
@@ -629,5 +756,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Bibliografia da aula {.center}
 
 - KLEIN, Herbert S.; VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: *A escravidão africana na América Latina e Caribe*. Brasília: Editora Universidade de Brasília, 2015.
+- McLAUGHLIN, Randolph M. The Birth of a Nation: A Study of Slavery in Seventeenth-Century Virginia. *UC Law Journal of Race and Economic Justice*, v. 16, n. 1, 2019, pp. 1–34.
 - BLACKBURN, Robin. *The Making of New World Slavery: From the Baroque to the Modern, 1492–1800*. London: Verso, 1997.
 - CARDOSO, Ciro F. S. (org.) *Escravidão e abolição no Brasil: novas perspectivas*. Rio de Janeiro: Jorge Zahar Editor, 1988.
