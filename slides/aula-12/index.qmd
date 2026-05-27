@@ -128,14 +128,13 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-## Primeiras colônias (1620): plantio de tabaco {.center}
+## Primeiras colônias (1620) {.center}
 
 - Pouco incentivo real: sem investimento financeiro da Coroa
-- Mercadores ingleses patrocinam a colonização para garantir o fornecimento de fumo
+- Mercadores ingleses patrocinam a colonização para garantir o fornecimento de tabaco
 - Pequenas Antilhas + Virgínia
-- **Servidão por contrato** (brancos britânicos)
+- **Servidão por contrato** (brancos britânicos), sem tráfico de africanos escravizados
 - Investimentos de capitães de navios e lojistas da metrópole
-- Ainda **sem tráfico** de africanos escravizados
 
 ---
 
@@ -145,12 +144,10 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## 1550–1600: a era dos piratas e corsários {.center}
 
-- Colonização como empresa privada: necessidade de capital, colonos capacitados, perspectiva de comércio
 - Importante papel para a colonização inglesa:
   - Mapear pontos fortes e fracos
   - Identificar as mercadorias
   - Hábitos: fumo, chocolate, dormir em rede, comer churrasco, **ter escravos**
-- Pequenas colônias no Norte: religiosos, comércio de peles e pesca
 
 ---
 
@@ -275,9 +272,8 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 :::incremental
 - **População livre de cor**: significativa em São Domingos (~26 mil, quase metade da população livre); reduzida na Jamaica
-- **Diversificação econômica**: São Domingos mantinha café, índigo, algodão, cacau; Jamaica = monocultura açucareira
+- **Diversificação econômica**: São Domingos produzia café, índigo, algodão, cacau; Jamaica = monocultura açucareira
 - **Escala**: São Domingos — 61 mil toneladas/ano; Jamaica — 36 mil
-- **Concentração**: Jamaica = extremo; São Domingos = mais heterogêneo
 :::
 
 ---
@@ -312,7 +308,7 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - Luta dos escravizados pela liberdade → aproxima de **C.L.R. James**
 - Escravidão = **acumulação primitiva de capital**
 - Escravidão **racializada** desenvolvida nas ilhas do Caribe sob domínio inglês
-- Formação de uma **"economia atlântica"**: trocas na Costa da África, Caribe, América do Sul, América do Norte e Europa
+- Formação de uma **"economia atlântica"**: trocas na Costa da África, Caribe, Américas do Sul e do Norte e Europa
 :::
 
 ---
@@ -391,14 +387,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## Turmas de trabalho nas ilhas francesas {.center}
 
-
-:::incremental
 - **Grand atelier**: homens e mulheres jovens, boa compleição física
 - **Second atelier**: físico menos capaz (recém-chegados, mães recentes, convalescentes)
 - **Petit atelier**: crianças de 8 a 12/13 anos, tarefas simples
-- Três quartos das mulheres na plantação → turmas do campo
+- 3/4 das mulheres na plantação → turmas do campo
 - Homens: 10% nas refinarias, restante em ofícios qualificados
-:::
 
 ---
 
@@ -441,8 +434,8 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 1. Dois setores agrícolas: **escravista** (para o mundo) + **camponês** (subordinado ao primeiro)
 2. Baixo nível das forças produtivas; utilização **extensiva** dos recursos naturais e da força de trabalho
 3. **Inseparável**: sistema e capital mercantil
-4. Rentabilidade: minimização de gastos; autossuficiência; concentração de recursos para o mercado global
-5. Reprodução das relações e acumulação: **tráfico de escravos**; tratamento, vigilância, repressão
+4. minimização de gastos; autossuficiência; concentração de recursos para o mercado global
+5. **tráfico de escravos**; vigilância, repressão
 
 ---
 
@@ -500,7 +493,7 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - **Time Frame**: período (1501–1866), com slider e campos numéricos
 - **Flag** (Portadora nacional): Spain/Uruguay, Portugal/Brazil, Great Britain, Netherlands, U.S.A., France, Denmark/Baltic
 - **Regions** → **Embarkation Regions** (regiões de embarque na África)
-- **Regions** → **Disembarkation Regions** (regiões de desembarque nas Américas): subdivididas por império — colônias britânicas, francesas, portuguesas, espanholas, holandesas, dinamarquesas e norte-americanas
+- **Regions** → **Disembarkation Regions** (regiões de desembarque nas Américas): subdivididas por império
 :::
 
 ---
@@ -515,12 +508,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 1: Volume do tráfico para o Caribe britânico {.center}
 
 :::incremental
-1. Acesse: `slavevoyages.org/assessment/estimates`
-2. **Time Frame**: 1601–1800
-3. **Flag**: deixar todos selecionados
-4. **Regions** → desmarcar todos os Disembarkation Regions, exceto: **Jamaica**, **Barbados**, **Antigua**, **St. Kitts**, **Grenada**, **Dominica**, **Other British Caribbean**
-5. Mudar para a tab **Timeline** → observar o pico de desembarques
-6. Mudar para a tab **Maps** → visualizar os fluxos
+1. **Time Frame**: 1601–1800
+1. **Flag**: deixar todos selecionados
+1. **Regions** → desmarcar todos os Disembarkation Regions, exceto: **Jamaica**, **Barbados**, **Antigua**, **St. Kitts**, **Grenada**, **Dominica**, **Other British Caribbean**
+1. Mudar para a tab **Timeline** → observar o pico de desembarques
+1. Mudar para a tab **Maps** → visualizar os fluxos
 :::
 
 ---
@@ -541,12 +533,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 2: Comparação Caribe britânico vs. Saint-Domingue {.center}
 
 :::incremental
-1. **Reset all**
-2. **Time Frame**: 1701–1800
-3. **Flag**: Great Britain + France (desmarcar os demais)
-4. **Disembarkation Regions**: marcar **Jamaica**, **Barbados** (britânicas) e **Saint-Domingue**, **Martinique**, **Guadeloupe** (francesas)
-5. Tab **Tables** → Rows: "50-year periods"; Columns: "Disembarkation regions"; Cells: "Only embarked"
-6. Observar os números absolutos por ilha
+1. **Time Frame**: 1701–1800
+1. **Flag**: Great Britain + France (desmarcar os demais)
+1. **Disembarkation Regions**: marcar **Jamaica**, **Barbados** (britânicas) e **Saint-Domingue**, **Martinique**, **Guadeloupe** (francesas)
+1. Tab **Tables** → Rows: "50-year periods"; Columns: "Disembarkation regions"; Cells: "Only embarked"
+1. Observar os números absolutos por ilha
 :::
 
 ---
@@ -565,12 +556,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 3: Origens africanas — de onde vinham os escravizados? {.center}
 
 :::incremental
-1. **Reset all**
-2. **Time Frame**: 1651–1800
-3. **Flag**: manter todos
-4. **Disembarkation Regions**: marcar apenas as ilhas do Caribe (Jamaica, Barbados, Saint-Domingue, Martinique, Guadeloupe, Dutch Caribbean)
-5. Tab **Tables** → Rows: "50-year periods"; Columns: "Embarkation regions"
-6. Observar quais regiões africanas predominam em cada período
+1. **Time Frame**: 1651–1800
+1. **Flag**: manter todos
+1. **Disembarkation Regions**: marcar apenas as ilhas do Caribe (Jamaica, Barbados, Saint-Domingue, Martinique, Guadeloupe, Dutch Caribbean)
+1. Tab **Tables** → Rows: "50-year periods"; Columns: "Embarkation regions"
+1. Observar quais regiões africanas predominam em cada período
 :::
 
 ---
@@ -589,12 +579,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## Busca 4: Holandeses — império de contrabando {.center}
 :::incremental
-1. **Reset all**
-2. **Time Frame**: 1601–1800
-3. **Flag**: marcar apenas **Netherlands**
-4. **Disembarkation Regions**: manter todos
-5. Tab **Tables** → Rows: "50-year periods"; Columns: "Disembarkation regions"
-6. Tab **Timeline** → observar a curva ao longo do tempo
+1. **Time Frame**: 1601–1800
+1. **Flag**: marcar apenas **Netherlands**
+1. **Disembarkation Regions**: manter todos
+1. Tab **Tables** → Rows: "50-year periods"; Columns: "Disembarkation regions"
+1. Tab **Timeline** → observar a curva ao longo do tempo
 :::
 
 ---
@@ -614,10 +603,9 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 5: O minúsculo tráfico para a América do Norte {.center}
 
 :::incremental
-1. **Reset all**
-2. **Time Frame**: 1501–1866
-3. **Disembarkation Regions**: desmarcar tudo, marcar apenas **Chesapeake**, **Carolinas/Georgia**, **Northern U.S.**, **Gulf states**, **U.S.A. unspecified**
-4. Tab **Timeline** → comparar visualmente com a Busca 1
+1. **Time Frame**: 1501–1866
+1. **Disembarkation Regions**: desmarcar tudo, marcar apenas **Chesapeake**, **Carolinas/Georgia**, **Northern U.S.**, **Gulf states**, **U.S.A. unspecified**
+1. Tab **Timeline** → comparar visualmente com a Busca 1
 :::
 
 ---
