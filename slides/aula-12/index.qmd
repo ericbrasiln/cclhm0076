@@ -37,9 +37,11 @@ toc: false
 
 ---
 
-## A União Ibérica e os holandeses {.center}
-
 ![Engenho de Pernambuco, Frans Post, c. 1640. [Fonte](https://pt.wikipedia.org/wiki/Ficheiro:Frans_Post_-_Engenho_de_Pernambuco.jpg)](frans_post_pernambuco.jpg){width=45%}
+
+---
+
+## A União Ibérica e os holandeses {.center}
 
 - 1580–1640: Portugal integrado à Coroa espanhola
 - Holandeses: os mais agressivos rivais dos ibéricos no final do século XVI
@@ -75,9 +77,12 @@ toc: false
 
 ---
 
+![Visão geral do comércio de escravos para fora da África, 1500–1900. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/viso-geral-do-comrcio-de-escravos-para-fora-da-frica/101)](mapa_viso_geral_trafico.jpg){width=80%}
+
+---
+
 ## Visão geral do comércio de escravos para fora da África (1500–1900) {.center}
 
-![Visão geral do comércio de escravos para fora da África, 1500–1900. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/viso-geral-do-comrcio-de-escravos-para-fora-da-frica/101)](mapa_viso_geral_trafico.jpg){width=80%}
 
 - As estimativas do comércio marítimo transatlântico são mais robustas que as das rotas transaariana, do Mar Vermelho e do Golfo Pérsico
 - Do fim do Império Romano até 1900: aproximadamente o mesmo número de cativos cruzou o Atlântico que deixou a África por todas as outras rotas combinadas
@@ -88,8 +93,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## Principais regiões onde os cativos desembarcaram {.center}
 
-![Principais regiões de desembarque. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/principais-regies-onde-os-cativos-desembarcaram/122)](mapa_regioes_desembarque.jpg){width=80%}
-
 - O **Caribe e a América do Sul** receberam **95%** dos escravos que chegavam às Américas
 - Menos de **4%** desembarcaram na América do Norte
 - Pouco mais de 10.000 na Europa
@@ -99,9 +102,13 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-## Volume e direção do tráfico transatlântico {.center}
+## Principais regiões onde os cativos desembarcaram {.center}
 
-![Volume e direção do comércio transatlântico de escravos. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/volume--direo-do-comrcio-transatlntico-de-escravos/125)](mapa_volume_direcao_trafico.jpg){width=80%}
+![Principais regiões de desembarque. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/principais-regies-onde-os-cativos-desembarcaram/122)](mapa_regioes_desembarque.jpg){width=80%}
+
+---
+
+## Volume e direção do tráfico transatlântico {.center}
 
 - Cativos de **qualquer região da África** podiam desembarcar em **quase todas as regiões** das Américas
 - Mesmo cativos do sudeste africano (a região mais distante) podiam chegar à América do Norte, Caribe e América do Sul
@@ -111,7 +118,13 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-# A transição do tabaco para o açúcar {.center}
+## Volume e direção do tráfico transatlântico {.center}
+
+![Volume e direção do comércio transatlântico de escravos. Eltis & Richardson. [Fonte](https://www.slavevoyages.org/blog/volume--direo-do-comrcio-transatlntico-de-escravos/125)](mapa_volume_direcao_trafico.jpg){width=80%}
+
+---
+
+# Colônias inglesas nas Américas {.center}
 
 ---
 
@@ -126,6 +139,10 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
+![As Índias Ocidentais [Fonte](https://dloc.com/AA00067769/00001/citation)](west_indies.jpg)
+
+---
+
 ## 1550–1600: a era dos piratas e corsários {.center}
 
 - Colonização como empresa privada: necessidade de capital, colonos capacitados, perspectiva de comércio
@@ -137,15 +154,24 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-## Os holandeses e a virada para o açúcar {.center}
+## {.center}
 
-![Habitation sucrière coloniale, 1762. [Fonte](https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_d%27un_type_d%27Habitation_sucri%C3%A8re_coloniale_en_1762.jpg)](habitation_sucriere_1762.jpg){width=45%}
+<iframe src="https://youtu.be/ED7iQlMi5oU?si=X6oDp0Bq9dBCqeBn" title="Assassin’s Creed Black Flag Resynced Naval Combat Gameplay 2026" width="560" height="315" allowfullscreen></iframe>
+
+---
+
+## Os holandeses e a virada para o açúcar {.center}
 
 - Década de 1640: agricultores holandeses com experiência em Pernambuco chegam a **Barbados, Martinica e Guadalupe**
 - Trazem **técnicas modernas de moagem e produção**
 - Oferecem **crédito** para compra de escravos africanos e maquinário
 - Cargueiros holandeses transportam o açúcar para as refinarias de Amsterdã
-- **1654**: expulsão definitiva dos holandeses de Pernambuco → migração em massa para o Caribe
+
+---
+
+## {.center}
+
+### **1654**: expulsão definitiva dos holandeses de Pernambuco → migração em massa para o Caribe
 
 ---
 
@@ -166,10 +192,9 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 | Indicador | 1645 (véspera) | Década de 1680 |
 |:--|:--|:--|
-| Propriedades | ~10.000 | ~2.600 |
-| População branca | 37.000 | ~17.000 |
-| População escrava | 5.680 | 37.000 |
-| Estrutura | Tabaco, pequenas unidades (<10 acres) | Açúcar, 350 propriedades, 8 mil ton/ano |
+| Pop. branca | 37.000 | ~17.000 |
+| Pop. escrava | 5.680 | 37.000 |
+| Estrutura | Tabaco, pequenas unidades (<10 acres) | Açúcar, latifúndios, 8 mil ton/ano |
 
 ---
 
@@ -190,7 +215,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - Martinica e Guadalupe: mudança mais lenta que Barbados
 - Força de trabalho branca livre mais enraizada
 - 1670: ~300 fazendas de açúcar, 12 mil toneladas métricas/ano
-- Próximo das 29 mil toneladas de **todo o Brasil** naquele ano
 - Apenas 15 anos depois dos holandeses terem instalado o primeiro engenho francês eficiente
 - 1683: ~20 mil escravos nas maiores ilhas francesas
 
@@ -202,7 +226,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - Solos virgens extremamente ricos
 - 1680: 2 mil escravos africanos, o dobro de habitantes brancos
 - Desenvolvimento lento e constante até 1680
-- Depois: **expansão extraordinária**
+- Depois: **expansão acelerada**
+
+---
+
+![Habitation sucrière coloniale, 1762. [Fonte](https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_d%27un_type_d%27Habitation_sucri%C3%A8re_coloniale_en_1762.jpg)](habitation_sucriere_1762.jpg){width=45%}
 
 ---
 
@@ -217,6 +245,18 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - Propriedade média: 99 escravos (década de 1740) → 204 escravos (década de 1770)
 - 1768: 167 mil escravos, apenas 18 mil brancos → razão 10:1
 - 36 mil toneladas de açúcar/ano (4x Barbados)
+
+---
+
+## Novo padrão de exportação inglesa {.center}
+
+- Colônias quebram o padrão de exportação inglesa apenas de tecidos de lã
+- Exportação de: pregos, panelas, fivelas, ferramentas, têxteis
+- Padrão **multilateral** de comércio: Inglaterra → África → plantations → colônias americanas do Norte
+
+**População escrava (1700)**
+- Índias Ocidentais: **81%** de negros
+- Virgínia e Maryland: **13%**
 
 ---
 
@@ -253,7 +293,7 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-# Robin Blackburn e a construção do escravismo {.center}
+# O sistema de plantation {.center}
 
 ---
 
@@ -286,10 +326,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-# O sistema de plantation {.center}
-
----
-
 ## A transição para o tráfico ampliado (~1650) {.center}
 
 :::incremental
@@ -312,7 +348,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## Características do sistema de plantation {.center}
 
-![Escravizados cultivando e colhendo algodão nas Índias Ocidentais, 1751. [Fonte](https://es.wikipedia.org/wiki/Archivo:Slaves_cultivating_and_harvesting_cotton_in_the_West_Indies,_1751.jpg)](slaves_cotton_west_indies_1751.jpg){width=40%}
 
 :::incremental
 - Novo nível de **organização e comercialização intensivas**
@@ -320,6 +355,13 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - Trabalho **noturno** — 18 horas de trabalho
 - Propriedades entre **50 e 300 escravos**
 - **Mortalidade alta** e taxa de natalidade baixa
+:::
+
+---
+
+## Características do sistema de plantation {.center}
+
+:::incremental
 - Constante aumento na **demanda do tráfico**
 - Regime de trabalho mais intenso e com maior **vigilância**
 - Demanda de combustíveis: caro e difícil para os escravos se alimentarem
@@ -328,9 +370,12 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
+![Escravizados cultivando e colhendo algodão nas Índias Ocidentais, 1751. [Fonte](https://es.wikipedia.org/wiki/Archivo:Slaves_cultivating_and_harvesting_cotton_in_the_West_Indies,_1751.jpg)](slaves_cotton_west_indies_1751.jpg)
+
+---
+
 ## Organização do trabalho nas plantações {.center}
 
-![Fabricação de açúcar colonial. [Fonte](https://www.worldhistory.org/image/14118/colonial-sugar-cane-manufacturing/)](sugar_cane_manufacturing.jpg){width=45%}
 
 - **50 a 60%** dos escravos: trabalho de campo
 - ~10%: moagem e refino do açúcar
@@ -340,31 +385,44 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
+![Fabricação de açúcar colonial. [Fonte](https://www.worldhistory.org/image/14118/colonial-sugar-cane-manufacturing/)](sugar_cane_manufacturing.jpg)
+
+---
+
 ## Turmas de trabalho nas ilhas francesas {.center}
 
-![Abrindo buracos para plantar cana, Antígua, 1823. [Fonte](https://commons.wikimedia.org/wiki/File:Digging_the_Cane-holes_-_Ten_Views_in_the_Island_of_Antigua_%281823%29,_plate_II_-_BL.jpg)](digging_cane_holes_antigua.jpg){width=40%}
 
 :::incremental
 - **Grand atelier**: homens e mulheres jovens, boa compleição física
 - **Second atelier**: físico menos capaz (recém-chegados, mães recentes, convalescentes)
 - **Petit atelier**: crianças de 8 a 12/13 anos, tarefas simples
 - Três quartos das mulheres na plantação → turmas do campo
-- Menos da metade dos homens → turmas do campo
 - Homens: 10% nas refinarias, restante em ofícios qualificados
 :::
 
 ---
 
-## A eficácia do sistema {.center}
+![Abrindo buracos para plantar cana, Antígua, 1823. [Fonte](https://commons.wikimedia.org/wiki/File:Digging_the_Cane-holes_-_Ten_Views_in_the_Island_of_Antigua_%281823%29,_plate_II_-_BL.jpg)](digging_cane_holes_antigua.jpg){width=40%}
 
-![Cortando cana-de-açúcar, Antígua, 1823. [Fonte](https://pt.wikipedia.org/wiki/Ficheiro:Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29,_plate_IV_-_BL.jpg)](cutting_sugar_cane_antigua.jpg){width=40%}
+---
+
+## A eficácia brutal do sistema {.center}
+
 
 > "O sistema de plantation era o meio mais eficiente de produção de colheitas comerciais desenvolvido pelos europeus antes da Revolução Industrial." (KLEIN & VISION III)
+
+---
+
+## A eficácia brutal do sistema {.center}
 
 - ~80% da população escrava economicamente ativa (vs. 55% em sociedades agrícolas atuais)
 - Ausência de discriminação sexual nas tarefas de campo
 - Crianças trabalhando a partir dos 8 anos
 - Preços de escravos homens e mulheres saudáveis: iguais até a idade madura
+
+---
+
+![Cortando cana-de-açúcar, Antígua, 1823. [Fonte](https://pt.wikipedia.org/wiki/Ficheiro:Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29,_plate_IV_-_BL.jpg)](cutting_sugar_cane_antigua.jpg){width=40%}
 
 ---
 
@@ -375,7 +433,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - 1 **senhor de engenho** (~70 escravos nos campos)
 - Total: ~100 escravos por unidade de moagem (metade da Jamaica)
 - Estação de moagem na Bahia: 3 meses **mais longa** que a estação de corte no Caribe
-- **Plantadores franceses**: os mais eficientes — maior produção de açúcar por acre
 
 ---
 
@@ -389,23 +446,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-# Comércio e controle {.center}
+# Códigos legais para o controle de escravos {.center}
 
 ---
 
-## Novo padrão de exportação inglesa {.center}
-
-- Colônias quebram o padrão de exportação inglesa apenas de tecidos de lã
-- Exportação de: pregos, panelas, fivelas, ferramentas, têxteis
-- Padrão **multilateral** de comércio: Inglaterra → África → plantations → colônias americanas do Norte
-
-**População escrava (1700)**
-- Índias Ocidentais: **81%** de negros
-- Virgínia e Maryland: **13%**
-
----
-
-## Códigos legais para o controle de escravos {.center}
+## Code Noir, legislação inglesa e controle dos livres de cor {.center}
 
 :::incremental
 - **Code Noir** (1685): controle público, fora das *habitations* (plantations)
@@ -417,44 +462,12 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ---
 
-## Demografia comparada: livres de cor {.center}
-
-| Colônia | Escravos | Homens de cor livres | Proporção |
-|:--|:--:|:--:|:--:|
-| Índias Ocidentais britânicas | 380 mil | <10% | Pouquíssimos |
-| Colônias continentais britânicas | 570 mil | <10% | Pouquíssimos |
-| Índias Ocidentais francesas | 660 mil | 36 mil | ~5% |
-| Brasil (1780) | 1,5 milhão | 406 mil | ~21% |
-
----
-
 ## A exclusão dos livres de cor {.center}
 
-:::incremental
 - Nas colônias **inglesas**: livres de cor = minoria distinta, mesmo entre a pequena população livre
 - Nas colônias **francesas**: mais significativos em São Domingos (metade da população livre), mas reduzidos nas outras ilhas
-- No **Brasil** e na **América espanhola**: livres de corda = parte importante do mundo da plantation
+- No **Brasil** e na **América espanhola**: livres de cor = parte importante do mundo da plantation
 - Essa diferença demográfica moldaria profundamente as **dinâmicas sociais e políticas** — e teria consequências decisivas na **Revolução Haitiana**
-:::
-
----
-
-## Questões para debate em sala {.center}
-
-1. Como a intervenção holandesa reconfigurou o equilíbrio entre as potências coloniais e possibilitou a emergência do sistema de plantation caribenho?
-2. Qual a relação entre a transição do tabaco para o açúcar e a substituição de servos brancos por escravos africanos?
-3. Como a organização do trabalho nas plantações — turmas, divisão sexual, disciplina — expressava a lógica do sistema?
-4. Por que o Brasil e a América espanhola desenvolveram classes de livres de cor significativas, ao contrário das colônias inglesas e francesas?
-
----
-
-## Síntese {.center}
-
-- Os holandeses foram decisivos na transição do tabaco para o açúcar e na implantação do sistema de plantation
-- Barbados: caso mais drástico de transformação estrutural
-- Jamaica e São Domingos: os dois grandes polos produtores do século XVIII, com trajetórias divergentes
-- O sistema de plantation era o mais eficiente meio de produção pré-industrial — baseado em coerção, supervisão e alta taxa de exploração da força de trabalho
-- A ausência de livres de cor nas colônias britânicas e francesas contrasta radicalmente com o Brasil e a América espanhola
 
 ---
 
@@ -464,23 +477,20 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## Explorando o tráfico atlântico de escravizados {.center}
 
-:::{.r-stack}
-![Página inicial do SlaveVoyages — Estimates](slavevoyages_estimates_home.png){.fragment width=80%}
-:::
+![Página inicial do SlaveVoyages — Estimates](slavevoyages_estimates_home.png)
 
-🔗 **slavevoyages.org/assessment/estimates**
+
+🔗 [**slavevoyages.org/assessment/estimates**](https://www.slavevoyages.org/assessment/estimates) 
 
 ---
 
 ## O que é o SlaveVoyages? {.center}
 
-:::incremental
 - Base de dados digital sobre o tráfico transatlântico de africanos escravizados
 - Compila estimativas baseadas em registros documentais de viagens (1501–1866)
 - Permite **pesquisar, filtrar, visualizar e baixar dados** sobre o tráfico
 - Três modos de visualização: **Tabelas**, **Linha do tempo** e **Mapas interativos**
 - Ferramenta fundamental para a historiografia da escravidão atlântica
-:::
 
 ---
 
@@ -489,8 +499,8 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 :::incremental
 - **Time Frame**: período (1501–1866), com slider e campos numéricos
 - **Flag** (Portadora nacional): Spain/Uruguay, Portugal/Brazil, Great Britain, Netherlands, U.S.A., France, Denmark/Baltic
-- **Regions** → **Embarkation Regions** (regiões de embarque na África): Senegambia, Sierra Leone, Windward Coast, Gold Coast, Bight of Benin, Bight of Biafra, West Central Africa, South-east Africa
-- **Regions** → **Disembarkation Regions** (regiões de desembarque nas Américas): subdivididas por império — colônias britânicas (Jamaica, Barbados, Antigua...), francesas (Saint-Domingue, Martinique, Guadeloupe...), portuguesas (Bahia, Pernambuco, Amazonia...), espanholas (Cuba, Puerto Rico, Rio de la Plata...), holandesas, dinamarquesas e norte-americanas
+- **Regions** → **Embarkation Regions** (regiões de embarque na África)
+- **Regions** → **Disembarkation Regions** (regiões de desembarque nas Américas): subdivididas por império — colônias britânicas, francesas, portuguesas, espanholas, holandesas, dinamarquesas e norte-americanas
 :::
 
 ---
@@ -498,6 +508,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 1: Volume do tráfico para o Caribe britânico {.center}
 
 **Objetivo**: visualizar a escala da escravidão nas ilhas produtoras de açúcar
+
+
+---
+
+## Busca 1: Volume do tráfico para o Caribe britânico {.center}
 
 :::incremental
 1. Acesse: `slavevoyages.org/assessment/estimates`
@@ -508,6 +523,10 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 6. Mudar para a tab **Maps** → visualizar os fluxos
 :::
 
+---
+
+## {.center}
+
 **Pergunta**: Em que período o tráfico para o Caribe britânico atingiu seu pico? Como isso se relaciona com a transição do tabaco para o açúcar?
 
 ---
@@ -515,6 +534,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 ## Busca 2: Comparação Caribe britânico vs. Saint-Domingue {.center}
 
 **Objetivo**: comparar o volume de cativos nas duas maiores potências açúcarneiras
+
+
+---
+
+## Busca 2: Comparação Caribe britânico vs. Saint-Domingue {.center}
 
 :::incremental
 1. **Reset all**
@@ -525,6 +549,9 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 6. Observar os números absolutos por ilha
 :::
 
+---
+
+## {.center}
 **Pergunta**: Qual ilha recebeu mais cativos no século XVIII? Como isso se reflete na produção açucareira descrita por Klein & Vision III?
 
 ---
@@ -533,14 +560,22 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 **Objetivo**: mapear as regiões de embarque na África que abasteceram o Caribe
 
+---
+
+## Busca 3: Origens africanas — de onde vinham os escravizados? {.center}
+
 :::incremental
 1. **Reset all**
-2. **Time Frame**: 1651–1800 (período da expansão açucareira)
+2. **Time Frame**: 1651–1800
 3. **Flag**: manter todos
 4. **Disembarkation Regions**: marcar apenas as ilhas do Caribe (Jamaica, Barbados, Saint-Domingue, Martinique, Guadeloupe, Dutch Caribbean)
 5. Tab **Tables** → Rows: "50-year periods"; Columns: "Embarkation regions"
 6. Observar quais regiões africanas predominam em cada período
 :::
+
+---
+
+## {.center}
 
 **Pergunta**: Qual região africana forneceu mais cativos para o Caribe? Houve mudança nas origens ao longo do século XVIII?
 
@@ -550,6 +585,9 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 **Objetivo**: evidenciar o papel holandês no tráfico e seu deslocamento para as Guianas
 
+---
+
+## Busca 4: Holandeses — império de contrabando {.center}
 :::incremental
 1. **Reset all**
 2. **Time Frame**: 1601–1800
@@ -559,6 +597,10 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 6. Tab **Timeline** → observar a curva ao longo do tempo
 :::
 
+---
+
+## {.center}
+
 **Pergunta**: Para onde os holandeses direcionaram seus cativos após perderem o controle das ilhas? Como isso dialoga com a tese de Klein & Vision III sobre o papel holandês?
 
 ---
@@ -567,12 +609,20 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 **Objetivo**: contrastar a escala do Caribe com a América do Norte britânica
 
+---
+
+## Busca 5: O minúsculo tráfico para a América do Norte {.center}
+
 :::incremental
 1. **Reset all**
 2. **Time Frame**: 1501–1866
 3. **Disembarkation Regions**: desmarcar tudo, marcar apenas **Chesapeake**, **Carolinas/Georgia**, **Northern U.S.**, **Gulf states**, **U.S.A. unspecified**
 4. Tab **Timeline** → comparar visualmente com a Busca 1
 :::
+
+---
+
+## {.center}
 
 **Pergunta**: Menos de 4% dos cativos desembarcaram na América do Norte. Como essa proporção ajuda a entender por que as colônias norte-americanas desenvolveram dinâmicas sociais tão diferentes das caribenhas?
 
@@ -584,8 +634,6 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 - **Download Table**: botão na tab Tables → exporta CSV para análise
 - **Download Timeline Data**: botão na tab Timeline → dados anuais
 - **Screenshot dos mapas**: use para documentar suas observações em sala
-- **Em grupo**: cada grupo faz uma busca, registra os resultados e apresenta à turma
-- **Síntese coletiva**: ao final, confrontamos os dados de todas as buscas para construir uma visão comparativa do tráfico atlântico
 :::
 
 ---
@@ -594,5 +642,4 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 - KLEIN, Herbert S.; VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: *A escravidão africana na América Latina e Caribe*. Brasília: Editora Universidade de Brasília, 2015.
 - BLACKBURN, Robin. *The Making of New World Slavery: From the Baroque to the Modern, 1492–1800*. London: Verso, 1997.
-- CARDOSO, Ciro F. S. *Escravos e senhores no plantations do Brasil e dos EUA*. Niterói: EdUFF, 2015.
-- **SlaveVoyages**: *Trans-Atlantic Slave Trade — Estimates*. Disponível em: [slavevoyages.org/assessment/estimates](https://www.slavevoyages.org/assessment/estimates)
+- CARDOSO, Ciro F. S. (org.) *Escravidão e abolição no Brasil: novas perspectivas*. Rio de Janeiro: Jorge Zahar Editor, 1988.
