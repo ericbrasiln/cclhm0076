@@ -1,18 +1,33 @@
-<img src="banner1.png" style="zoom:50%; align: center" />
-
-<br>
-
-# 📋️ Trabalho Final
-
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
-
-profericbrasil@unilab.edu.br
-
+---
+title: "Atividade Final — Plano de aula para ensino médio"
+subtitle: "CCLHM0076 — 2026.2"
+author:
+  - name: Eric Brasil
+    email: profericbrasil@unilab.edu.br
+    orcid: 0000-0001-5067-8475
+    affiliation: Instituto de Humanidades e Letras - UNILAB
+date: 2026-06-08
+lang: pt-BR
+date-format: long
+logo: "https://raw.githubusercontent.com/ericbrasiln/cclhm0076/refs/heads/main/imgs/banner_logos_hist.png"
+format:
+  html:
+    toc: false
+  pdf:
+    toc: false
+    documentclass: article
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=3cm
+      - right=3cm
+    fontsize: 12pt
+    colorlinks: true
 ---
 
-## CCLHM0076 - História da América: colonização e resistência
+## Informações gerais
 
-**📅️ Data para entrega**: 04/06/2025
+**📅️ Data para entrega**: 18/06/2025
 
 ⏰ **Carga Horária**: 8h
 
@@ -28,11 +43,11 @@ profericbrasil@unilab.edu.br
 
 🏁 Essa atividade tem como objetivo avaliar a capacidade do/a discente em produzir um plano de aula utilizando os debates, aulas e bibliografia da disciplina *História da América: colonização e resistência*.
 
-Cada discente, individualmente, deve preparar um plano de aula para uma turma do ensino médio sobre qualquer tema previamente discutido na disciplina. Lembrem de pesquisar qual tema é mais adequado para a série do ensino médio que vão trabalhar, quais os melhores recursos para a aula, os conteúdos para cada tema.
+Cada discente, individualmente, deve preparar um plano de aula para uma turma do ensino médio sobre algum tema do *Módulo 3: Escravidão africana nas Américas (XVI-XVIII)*. Lembrem de pesquisar qual tema é mais adequado para a série do ensino médio que vão trabalhar, quais os melhores recursos para a aula, os conteúdos para cada tema.
 
 ---
 
-O prazo máximo para a entrega dos planos é dia **04/06 através do Sigaa**.
+O prazo máximo para a entrega dos planos é dia **18/06 através do Sigaa**.
 
 ---
 
@@ -44,6 +59,7 @@ O prazo máximo para a entrega dos planos é dia **04/06 através do Sigaa**.
 - Sites com materiais que podem ser utilizados como recursos para a aula (mapas, imagens e dados):
   - [Slave Voyages](http://www.slavevoyages.org/)
   - [Internet Archives](https://archive.org/)
+  - [Digital library of the Caribbean](https://dloc.com/) 
 
 ---
 
@@ -52,9 +68,9 @@ O prazo máximo para a entrega dos planos é dia **04/06 através do Sigaa**.
 1. 💾️ O arquivo deve ser salvo em um dos seguintes foramtos: **.pdf**, **.epub** ou **.md** e enviado via tarefa no **SIGAA**.
 2. Utilizem o modelo de plano de aula para criar o plano de aula de vocês;
 3. ⚠️ Cada plano precisa compreender pelo menos uma **fonte histórica como recurso didático e mostrar como será utilizada em sala.** As fontes podem ser fragmentos de textos, imagens, mapas, relatos históricos, vídeos. É importante descrever como a fonte será trabalhada e sua referência (de preferência indicando link para acesso).
-4. O uso de inteligência artificial generativa é permitido, desde que seja explicitado, citado e referenciado no trabalho. A ferramenta deve ser utilizada como apoio à pesquisa, organização de ideias, formatação ou revisão textual — e não para substituir a análise crítica e a reflexão do/a discente. Ao mencionar o uso de IA, é necessário indicar qual ferramenta foi utilizada e de que forma ela contribuiu para o trabalho. A autoria e a responsabilidade intelectual pelo conteúdo final permanecem inteiramente com o/a estudante.
+4. O uso de inteligência artificial generativa é permitido, desde que seja explicitado, citado e referenciado no trabalho, seguindo a [PORTARIA CNPq Nº 2.664, DE 6 DE MARÇO DE 2026](https://www.in.gov.br/web/dou/-/portaria-cnpq-n-2.664-de-6-de-marco-de-2026-691779232). A ferramenta deve ser utilizada como apoio à pesquisa, organização de ideias, formatação ou revisão textual — e não para substituir a análise crítica e a reflexão do/a discente. Ao mencionar o uso de IA, é necessário indicar qual ferramenta foi utilizada e de que forma ela contribuiu para o trabalho. A autoria e a responsabilidade intelectual pelo conteúdo final permanecem inteiramente com o/a estudante.
 5. Trabalhos que apresentem plágio serão zerados.
 
 Bom trabalho!
 
-<img src="Logo-Unilab-horizontal-para-fundo-claro.png" style="zoom:30%; align:center;" />
+<img src="https://raw.githubusercontent.com/ericbrasiln/cclhm0076/refs/heads/main/imgs/banner_logos_hist.png" alt="Banner com os logos do curso de História da UNILAB" style="width: 100%; height: auto; margin-top: 20px;">
