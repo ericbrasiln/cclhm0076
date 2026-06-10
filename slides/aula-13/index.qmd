@@ -36,131 +36,196 @@ toc: false
 
 ---
 
-## A periodização da historiografia da escravidão {.center}
+## A periodização da historiografia (1/2) {.center}
 
 - Três momentos marcados por rupturas teórico-metodológicas e interpretativas (Palermo, 2017)
 - **1ª fase**: Gilberto Freyre e *Casa-Grande & Senzala* (1933) — marco inicial dos estudos sobre escravidão no Brasil
 - **2ª fase**: Escola Paulista de Sociologia (1950-1970) — Florestan Fernandes, FHC, Ianni, Viotti da Costa
+
+---
+
+## A periodização da historiografia (2/2) {.center}
+
 - **3ª fase**: renovação pós-1980 — influência de E. P. Thompson, valorização da agência escrava
 - Cada tendência constitui uma "tradição eletiva": construída a partir do presente e de expectativas de futuro (Palermo, 2017)
 
 ---
 
-## Freyre e os "antagonismos em equilíbrio" (1930) {.center}
+## Freyre e os "antagonismos em equilíbrio" (1/2) {.center}
 
 - *Casa-Grande & Senzala* (1933) rompe com teses racistas de Paulo Prado, Oliveira Vianna e Nina Rodrigues
 - Apoio na antropologia cultural de Franz Boas: valoriza a cultura africana na formação do Brasil
 - Conceito de "antagonismos em equilíbrio": relações oscilam entre aproximação e afastamento
+
+---
+
+## Freyre e os "antagonismos em equilíbrio" (2/2) {.center}
+
 - Ênfase na "história íntima da casa-grande" e nas relações entre senhores e escravos
 - "Não caiu na armadilha do determinismo racial" (Schwartz, 2001)
 
 ---
 
-## Limites da interpretação freyreana {.center}
+## Limites da interpretação freyreana (1/2) {.center}
 
 - Freyre valoriza mais a aproximação entre senhores e escravos do que as dissensões
 - Deixa de problematizar "o caráter subalterno pelo qual os africanos entravam na sociedade brasileira" (Palermo, 2017)
 - Difunde o "mito da doçura nas relações entre senhores e escravos" (Queiroz, 1987)
+
+---
+
+## Limites da interpretação freyreana (2/2) {.center}
+
 - Castigo ao escravo descrito como "sistema de educação, de assimilação e de disciplina — o patriarcal" (Freyre, 1963)
 - Em palestras nos EUA (1940), descreve "o idílico cenário da democracia racial brasileira" (Chalhoub & Silva, 2009)
 
 ---
 
-## Escola Paulista: marxismo e vitimização (1950-70) {.center}
+## Escola Paulista: marxismo e vitimização (1/2) {.center}
 
 - Florestan Fernandes, FHC, Ianni, Viotti da Costa — influenciados por Caio Prado Júnior
 - Rivalizam com o paradigma freyreano, propõem nova "tradição eletiva" (Palermo, 2017)
 - Escravidão como "pedra basilar no processo de acumulação do capital" (Queiróz, 1998)
+
+---
+
+## Escola Paulista: marxismo e vitimização (2/2) {.center}
+
 - Ênfase na violência, coerção e repressão como formas de controle social
 - Contudo: "excessiva generalização reducionista" que não captou a complexidade das relações (Palermo, 2017)
 
 ---
 
-## Cardoso e Ianni: estrutura e "falsa consciência" {.center}
+## Cardoso e Ianni: estrutura e "falsa consciência" (1/2) {.center}
 
 - Cardoso (1962): infraestrutura econômica condiciona comportamento e consciência dos indivíduos
 - No escravo é criada a "falsa consciência social" — alienação em relação ao processo produtivo
 - Ianni (1962): escravos e senhores em polos diametralmente opostos, "remotas possibilidades de inter-relação"
+
+---
+
+## Cardoso e Ianni: estrutura e "falsa consciência" (2/2) {.center}
+
 - Escravos como "mercadoria"; posição jurídico-social equivaleria a "uma coisa"
 - Marca racial permanece mesmo após a alforria: as "metamorfoses do escravo"
 
 ---
 
-## O escravo como "coisa": o limite da Escola Paulista {.center}
+## O escravo como "coisa" (1/2) {.center}
 
 - Cardoso: "o escravo se apresentava, enquanto ser humano tornado coisa" (apud Chalhoub & Silva, 2009)
 - Generalizações sobre os modos de pensar dos escravos baseadas em "leitura perfunctória das fontes" (Chalhoub & Silva, 2009)
 - "Interpretação estruturalista" que não capta a complexidade das relações (Schwartz, 2001)
+
+---
+
+## O escravo como "coisa" (2/2) {.center}
+
 - Ação social dos negros considerada como a de "semoventes" (Palermo, 2017)
 - Ponto positivo: vinculação necessária da escravidão brasileira ao capitalismo mundial
 
 ---
 
-## A renovação pós-1980: Thompson e a agência {.center}
+## A renovação pós-1980: Thompson e a agência (1/2) {.center}
 
 - Pesquisadores passam a "reler as fontes" sob novo aparato teórico-metodológico (Palermo, 2017)
 - Influência de E. P. Thompson: "A história real revelar-se-á somente depois de pesquisa muito árdua"
 - "Costumes em comum" formatam a experiência dos escravos e a arena da luta de classes (Chalhoub & Silva, 2009)
-- Visões escravas impõem "limites claros ao poder senhorial — ao mesmo tempo em que ajudavam a reproduzi-lo"
+
+---
+
+## A renovação pós-1980: Thompson e a agência (2/2) {.center}
+
+- Visões escravas impõem "limites claros ao poder senhorial — ao mesmo tempo em que ajudam a reproduzi-lo"
 - Transição do "paradigma da ausência" para o "paradigma da agência" (Chalhoub & Silva, 2009)
 
 ---
 
-## Cultura legal e "campo de força comum" {.center}
+## Cultura legal e "campo de força comum" (1/2) {.center}
 
 - Escravos demandam liberdade na justiça, obtendo-a à revelia da vontade senhorial
 - Leis de emancipação gradual: ambiguidades que abriam brechas para conflito social
 - Estado escravista como espaço contraditório, não como sujeito unívoco
+
+---
+
+## Cultura legal e "campo de força comum" (2/2) {.center}
+
 - Questões centrais: compra e venda, castigo físico, alforria, direito à família e comunidade
 - Paralelo: escravos e a lei de 1871 ↔ trabalhadores e a Justiça do Trabalho
 
 ---
 
-## Debates internos: Queiroz e o risco de "retorno ao patriarcalismo" {.center}
+## Queiroz e o risco de "retorno ao patriarcalismo" (1/2) {.center}
 
 - Queiroz (1998) critica a nova historiografia por promover "um retorno ao 'patriarcalismo' freyreano"
 - Preocupação com a "excessiva aproximação" entre escravo e senhor (visão integracionista)
 - Nova fase valorizaria "um caráter consensual que nega a coisificação dos cativos" (Queiróz, 1998)
+
+---
+
+## Queiroz e o risco de "retorno ao patriarcalismo" (2/2) {.center}
+
 - Crítica ao deslocamento da noção de violência no cativeiro
 - Queiroz propõe "mais cuidados em relação à expressividade da família escrava estável no Brasil"
 
 ---
 
-## Marquese e o capitalismo histórico {.center}
+## Marquese e o capitalismo histórico (1/2) {.center}
 
 - Marquese (2013) reconhece o mérito da historiografia pós-1980 em "colocar os escravos em cena"
 - Mas critica a negligência com o conceito de capitalismo histórico
 - Perda da oportunidade de compreender a escravidão brasileira "em suas articulações com o capitalismo global"
+
+---
+
+## Marquese e o capitalismo histórico (2/2) {.center}
+
 - Ênfase excessiva em explicações endógenas, sem diálogo com a "economia-mundo industrial"
 - Proposta: recolocar o capitalismo histórico como referência, sem o determinismo da Escola Paulista
 
 ---
 
-## Rebeldia escrava: tipologia {.center}
+## Rebeldia escrava: tipologia (1/2) {.center}
 
 - **Individual**: suicídio, aborto, assassinato de senhores, automutilação, fuga
 - **Coletiva**: quilombos, insurreições, revoltas urbanas
 - Fuga como protesto mais comum; podia levar à formação de quilombos
+
+---
+
+## Rebeldia escrava: tipologia (2/2) {.center}
+
 - Quilombos: "nascem espontaneamente", buscam paz, usam violência para sobreviver
 - Revolta dos Malês (1835, Bahia): "o levante de escravos urbanos mais sério ocorrido nas Américas" (Reis, 1986)
 
 ---
 
-## O "muro de Berlim historiográfico" {.center}
+## O "muro de Berlim historiográfico" (1/2) {.center}
 
 - Separação artificial entre historiadores da escravidão e do movimento operário (Chalhoub & Silva, 2009)
 - "Paradigma da ausência" também na história operária: trabalhadores como vítimas de modernização incompleta
 - Novo sindicalismo pós-1978 questionou a imagem de passividade e atrofia histórica
+
+---
+
+## O "muro de Berlim historiográfico" (2/2) {.center}
+
 - "Tanto Gilberto Freyre como a Escola Paulista continuam fazendo parte de nossa produção intelectual" (Palermo, 2017)
 - As disputas sobre agência, violência estrutural e capitalismo histórico permanecem em aberto
 
 ---
 
-## Tradições eletivas: síntese {.center}
+## Tradições eletivas: síntese (1/2) {.center}
 
 - Cada tendência dialogou fortemente com seu contexto e propôs "a fundação de novas tradições" (Palermo, 2017)
 - O campo é marcado por "contendas políticas, ideológicas e epistemológicas"
 - Freyre → Escola Paulista → renovação pós-1980: não são etapas superadas, mas tradições em disputa
+
+---
+
+## Tradições eletivas: síntese (2/2) {.center}
+
 - "Muro de Berlim historiográfico" entre escravidão e trabalho livre ainda emperra o diálogo
 - Superar essas divisões exige reformular os "modos do pensamento historiográfico"
 
@@ -176,55 +241,85 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## A fuga como ataque à propriedade privada {.center}
+## A fuga como ataque à propriedade privada (1/2) {.center}
 
 - O escravo era juridicamente uma mercadoria/propriedade: venda, compra, herança, penhor (p. 261)
 - O primeiro ato humano do escravo, na lei, é o **crime** — roubo, assassinato, fuga e formação de quilombos (p. 261-262)
+
+---
+
+## A fuga como ataque à propriedade privada (2/2) {.center}
+
 - As evasões "representavam atitudes do escravo que o humanizavam" na lei escravocrata (p. 262)
 - A fuga era um ataque frontal ao direito de propriedade, expondo os **limites do domínio privado do senhor** (p. 261-262)
 
 ---
 
-## Fugas-reivindicatórias vs. fugas-rompimento {.center}
+## Fugas-reivindicatórias vs. fugas-rompimento (1/2) {.center}
 
 - **Fugas-rompimento** (*grand marronage*): evasões definitivas; menos de 1% dos escravos arrolados em inventários (p. 262-263)
 - **Fugas-reivindicatórias** (*petit marronage*): ausências temporárias, muito mais frequentes; objetivo de obter pequenas conquistas e alargar a autonomia (p. 263)
+
+---
+
+## Fugas-reivindicatórias vs. fugas-rompimento (2/2) {.center}
+
 - Leis coloniais francesas e espanholas prescreviam **punições distintas** para cada tipo (p. 263)
 - A maior parte dos fugitivos **retornava** a seus donos, por vontade própria ou recaptura (p. 264)
 
 ---
 
-## Perfil dos fugitivos {.center}
+## Perfil dos fugitivos (1/2) {.center}
 
 - Adultos do sexo masculino predominavam: **3/4** nas fugas-rompimento, **4/5** nas fugas-reivindicatórias (p. 268)
 - Forte presença de africanos: de 5 a 10 africanos para cada crioulo nas fugas-reivindicatórias (p. 268)
+
+---
+
+## Perfil dos fugitivos (2/2) {.center}
+
 - Congos e angolanos predominavam no Sudeste; também oriundos de Moçambique e crioulos do Nordeste e Sul (p. 268-269)
 - Crianças entre 10 e 14 anos alcançavam **1/3 de todos os fugitivos** e 45% dos africanos evadidos (p. 269)
 
 ---
 
-## Boçais, tráfico e alforrias {.center}
+## Boçais, tráfico e alforrias (1/2) {.center}
 
 - "Todo recém-chegado da África é um cimarrón de fato ou potencialmente" (p. 266, cit. Casimir)
 - Boçais representavam **20 a 30%** dos fugitivos denunciados nos jornais do Rio de Janeiro (p. 266)
+
+---
+
+## Boçais, tráfico e alforrias (2/2) {.center}
+
 - Nas regiões mais dependentes do tráfico, o peso dos boçais entre fugitivos era três vezes maior (p. 267)
 - A frequência de evasões era **tanto maior quanto menor** fosse a incidência de alforrias (p. 267-268)
 
 ---
 
-## Fugas maciças e a baixa frequência {.center}
+## Fugas maciças e a baixa frequência (1/2) {.center}
 
-- Em situações extraordinárias, os índices de fuga podiam ser muito maiores: invasões holodesas na Española (1626), inglesas na Jamaica (séc. XVII) (p. 265)
+- Em situações extraordinárias, os índices de fuga podiam ser muito maiores: invasões holandesas na Española (1626), inglesas na Jamaica (séc. XVII) (p. 265)
 - Em condições normais, no máximo **10 em cada 100 escravos** envolviam-se em fugas; menos de **1** lograva abandonar definitivamente o cativeiro (p. 265)
+
+---
+
+## Fugas maciças e a baixa frequência (2/2) {.center}
+
 - Menos de 3% dos inventários *post-mortem* do Rio de Janeiro e Taubaté registravam escravos fugidos (p. 262)
 - A baixa frequência resultava do controle social, da aculturação e da afirmação de uma **cultura escrava de feição camponesa ou protocamponesa** (p. 265)
 
 ---
 
-## Redes de sociabilidade nas fugas {.center}
+## Redes de sociabilidade nas fugas (1/2) {.center}
 
 - Alguns fugitivos recebiam ajuda de escravos e livres que os escondiam e empregavam (p. 269)
 - Fugas-rompimento em pequenos grupos sugeriam **planejamento**, com definição de destino e amparo logístico (p. 268)
+
+---
+
+## Redes de sociabilidade nas fugas (2/2) {.center}
+
 - Na maioria das vezes, porém, a evasão **não se amparava em redes sólidas ou muito amplas** (p. 269)
 - A família escrava operava como forte mecanismo de **estabilização social**: poucos escravos aparentados deixavam o cativeiro definitivamente (p. 269-270)
 
@@ -234,29 +329,44 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Variedade e diversidade {.center}
+## Variedade e diversidade (1/2) {.center}
 
 - Múltiplos termos nas Américas: quilombos (Brasil), palenques (América espanhola), cumbes, mainels, maroons (EUA/Caribe inglês) (p. 269)
 - Enorme variação: de menos de **10 fugitivos** (durando semanas) a **11 mil** em Palmares (quase um século) (p. 259)
+
+---
+
+## Variedade e diversidade (2/2) {.center}
+
 - Só em Nueva Granada: mais de **meia centena de palenques** entre os séculos XVI e XVIII (p. 270)
 - Em Minas Gerais: pelo menos **166 quilombos** entre 1711 e 1795 (p. 270)
 
 ---
 
-## A horda quilombola {.center}
+## A horda quilombola (1/2) {.center}
 
 - A maioria dos quilombos eram **hordas**: ajuntamentos baseados na adesão, não em saldos entre natalidade e mortalidade (p. 272)
 - Economia fundada em coleta, caça e roubos — não na agricultura — resultando em **nomadismo** (p. 272)
 - Grupos geralmente **inferiores a dez pessoas**, unidos em torno de objetivos imediatos (alimentos e proteção) (p. 272)
+
+---
+
+## A horda quilombola (2/2) {.center}
+
 - Posição **defensiva**: refúgio em zonas de geografia difícil, risco constante de desaparição (p. 272-273)
 - Boa parte dos recém-evadidos optava por integrar-se a **assentamentos preexistentes** (p. 272)
 
 ---
 
-## Características geográficas e defensivas {.center}
+## Características geográficas e defensivas (1/2) {.center}
 
 - Refúgio em **bosques e regiões pantanosas** — proteção e recursos naturais (p. 270)
 - Defesas: **armadilhas, fossos, estrepes, trincheiras, paliçadas** (p. 285-287)
+
+---
+
+## Características geográficas e defensivas (2/2) {.center}
+
 - Sistemas de origem africana (armadilhas cobertas e estacas pontiagudas) encontrados em Palmares, Buraco do Tatu e outros (p. 286)
 - Quilombo do Ambrózio: fosso de 1,5-2m de largura por 2-3m de profundidade circundando 90m × 70m (p. 287)
 
@@ -264,30 +374,45 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Economia e proto-campesinato {.center}
+## Economia e proto-campesinato (1/2) {.center}
 
 - A transição para comunidade camponesa exigia **agricultura, pecuária e trocas** (p. 272-273)
 - Grandes quilombos combinavam campos, horticultura, capacidade de armazenamento e produção para exportação (p. 282-283)
 - Exemplos: cana e cachaça (Moquim, RJ); algodão, milho, feijão, mandioca (Minas Gerais); cacau, tabaco (Esmeraldas) (p. 282-283)
+
+---
+
+## Economia e proto-campesinato (2/2) {.center}
+
 - Excedentes comercializados em **mercados e armazéns** locais (p. 283-284)
 - Divisão social do trabalho: ferreiros, artífices, tecelões (p. 283)
 
 ---
 
-## Organização interna e hierarquias {.center}
+## Organização interna e hierarquias (1/2) {.center}
 
 - Hierarquização baseada no **princípio da anterioridade**: os mais antigos administravam o mercado matrimonial e a distribuição de terras (p. 280-281)
 - Reis, rainhas, capitães, tenentes, alferes e sargentos nomeavam-se entre os quilombolas (p. 288-290)
 - Instituições políticas: "Casas de Audiência", "Casa do Conselho", "Casa do Rei" (p. 288)
+
+---
+
+## Organização interna e hierarquias (2/2) {.center}
+
 - Lideranças combinavam funções **religiosas e políticas**: Nanny (Jamaica), Macandal (Saint Domingue), Ventura Sanchez (Cuba) (p. 289-290)
 - Havia escravidão interna: em Palmares, cativos raptados mantinham seu *status* (p. 291)
 
 ---
 
-## Relações com a sociedade de plantation {.center}
+## Relações com a sociedade de plantation (1/2) {.center}
 
 - **Comércio**: pequenos armazéns e vendas comercializavam excedentes — "cada venda é um quilombo" (Câmara de Vila Rica, 1754) (p. 274)
 - **Alianças**: quilombolas do Barba Negra (RS) trabalhavam para estancieiros, que os alertavam sobre expedições (p. 285)
+
+---
+
+## Relações com a sociedade de plantation (2/2) {.center}
+
 - **Guerra**: ataques a fazendas para raptar escravos e escravas — "destruindo tudo, pondo em miserável estado" (p. 286)
 - **Tratados de paz**: Colômbia, México, Jamaica, Suriname — reconhecimento de liberdade e território em troca de devolução de novos fugitivos (p. 276-278)
 
@@ -301,31 +426,46 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Redes com indígenas {.center}
+## Redes com indígenas (1/2) {.center}
 
 - Desde 1503: africanos refugiados entre os tainos de La Española (p. 275)
 - Cooperação em Cuba (1529), Nicarágua (1540), Panamá (1546-1550) (p. 275)
 - **Comunidades mestiças**: Palmares tinha 20% de população ameríndia (1644); quilombo do Piolho (MT) — 79 negros, 30 indígenas, famílias com mulheres índias (p. 276-277)
+
+---
+
+## Redes com indígenas (2/2) {.center}
+
 - Mas indígenas também serviam como **forças repressoras**: tapuias ajudaram a destruir Palmares (p. 275)
 - Quando aliados às autoridades, indígenas rejeitavam contatos e devolviam fugitivos (p. 275-276)
 
 ---
 
-## Gênero e comunidade cimarrona {.center}
+## Gênero e comunidade cimarrona (1/2) {.center}
 
 - **Crônico deficit de mulheres negras** nos quilombos — homens raptavam mulheres indígenas para constituir famílias (p. 276-277)
 - No Mato Grosso (1770-1795): capturados 6 negros idosos, 8 índios, 19 índias e 21 caburés — preferência pela permanência de mulheres indígenas (p. 276)
 - Em comunidades camponesas consolidadas, **famílias nucleares** eram o eixo da organização (p. 280-281)
+
+---
+
+## Gênero e comunidade cimarrona (2/2) {.center}
+
 - No santuário de Mose (Flórida, 1759): ¼ da população tinha menos de 15 anos, todos nascidos no local; 13 de 22 casas habitadas por famílias nucleares (p. 280)
 - **Nanny**: liderança feminina na Jamaica, combinava funções religiosas e políticas (p. 289)
 
 ---
 
-## Quilombos no Brasil: o caso de Minas Gerais {.center}
+## Quilombos no Brasil: o caso de Minas Gerais (1/2) {.center}
 
 - Pelo menos **166 quilombos** entre 1711-1795 (p. 270)
 - População média dos grandes quilombos: **~600 habitantes** (p. 280)
 - Agricultura diversificada: milho, feijão, algodão, cana, mandioca; criação de gado (p. 282-283)
+
+---
+
+## Quilombos no Brasil: o caso de Minas Gerais (2/2) {.center}
+
 - Defesas sofisticadas: fossos, trincheiras, fortificações (p. 285-287)
 - Quilombo do Bacaxá (RJ): mais de 60 pessoas, todos nascidos no quilombo, "em parte de suas roças e, em parte, de furtos" (p. 278)
 
@@ -333,11 +473,16 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Comparações hemisféricas {.center}
+## Comparações hemisféricas (1/2) {.center}
 
 - **Brasil e Caribe**: fugas e quilombos **mais frequentes** que na América espanhola continental e sul dos EUA (p. 266)
 - **Sul dos EUA**: quilombos congregavam menores contingentes e obtinham **menores êxitos** (p. 266)
 - **Suriname e Jamaica**: casos raros onde quilombolas estabeleceram **tratados** e descendentes sobrevivem até hoje (p. 271)
+
+---
+
+## Comparações hemisféricas (2/2) {.center}
+
 - **Palmares** (Brasil, séc. XVII): 11 mil habitantes, federação de dez assentamentos — o maior quilombo das Américas (p. 259, 279)
 - O século XVIII foi a **"época áurea das fugas"** no continente (2/3 de todas as viagens negreiras) (p. 266)
 
@@ -371,37 +516,57 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## A Conspiração de Antigua (1736) — Plano e Liderança {.center}
+## A Conspiração de Antigua — Plano e Liderança (1/2) {.center}
 
 - Liderada por **Court (Tackey)**, coromantee, e **Tomboy**, crioulo carpinteiro (Gaspar 1978, p. 308)
 - Plano: explodir o salão do baile de coroação de Jorge II, matando governador e elite; grupos de 300-400 escravos atacariam St. John's (p. 308-309)
 - Baile adiado de 11 para 30 de outubro; líderes optaram por esperar — trama descoberta nesse intervalo (p. 309)
+
+---
+
+## A Conspiração de Antigua — Plano e Liderança (2/2) {.center}
+
 - Resultado: **88 executados** (5 na roda, 6 enforcados, 77 queimados) e **47 banidos** (p. 309)
 
 ---
 
-## A Conspiração de Antigua — Causas Endógenas {.center}
+## A Conspiração de Antigua — Causas Endógenas (1/2) {.center}
 
 - **Frouxidão do controle**: "talvez o fator geral mais importante" — reuniões abertas como a "dança ikem" de Court, com "perto de dois mil" negros (Gaspar 1978, p. 315-316)
 - **Recessão econômica**: mercado açucareiro em crise nos anos 1730; condições de vida dos escravos pioraram (p. 316-317)
+
+---
+
+## A Conspiração de Antigua — Causas Endógenas (2/2) {.center}
+
 - **Pragas e desastres**: "the blast" (praga nos canaviais), secas, epidemias, terremotos em 1735 (p. 317)
 - Superioridade numérica dos escravos: 24 mil negros para 3 mil brancos — mais de 88% da população (p. 313)
 
 ---
 
-## A Conspiração de Antigua — Composição Social {.center}
+## A Conspiração de Antigua — Composição Social (1/2) {.center}
 
 - Dos 10 principais líderes executados, 7 eram **não-lavradores** e pelo menos **8 crioulos** (Gaspar 1978, p. 317-318)
 - Entre os executados: 13 carpinteiros, 8 tanoeiros, 26 feitores (*drivers*) — "escravos não-lavradores predominaram" (p. 318)
+
+---
+
+## A Conspiração de Antigua — Composição Social (2/2) {.center}
+
 - **Aliança interétnica crucial**: Court (coromantee) e Tomboy (crioulo) superaram uma "longa frieza" entre os dois grupos (p. 321)
 - Conspiração "**etnicamente orientada, mas gerada por condições locais**" (p. 323)
 
 ---
 
-## A Conspiração de Antigua — Autenticidade {.center}
+## A Conspiração de Antigua — Autenticidade (1/2) {.center}
 
 - Conspirações escravas "são difíceis de autenticar" — diferentemente de revoltas abertas (Gaspar 1978, p. 310)
 - Testemunhos de escravos obtidos sob coação são "suspeitos, se não inteiramente não confiáveis" (p. 311)
+
+---
+
+## A Conspiração de Antigua — Autenticidade (2/2) {.center}
+
 - Indícios de autenticidade: confissão de Court e Tomboy; escravo Ned exortando companheiros a "manter suas mentes para si mesmos e ser fiéis ao seu compromisso" (p. 311)
 - Consistência do volume de testemunhos, ainda que obtidos em condições questionáveis (p. 311)
 
@@ -423,46 +588,71 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Segunda Guerra Maroon (1795) {.center}
+## Segunda Guerra Maroon (1795) — Causas (1/2) {.center}
 
 - Conflito com **Trelawny Town** (600 habitantes) — julho de 1795 a março de 1796 (Geggus 1987, p. 279)
 - **Causas locais**, não francesas: escassez de terras, insatisfação com o superintendente, aplicação frouxa das leis (p. 280)
+
+---
+
+## Segunda Guerra Maroon (1795) — Causas (2/2) {.center}
+
 - Estopim: dois maroons **açoitados publicamente na *workhouse*** por um escravo fugido que eles próprios haviam capturado — "ser punido como escravos foi percebido... como profundamente insultante" (p. 280)
 - Geggus refuta influência francesa: "o caso para um envolvimento estrangeiro mínimo simplesmente desaparece" (p. 282)
 
 ---
 
-## Tese do Fator Militar {.center}
+## Tese do Fator Militar (1/2) {.center}
 
 - "A estabilidade de uma sociedade escravista era determinada menos pelas ideias circulando nas senzalas do que pela **força e unidade da classe senhorial**" (Geggus 1987, p. 278)
 - Guarnição jamaicana reforçada durante a Guerra de Independência Americana e expandida nas guerras revolucionárias francesas
+
+---
+
+## Tese do Fator Militar (2/2) {.center}
+
 - Quando a revolta de São Domingos eclodiu, "já havia **mais soldados na Jamaica do que jamais em tempos de paz**" (p. 293)
 - Correlação consistente entre **redução de tropas** e eclosão de rebeliões: Barbados (1816), Demerara (1823), Jamaica (1831) (p. 294-299)
 
 ---
 
-## Rebeliões na Era das Revoluções — Censo Hemisférico {.center}
+## Rebeliões na Era das Revoluções — Censo Hemisférico (1/2) {.center}
 
 - Levantamento de aproximadamente **180 incidentes** entre 1776-1848 — "uma amostragem limitada de fontes limitadas" (Geggus 2011, p. 25)
 - Sub-representa Brasil e Cuba; a década de 1790 se destaca como pico de intensidade
+
+---
+
+## Rebeliões na Era das Revoluções — Censo Hemisférico (2/2) {.center}
+
 - O ano de **1795** é "único pelo número de incidentes separados em diferentes sociedades" (p. 23)
 - Caribe concentra as maiores revoltas: 8 ou 9 rebeliões envolveram **pelo menos 1.000 escravos**; nenhuma rebelião continental ultrapassou esse número (p. 25)
 
 ---
 
-## Impacto das Três Revoluções Atlânticas {.center}
+## Impacto das Três Revoluções Atlânticas (1/2) {.center}
 
 - **Revolução Americana**: menor impacto direto; milhares de escravos escaparam; possível influência na "cultura de expectativa" (Geggus 2011, p. 28-29)
 - **Revolução Francesa**: enfraquecimento material dos regimes escravistas — guerra civil entre brancos e pardos, divisões na classe dominante (p. 30)
+
+---
+
+## Impacto das Três Revoluções Atlânticas (2/2) {.center}
+
 - **Revolução Haitiana**: raramente envolveu assistência direta — política de Toussaint foi de "**uma revolução em um só país**" (p. 31)
 - Circulação de notícias e inspiração simbólica: escravos em Havana, Barbados, Porto Rico e Curaçao mencionavam São Domingos (p. 33-34)
 
 ---
 
-## Crítica a Genovese: linguagem de direitos vs. rumores {.center}
+## Crítica a Genovese: direitos vs. rumores (1/2) {.center}
 
 - Genovese: Revolução Francesa teria gerado "novo tipo" de insurreição, buscando "liberdade para todos e engajamento com o mundo mais amplo" (Geggus 2011, p. 27)
 - Geggus: "a principal fraqueza dessa tese é que Genovese não conseguiu fornecer exemplos plausíveis" além da Revolução Haitiana e da rebelião de Coro (p. 27)
+
+---
+
+## Crítica a Genovese: direitos vs. rumores (2/2) {.center}
+
 - Insurgentes no Caribe francês raramente empregavam **linguagem de direitos**; alegavam que já haviam sido libertados pelo rei ou pela Assembleia Nacional (p. 30)
 - "A evidência de que escravos usaram o termo 'direitos do homem' é na verdade bastante limitada" (p. 30)
 
@@ -476,28 +666,43 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Demografia, Tráfico e Rebelião {.center}
+## Demografia, Tráfico e Rebelião (1/2) {.center}
 
 - População escrava nas Américas: de **3 milhões em 1790** para o dobro em meio século — parte da explicação, mas insuficiente (Geggus 2011, p. 26)
 - Correlação forte entre tráfico e rebelião em algumas regiões (Bahia, Brasil Central, Cuba), mas **fraca nas colônias britânicas**
+
+---
+
+## Demografia, Tráfico e Rebelião (2/2) {.center}
+
 - As três "tardias" rebeliões britânicas — Barbados (1816), Demerara (1823), Jamaica (1831) — "solapam seriamente qualquer tentativa de correlacionar rebelião escrava com presença africana" (p. 26)
 - Revolta de São Domingos eclodiu "na parte mais crioulizada da colônia e foi liderada largamente por escravos nascidos localmente" (p. 26)
 
 ---
 
-## O Fator Militar Revisitado {.center}
+## O Fator Militar Revisitado (1/2) {.center}
 
 - Guerras geralmente **dificultaram** rebeliões pela mobilização de grandes contingentes armados (Geggus 2011, p. 36-37)
 - Escassez de revoltas no Caribe britânico durante as guerras revolucionárias e napoleônicas atribuída às **guarnições excepcionalmente grandes**
+
+---
+
+## O Fator Militar Revisitado (2/2) {.center}
+
 - Muitas rebeliões ocorreram após **declínio recente na força da guarnição local**: São Domingos (1791), Barbados (1816), Demerara (1823), Jamaica (1831)
 - Em Cuba, rebelião aumentava quando guarnições diminuíam e diminuía quando reforçadas (p. 37)
 
 ---
 
-## Síntese: Conspirações, Condições Locais e Agência Escrava {.center}
+## Síntese: Conspirações, Condições Locais e Agência Escrava (1/2) {.center}
 
 - Gaspar (1978): conspiração de Antigua "etnicamente orientada, mas gerada por condições locais" — liderança carismática, aliança interétnica (p. 323)
 - Geggus (1987): "a abordagem mais geralmente válida enfatiza a **força das forças de controle**" (p. 299)
+
+---
+
+## Síntese: Conspirações, Condições Locais e Agência Escrava (2/2) {.center}
+
 - Geggus (2011): insurreições eram "**mais racionalmente calculadas, menos desesperadas** do que muitas vezes pareceram" (p. 299)
 - Em todos os textos: agência escrava como escolha racional condicionada por estruturas de poder — demografia, economia, presença militar e circulação de notícias
 
