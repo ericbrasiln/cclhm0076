@@ -36,43 +36,73 @@ toc: false
 
 ---
 
-## O mito da escravidão branda {.center}
+## A periodização da historiografia da escravidão {.center}
 
-- Gilberto Freyre (1933): tese da "amenidade das relações senhor/escravo"
-- Frank Tannenbaum (1947): escravismo ibérico "brando" vs. anglo-saxão "desumano"
-- Stanley Elkins (1959): teoria do "Sambo" — escravo resignado, dócil, infantilizado
-- Louis Couty (1881): "O Brasil é um país sem povo" — base do "paradigma da ausência"
-- Essas interpretações compartilham a negação da agência escrava
-
----
-
-## O "paradigma da ausência" {.center}
-
-- Joaquim Nabuco: a liberdade teria de ser "doada ou concedida" aos negros
-- Escravos como seres "incapazes de ação autonômica" (F. H. Cardoso)
-- A escravidão teria aniquilado pessoas e cultura, restando "fragmentação e vazio"
-- Narrativa teleológica da Nação que apaga sujeitos e conflitos
-- Denúncia do mito da democracia racial, mas com o custo de desqualificar os escravos como sujeitos históricos
+- Três momentos marcados por rupturas teórico-metodológicas e interpretativas (Palermo, 2017)
+- **1ª fase**: Gilberto Freyre e *Casa-Grande & Senzala* (1933) — marco inicial dos estudos sobre escravidão no Brasil
+- **2ª fase**: Escola Paulista de Sociologia (1950-1970) — Florestan Fernandes, FHC, Ianni, Viotti da Costa
+- **3ª fase**: renovação pós-1980 — influência de E. P. Thompson, valorização da agência escrava
+- Cada tendência constitui uma "tradição eletiva": construída a partir do presente e de expectativas de futuro (Palermo, 2017)
 
 ---
 
-## A revisão dos anos 1960-70 {.center}
+## Freyre e os "antagonismos em equilíbrio" (1930) {.center}
 
-- Cardoso (1962), Ianni (1962), Costa (1966): contestam a tese da escravidão branda
-- Enfatizam a violência e a exploração inerentes ao sistema escravista
-- Jacob Gorender (1978): modo de produção escravista implicava "extermínio da vitalidade do escravo"
-- Limite: ao enfatizar a violência, acabaram por reforçar a imagem do escravo como vítima passiva
-- A própria denúncia da democracia racial reproduziu a "teoria do escravo-coisa"
+- *Casa-Grande & Senzala* (1933) rompe com teses racistas de Paulo Prado, Oliveira Vianna e Nina Rodrigues
+- Apoio na antropologia cultural de Franz Boas: valoriza a cultura africana na formação do Brasil
+- Conceito de "antagonismos em equilíbrio": relações oscilam entre aproximação e afastamento
+- Ênfase na "história íntima da casa-grande" e nas relações entre senhores e escravos
+- "Não caiu na armadilha do determinismo racial" (Schwartz, 2001)
 
 ---
 
-## O "paradigma da agência" {.center}
+## Limites da interpretação freyreana {.center}
 
-- Virada dos anos 1980: romper com a associação entre subordinação e passividade
-- Influência de E. P. Thompson: "costumes em comum" (*customs in common*) também formatavam a experiência dos escravos
-- Escravos criam "visões escravas da escravidão" que impõem limites ao poder senhorial
-- A violência como ponto de partida da análise, não como modo de arrestar a investigação
-- Rebecca Scott: "numerosas maneiras de examinar as iniciativas dos escravos sem desconsiderar a opressão"
+- Freyre valoriza mais a aproximação entre senhores e escravos do que as dissensões
+- Deixa de problematizar "o caráter subalterno pelo qual os africanos entravam na sociedade brasileira" (Palermo, 2017)
+- Difunde o "mito da doçura nas relações entre senhores e escravos" (Queiroz, 1987)
+- Castigo ao escravo descrito como "sistema de educação, de assimilação e de disciplina — o patriarcal" (Freyre, 1963)
+- Em palestras nos EUA (1940), descreve "o idílico cenário da democracia racial brasileira" (Chalhoub & Silva, 2009)
+
+---
+
+## Escola Paulista: marxismo e vitimização (1950-70) {.center}
+
+- Florestan Fernandes, FHC, Ianni, Viotti da Costa — influenciados por Caio Prado Júnior
+- Rivalizam com o paradigma freyreano, propõem nova "tradição eletiva" (Palermo, 2017)
+- Escravidão como "pedra basilar no processo de acumulação do capital" (Queiróz, 1998)
+- Ênfase na violência, coerção e repressão como formas de controle social
+- Contudo: "excessiva generalização reducionista" que não captou a complexidade das relações (Palermo, 2017)
+
+---
+
+## Cardoso e Ianni: estrutura e "falsa consciência" {.center}
+
+- Cardoso (1962): infraestrutura econômica condiciona comportamento e consciência dos indivíduos
+- No escravo é criada a "falsa consciência social" — alienação em relação ao processo produtivo
+- Ianni (1962): escravos e senhores em polos diametralmente opostos, "remotas possibilidades de inter-relação"
+- Escravos como "mercadoria"; posição jurídico-social equivaleria a "uma coisa"
+- Marca racial permanece mesmo após a alforria: as "metamorfoses do escravo"
+
+---
+
+## O escravo como "coisa": o limite da Escola Paulista {.center}
+
+- Cardoso: "o escravo se apresentava, enquanto ser humano tornado coisa" (apud Chalhoub & Silva, 2009)
+- Generalizações sobre os modos de pensar dos escravos baseadas em "leitura perfunctória das fontes" (Chalhoub & Silva, 2009)
+- "Interpretação estruturalista" que não capta a complexidade das relações (Schwartz, 2001)
+- Ação social dos negros considerada como a de "semoventes" (Palermo, 2017)
+- Ponto positivo: vinculação necessária da escravidão brasileira ao capitalismo mundial
+
+---
+
+## A renovação pós-1980: Thompson e a agência {.center}
+
+- Pesquisadores passam a "reler as fontes" sob novo aparato teórico-metodológico (Palermo, 2017)
+- Influência de E. P. Thompson: "A história real revelar-se-á somente depois de pesquisa muito árdua"
+- "Costumes em comum" formatam a experiência dos escravos e a arena da luta de classes (Chalhoub & Silva, 2009)
+- Visões escravas impõem "limites claros ao poder senhorial — ao mesmo tempo em que ajudavam a reproduzi-lo"
+- Transição do "paradigma da ausência" para o "paradigma da agência" (Chalhoub & Silva, 2009)
 
 ---
 
@@ -81,14 +111,34 @@ toc: false
 - Escravos demandam liberdade na justiça, obtendo-a à revelia da vontade senhorial
 - Leis de emancipação gradual: ambiguidades que abriam brechas para conflito social
 - Estado escravista como espaço contraditório, não como sujeito unívoco
-- "Costumes em comum" formatam a arena da luta de classes na escravidão
 - Questões centrais: compra e venda, castigo físico, alforria, direito à família e comunidade
+- Paralelo: escravos e a lei de 1871 ↔ trabalhadores e a Justiça do Trabalho
+
+---
+
+## Debates internos: Queiroz e o risco de "retorno ao patriarcalismo" {.center}
+
+- Queiroz (1998) critica a nova historiografia por promover "um retorno ao 'patriarcalismo' freyreano"
+- Preocupação com a "excessiva aproximação" entre escravo e senhor (visão integracionista)
+- Nova fase valorizaria "um caráter consensual que nega a coisificação dos cativos" (Queiróz, 1998)
+- Crítica ao deslocamento da noção de violência no cativeiro
+- Queiroz propõe "mais cuidados em relação à expressividade da família escrava estável no Brasil"
+
+---
+
+## Marquese e o capitalismo histórico {.center}
+
+- Marquese (2013) reconhece o mérito da historiografia pós-1980 em "colocar os escravos em cena"
+- Mas critica a negligência com o conceito de capitalismo histórico
+- Perda da oportunidade de compreender a escravidão brasileira "em suas articulações com o capitalismo global"
+- Ênfase excessiva em explicações endógenas, sem diálogo com a "economia-mundo industrial"
+- Proposta: recolocar o capitalismo histórico como referência, sem o determinismo da Escola Paulista
 
 ---
 
 ## Rebeldia escrava: tipologia {.center}
 
-- **Individual**: suicídio, aborto, assassinato de senhores, auto-mutilação, fuga
+- **Individual**: suicídio, aborto, assassinato de senhores, automutilação, fuga
 - **Coletiva**: quilombos, insurreições, revoltas urbanas
 - Fuga como protesto mais comum; podia levar à formação de quilombos
 - Quilombos: "nascem espontaneamente", buscam paz, usam violência para sobreviver
@@ -98,21 +148,21 @@ toc: false
 
 ## O "muro de Berlim historiográfico" {.center}
 
-- Separação artificial entre historiadores da escravidão e do movimento operário
+- Separação artificial entre historiadores da escravidão e do movimento operário (Chalhoub & Silva, 2009)
 - "Paradigma da ausência" também na história operária: trabalhadores como vítimas de modernização incompleta
 - Novo sindicalismo pós-1978 questionou a imagem de passividade e atrofia histórica
-- Paralelo: escravos que usavam a lei de 1871 ↔ trabalhadores que mobilizaram a Justiça do Trabalho
-- Proposta: agendas comuns centradas em "classe, luta de classes, gênero, raça, ideologia, hegemonia"
+- "Tanto Gilberto Freyre como a Escola Paulista continuam fazendo parte de nossa produção intelectual" (Palermo, 2017)
+- As disputas sobre agência, violência estrutural e capitalismo histórico permanecem em aberto
 
 ---
 
-## Questões abertas e agenda de pesquisa {.center}
+## Tradições eletivas: síntese {.center}
 
-- Revoltas "em toda a extensão do período colonial": investigações ainda insuficientes
-- Generalizações sobre sudaneses (insurreições) vs. bantos (quilombos) carecem de mais pesquisas regionais
-- Animosidade entre africanos e afro-brasileiros: fenômeno baiano ou geral?
-- Carência de estudos empíricos sobre a Justiça do Trabalho: "a leitura de centenas de dissídios" ainda está por fazer
-- Superar o "muro de Berlim historiográfico" exige reformular os modos do pensamento historiográfico
+- Cada tendência dialogou fortemente com seu contexto e propôs "a fundação de novas tradições" (Palermo, 2017)
+- O campo é marcado por "contendas políticas, ideológicas e epistemológicas"
+- Freyre → Escola Paulista → renovação pós-1980: não são etapas superadas, mas tradições em disputa
+- "Muro de Berlim historiográfico" entre escravidão e trabalho livre ainda emperra o diálogo
+- Superar essas divisões exige reformular os "modos do pensamento historiográfico"
 
 ---
 
@@ -229,3 +279,4 @@ toc: false
 - MULLIN, Michael. *Africa in America: Slave Acculturation and Resistance in the American South and the British Caribbean, 1736-1831*. Urbana: University of Illinois Press, 1994.
 - QUEIROZ, Suely Robles Reis de. Rebeldia escrava e historiografia. *Estudos Econômicos* (São Paulo), v. 17, n. Especial, p. 07–35, 1987.
 - CHALHOUB, Sidney; SILVA, Fernando Teixeira da. Sujeitos no imaginário acadêmico: escravos e trabalhadores na historiografia brasileira desde os anos 1980. *Cadernos AEL*, v. 14, n. 26, 2009.
+- PALERMO, Luis Claudio. Disputas no campo da historiografia da escravidão brasileira: perspectivas clássicas e debates atuais. *Dimensões*, v. 39, p. 324-347, 2017.
