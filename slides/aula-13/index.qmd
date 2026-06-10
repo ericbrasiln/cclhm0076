@@ -362,14 +362,144 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Revoltas, Rebeliões e Revolução {.center}
+## Tipologia da Resistência Escrava {.center}
 
-### ✦ Conteúdo a ser adicionado ✦
+- **Conspirações**: complôs abortados, difíceis de autenticar — dependem de testemunhos obtidos sob coação (Geggus 2011, p. 24)
+- **Revoltas abertas**: escravos como participantes mais importantes; deixam evidências materiais (mortes, destruição)
+- **Guerras maroons**: insurgentes "nasceram livres" — não se confundem com rebelião escrava (Geggus 2011, p. 24)
+- **Conflitos multiclassistas**: envolvem escravos mas são dominados por **pardos livres** ou **Caribes negros** (Granada, São Vicente, 1795)
 
-- Este bloco abordará revoltas escravas de larga escala, conspirações e insurreições nas Américas
-- Incluirá a Revolução Haitiana (1791-1804) como ponto central
-- Abrangerá também revoltas urbanas, conspirações e rebeliões rurais
-- **Conteúdo completo será inserido em etapa posterior**
+---
+
+## A Conspiração de Antigua (1736) — Plano e Liderança {.center}
+
+- Liderada por **Court (Tackey)**, coromantee, e **Tomboy**, crioulo carpinteiro (Gaspar 1978, p. 308)
+- Plano: explodir o salão do baile de coroação de Jorge II, matando governador e elite; grupos de 300-400 escravos atacariam St. John's (p. 308-309)
+- Baile adiado de 11 para 30 de outubro; líderes optaram por esperar — trama descoberta nesse intervalo (p. 309)
+- Resultado: **88 executados** (5 na roda, 6 enforcados, 77 queimados) e **47 banidos** (p. 309)
+
+---
+
+## A Conspiração de Antigua — Causas Endógenas {.center}
+
+- **Frouxidão do controle**: "talvez o fator geral mais importante" — reuniões abertas como a "dança ikem" de Court, com "perto de dois mil" negros (Gaspar 1978, p. 315-316)
+- **Recessão econômica**: mercado açucareiro em crise nos anos 1730; condições de vida dos escravos pioraram (p. 316-317)
+- **Pragas e desastres**: "the blast" (praga nos canaviais), secas, epidemias, terremotos em 1735 (p. 317)
+- Superioridade numérica dos escravos: 24 mil negros para 3 mil brancos — mais de 88% da população (p. 313)
+
+---
+
+## A Conspiração de Antigua — Composição Social {.center}
+
+- Dos 10 principais líderes executados, 7 eram **não-lavradores** e pelo menos **8 crioulos** (Gaspar 1978, p. 317-318)
+- Entre os executados: 13 carpinteiros, 8 tanoeiros, 26 feitores (*drivers*) — "escravos não-lavradores predominaram" (p. 318)
+- **Aliança interétnica crucial**: Court (coromantee) e Tomboy (crioulo) superaram uma "longa frieza" entre os dois grupos (p. 321)
+- Conspiração "**etnicamente orientada, mas gerada por condições locais**" (p. 323)
+
+---
+
+## A Conspiração de Antigua — Autenticidade {.center}
+
+- Conspirações escravas "são difíceis de autenticar" — diferentemente de revoltas abertas (Gaspar 1978, p. 310)
+- Testemunhos de escravos obtidos sob coação são "suspeitos, se não inteiramente não confiáveis" (p. 311)
+- Indícios de autenticidade: confissão de Court e Tomboy; escravo Ned exortando companheiros a "manter suas mentes para si mesmos e ser fiéis ao seu compromisso" (p. 311)
+- Consistência do volume de testemunhos, ainda que obtidos em condições questionáveis (p. 311)
+
+---
+
+## O "Enigma da Jamaica" nos 1790s — Paradoxo {.center}
+
+- Jamaica possuía "um impressionante histórico de resistência violenta do século XVII até a década de 1830" (Geggus 1987, p. 274)
+- **Paradoxo**: durante a Era das Revoluções, quando São Domingos viveu a maior revolta escrava, as colônias britânicas atingiram seu **nível mais baixo** de rebeliões (p. 274)
+- Jamaica permaneceu "**quiescente**" nos anos 1790, apesar de todas as condições objetivas favoráveis à insurreição (p. 275)
+
+---
+
+## Reações Iniciais a São Domingos {.center}
+
+- Escravos jamaicanos estavam **bem informados**: já em setembro de 1791 cantavam canções sobre a revolta (Geggus 1987, p. 276)
+- Levante planejado para o Natal de 1791 no norte da ilha; escravo coromantee confessou que pretendia participar "porque eles eram seu povo" (p. 277)
+- **Nada aconteceu** — a milícia com mais de 8.000 homens, somada à guarnição regular e aos maroons, fez "potenciais rebeldes pensarem duas vezes" (p. 277)
+
+---
+
+## Segunda Guerra Maroon (1795) {.center}
+
+- Conflito com **Trelawny Town** (600 habitantes) — julho de 1795 a março de 1796 (Geggus 1987, p. 279)
+- **Causas locais**, não francesas: escassez de terras, insatisfação com o superintendente, aplicação frouxa das leis (p. 280)
+- Estopim: dois maroons **açoitados publicamente na *workhouse*** por um escravo fugido que eles próprios haviam capturado — "ser punido como escravos foi percebido... como profundamente insultante" (p. 280)
+- Geggus refuta influência francesa: "o caso para um envolvimento estrangeiro mínimo simplesmente desaparece" (p. 282)
+
+---
+
+## Tese do Fator Militar {.center}
+
+- "A estabilidade de uma sociedade escravista era determinada menos pelas ideias circulando nas senzalas do que pela **força e unidade da classe senhorial**" (Geggus 1987, p. 278)
+- Guarnição jamaicana reforçada durante a Guerra de Independência Americana e expandida nas guerras revolucionárias francesas
+- Quando a revolta de São Domingos eclodiu, "já havia **mais soldados na Jamaica do que jamais em tempos de paz**" (p. 293)
+- Correlação consistente entre **redução de tropas** e eclosão de rebeliões: Barbados (1816), Demerara (1823), Jamaica (1831) (p. 294-299)
+
+---
+
+## Rebeliões na Era das Revoluções — Censo Hemisférico {.center}
+
+- Levantamento de aproximadamente **180 incidentes** entre 1776-1848 — "uma amostragem limitada de fontes limitadas" (Geggus 2011, p. 25)
+- Sub-representa Brasil e Cuba; a década de 1790 se destaca como pico de intensidade
+- O ano de **1795** é "único pelo número de incidentes separados em diferentes sociedades" (p. 23)
+- Caribe concentra as maiores revoltas: 8 ou 9 rebeliões envolveram **pelo menos 1.000 escravos**; nenhuma rebelião continental ultrapassou esse número (p. 25)
+
+---
+
+## Impacto das Três Revoluções Atlânticas {.center}
+
+- **Revolução Americana**: menor impacto direto; milhares de escravos escaparam; possível influência na "cultura de expectativa" (Geggus 2011, p. 28-29)
+- **Revolução Francesa**: enfraquecimento material dos regimes escravistas — guerra civil entre brancos e pardos, divisões na classe dominante (p. 30)
+- **Revolução Haitiana**: raramente envolveu assistência direta — política de Toussaint foi de "**uma revolução em um só país**" (p. 31)
+- Circulação de notícias e inspiração simbólica: escravos em Havana, Barbados, Porto Rico e Curaçao mencionavam São Domingos (p. 33-34)
+
+---
+
+## Crítica a Genovese: linguagem de direitos vs. rumores {.center}
+
+- Genovese: Revolução Francesa teria gerado "novo tipo" de insurreição, buscando "liberdade para todos e engajamento com o mundo mais amplo" (Geggus 2011, p. 27)
+- Geggus: "a principal fraqueza dessa tese é que Genovese não conseguiu fornecer exemplos plausíveis" além da Revolução Haitiana e da rebelião de Coro (p. 27)
+- Insurgentes no Caribe francês raramente empregavam **linguagem de direitos**; alegavam que já haviam sido libertados pelo rei ou pela Assembleia Nacional (p. 30)
+- "A evidência de que escravos usaram o termo 'direitos do homem' é na verdade bastante limitada" (p. 30)
+
+---
+
+## Abolicionismo e Rumores de Emancipação {.center}
+
+- Movimento abolicionista gerou ciclo de revoltas baseadas em **rumores de emancipação oficial** — mais de 20 incidentes entre 1789 e início dos anos 1830 (Geggus 2011, p. 35)
+- "Tais rumores talvez ressoassem mais fortemente entre os escravizados do que o conceito de direitos abstratos" (p. 35)
+- Insurgentes em Barbados (1816), Demerara (1823) e Jamaica (1831) exigiam aplicação de uma lei de abolição que (erroneamente) acreditavam ter sido aprovada
+
+---
+
+## Demografia, Tráfico e Rebelião {.center}
+
+- População escrava nas Américas: de **3 milhões em 1790** para o dobro em meio século — parte da explicação, mas insuficiente (Geggus 2011, p. 26)
+- Correlação forte entre tráfico e rebelião em algumas regiões (Bahia, Brasil Central, Cuba), mas **fraca nas colônias britânicas**
+- As três "tardias" rebeliões britânicas — Barbados (1816), Demerara (1823), Jamaica (1831) — "solapam seriamente qualquer tentativa de correlacionar rebelião escrava com presença africana" (p. 26)
+- Revolta de São Domingos eclodiu "na parte mais crioulizada da colônia e foi liderada largamente por escravos nascidos localmente" (p. 26)
+
+---
+
+## O Fator Militar Revisitado {.center}
+
+- Guerras geralmente **dificultaram** rebeliões pela mobilização de grandes contingentes armados (Geggus 2011, p. 36-37)
+- Escassez de revoltas no Caribe britânico durante as guerras revolucionárias e napoleônicas atribuída às **guarnições excepcionalmente grandes**
+- Muitas rebeliões ocorreram após **declínio recente na força da guarnição local**: São Domingos (1791), Barbados (1816), Demerara (1823), Jamaica (1831)
+- Em Cuba, rebelião aumentava quando guarnições diminuíam e diminuía quando reforçadas (p. 37)
+
+---
+
+## Síntese: Conspirações, Condições Locais e Agência Escrava {.center}
+
+- Gaspar (1978): conspiração de Antigua "etnicamente orientada, mas gerada por condições locais" — liderança carismática, aliança interétnica (p. 323)
+- Geggus (1987): "a abordagem mais geralmente válida enfatiza a **força das forças de controle**" (p. 299)
+- Geggus (2011): insurreições eram "**mais racionalmente calculadas, menos desesperadas** do que muitas vezes pareceram" (p. 299)
+- Em todos os textos: agência escrava como escolha racional condicionada por estruturas de poder — demografia, economia, presença militar e circulação de notícias
 
 ---
 
@@ -380,4 +510,7 @@ Baseado em Florentino & Amantino (2012)
 - MULLIN, Michael. *Africa in America: Slave Acculturation and Resistance in the American South and the British Caribbean, 1736-1831*. Urbana: University of Illinois Press, 1994.
 - QUEIROZ, Suely Robles Reis de. Rebeldia escrava e historiografia. *Estudos Econômicos* (São Paulo), v. 17, n. Especial, p. 07–35, 1987.
 - CHALHOUB, Sidney; SILVA, Fernando Teixeira da. Sujeitos no imaginário acadêmico: escravos e trabalhadores na historiografia brasileira desde os anos 1980. *Cadernos AEL*, v. 14, n. 26, 2009.
+- GASPAR, David Barry. The Antigua Slave Conspiracy of 1736: A Case Study of the Origins of Collective Resistance. *The William and Mary Quarterly*, v. 35, n. 2, p. 308–323, abr. 1978.
+- GEGGUS, David. The Enigma of Jamaica in the 1790s: New Light on the Causes of Slave Rebellions. *The William and Mary Quarterly*, v. 44, n. 2, p. 274–299, 1987.
+- GEGGUS, David. Slave rebellion during the Age of Revolution. In: KLOOSTER, Wim; OOSTINDIE, Geert (Orgs.). *Curaçao in the Age of Revolutions, 1795-1800*. Leiden: BRILL, 2011.
 - PALERMO, Luis Claudio. Disputas no campo da historiografia da escravidão brasileira: perspectivas clássicas e debates atuais. *Dimensões*, v. 39, p. 324-347, 2017.
