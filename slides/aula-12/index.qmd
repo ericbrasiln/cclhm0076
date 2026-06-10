@@ -187,17 +187,15 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## 1. A transição: servidão → escravidão {.center}
 
+:::incremental
 - **1619**: primeiros africanos (navio holandês) inseridos no sistema de **servidão por contrato** — não eram escravos
 - Censos de 1623-25: africanos listados como **servants**; *Statutes at Large* (1619-1660) sem nenhuma entrada sob "slaves"
 - Caso **Brase** (1625): recebia pagamento em tabaco — "não se paga salário a um escravo"
+- **John Phillip** (1624): africano cristão testemunhou em tribunal como homem livre
 - **Anthony Johnson** (década de 1650): negro proprietário de 250 acres e 5 servos — mostrava que africanos podiam ser senhores
-
----
-
-## 1. A transição: servidão → escravidão {.center}
-
 - Sistema **dual** (1640-1660): servos por prazo e escravos convivendo; cristandade e contrato ainda eram vias de liberdade
 - **Caso John Punch** (1640): brancos tiveram pena estendida; Punch condenado à **servidão vitalícia** — primeira sentença judicial de escravidão
+:::
 
 ---
 
@@ -207,48 +205,40 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 
 ## 2. A legislação: fechando as portas da liberdade {.center}
 
+:::incremental
 - **1662**: *partus sequitur ventrem* — filho segue condição da mãe (inversão do direito comum)
 - **1667**: batismo **não altera** a condição de escravo
 - **1669**: matar escravo "por acidente" durante correção **não é crime**
 - **1670**: negros e índios libertos **não podem comprar servos cristãos** brancos
-
----
-
-## 2. A legislação: fechando as portas da liberdade {.center}
-
 - **1680**: lei contra insurreições — escravos não portam armas, não saem sem certificado, 30 chibatadas se levantarem a mão contra cristão
 - **1682**: todo não-cristão importado = escravo para a vida, mesmo batizado depois
 - **1691**: escravos fugitivos podem ser **mortos**; casamento inter-racial = banimento; alforria = deportação
 - **1705**: código escravista completo — escravo sem papel = escravo vitalício; servo branco sem papel = 5 anos
+:::
 
 ---
 
-
 ## 2. A legislação: o código de 1705 {.center}
 
+:::incremental
 - **Seção 3**: servo sem papel escrito = escravo para a vida; impossível reivindicar liberdade sem documento
 - **Seção 4**: batismo não altera status — **raça**, não religião, determina a condição
 - **Seção 7**: servo branco não pode ser chicoteado nu sem ordem judicial
-
-## 2. A legislação: o código de 1705 {.center}
-
 - **Seção 11**: negros (mesmo cristãos) não podem comprar servos brancos; servo branco de senhor inter-racial = automaticamente livre
 - **Seção 37**: escravo fugitivo pode ser **morto ou desmembrado** por qualquer pessoa — propósito: "instilar medo nos outros"
+:::
 
 ---
 
 ## 3. A construção racial: dividir para dominar {.center}
 
+:::incremental
 - Brancos e negros trabalhavam lado a lado, fugiam juntos, tinham relações interraciais
 - **Rebelião de Bacon** (1676): servos, libertos e escravos unidos queimaram Jamestown — 80 escravos continuaram resistindo após a derrota
 - Medo dos planters: aliança interracial = ameaça à colônia
-
----
-
-## 3. A construção racial: dividir para dominar {.center}
-
 - Estratégia legislativa: **elevar** servos brancos (proteções, privilégios) e **rebaixar** negros (escravidão, desumanização)
 - Resultado: classe trabalhadora dividida pela **linha de cor**, protegendo a elite planter
+:::
 
 ---
 
@@ -257,11 +247,11 @@ Fonte: SlaveVoyages.org (consultado em 27/05/2026)
 > "O uso da raça para separar trabalhadores com condições semelhantes não terminou na Virgínia do século XVII."
 > — McLaughlin, 2019, p. 32
 
----
-
-## 3. A construção racial: síntese {.center}
+:::incremental
 - Escravidão não começou como instituição racial — **foi construída** por lei ao longo de 86 anos
 - A separação racial serviu para **dividir a classe trabalhadora** e proteger a elite planter
+- As sementes de *Dred Scott v. Sandford* (1857) foram plantadas no solo da Virgínia em 1705
+:::
 
 ---
 
