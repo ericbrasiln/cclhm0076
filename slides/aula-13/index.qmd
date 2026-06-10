@@ -166,73 +166,191 @@ toc: false
 
 ---
 
+# Formas de Resistência {.center}
+
+---
+
+## Fugas · Quilombos · Revoltas {.center}
+
+Baseado em Florentino & Amantino (2012)
+
+---
+
+## A fuga como ataque à propriedade privada {.center}
+
+- O escravo era juridicamente uma mercadoria/propriedade: venda, compra, herança, penhor (p. 261)
+- O primeiro ato humano do escravo, na lei, é o **crime** — roubo, assassinato, fuga e formação de quilombos (p. 261-262)
+- As evasões "representavam atitudes do escravo que o humanizavam" na lei escravocrata (p. 262)
+- A fuga era um ataque frontal ao direito de propriedade, expondo os **limites do domínio privado do senhor** (p. 261-262)
+
+---
+
+## Fugas-reivindicatórias vs. fugas-rompimento {.center}
+
+- **Fugas-rompimento** (*grand marronage*): evasões definitivas; menos de 1% dos escravos arrolados em inventários (p. 262-263)
+- **Fugas-reivindicatórias** (*petit marronage*): ausências temporárias, muito mais frequentes; objetivo de obter pequenas conquistas e alargar a autonomia (p. 263)
+- Leis coloniais francesas e espanholas prescreviam **punições distintas** para cada tipo (p. 263)
+- A maior parte dos fugitivos **retornava** a seus donos, por vontade própria ou recaptura (p. 264)
+
+---
+
+## Perfil dos fugitivos {.center}
+
+- Adultos do sexo masculino predominavam: **3/4** nas fugas-rompimento, **4/5** nas fugas-reivindicatórias (p. 268)
+- Forte presença de africanos: de 5 a 10 africanos para cada crioulo nas fugas-reivindicatórias (p. 268)
+- Congos e angolanos predominavam no Sudeste; também oriundos de Moçambique e crioulos do Nordeste e Sul (p. 268-269)
+- Crianças entre 10 e 14 anos alcançavam **1/3 de todos os fugitivos** e 45% dos africanos evadidos (p. 269)
+
+---
+
+## Boçais, tráfico e alforrias {.center}
+
+- "Todo recém-chegado da África é um cimarrón de fato ou potencialmente" (p. 266, cit. Casimir)
+- Boçais representavam **20 a 30%** dos fugitivos denunciados nos jornais do Rio de Janeiro (p. 266)
+- Nas regiões mais dependentes do tráfico, o peso dos boçais entre fugitivos era três vezes maior (p. 267)
+- A frequência de evasões era **tanto maior quanto menor** fosse a incidência de alforrias (p. 267-268)
+
+---
+
+## Fugas maciças e a baixa frequência {.center}
+
+- Em situações extraordinárias, os índices de fuga podiam ser muito maiores: invasões holodesas na Española (1626), inglesas na Jamaica (séc. XVII) (p. 265)
+- Em condições normais, no máximo **10 em cada 100 escravos** envolviam-se em fugas; menos de **1** lograva abandonar definitivamente o cativeiro (p. 265)
+- Menos de 3% dos inventários *post-mortem* do Rio de Janeiro e Taubaté registravam escravos fugidos (p. 262)
+- A baixa frequência resultava do controle social, da aculturação e da afirmação de uma **cultura escrava de feição camponesa ou protocamponesa** (p. 265)
+
+---
+
+## Redes de sociabilidade nas fugas {.center}
+
+- Alguns fugitivos recebiam ajuda de escravos e livres que os escondiam e empregavam (p. 269)
+- Fugas-rompimento em pequenos grupos sugeriam **planejamento**, com definição de destino e amparo logístico (p. 268)
+- Na maioria das vezes, porém, a evasão **não se amparava em redes sólidas ou muito amplas** (p. 269)
+- A família escrava operava como forte mecanismo de **estabilização social**: poucos escravos aparentados deixavam o cativeiro definitivamente (p. 269-270)
+
+---
+
 # Quilombos, Palenques, Cimarrones, Maroons {.center}
 
 ---
 
-## Quilombos, Palenques, Cimarrones, Maroons {.center}
+## Variedade e diversidade {.center}
 
-- Variedade e diversidade
-- Redes de sociabilidade
-- Economia, proto-campesinato
-- Ação política?
-
----
-
-## Características das comunidades cimarronas {.center}
-
-- Regiões inacessíveis
-- Defesa: caminhos, estacas, armadilhas
-- Guerra de guerrilha
-- Práticas religiosas
-- Adaptação econômica e tendências inovadoras
-- Contato e aprendizado com as sociedades nativas
+- Múltiplos termos nas Américas: quilombos (Brasil), palenques (América espanhola), cumbes, mainels, maroons (EUA/Caribe inglês) (p. 269)
+- Enorme variação: de menos de **10 fugitivos** (durando semanas) a **11 mil** em Palmares (quase um século) (p. 259)
+- Só em Nueva Granada: mais de **meia centena de palenques** entre os séculos XVI e XVIII (p. 270)
+- Em Minas Gerais: pelo menos **166 quilombos** entre 1711 e 1795 (p. 270)
 
 ---
 
-## Características das comunidades cimarronas {.center}
+## A horda quilombola {.center}
 
-- Dependência da sociedade de plantation: limite das sociedades cimarronas
-- Contato e relações com a sociedade de plantation: comércio, trocas, contrabando — mas também relações políticas
-- Organização interna + estado de guerra: lealdade; período de prova para novos membros, autoridade interna forte, questão de gênero
-
----
-
-![*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107](quilombo_sao_goncalo.jpg){width=70%}
+- A maioria dos quilombos eram **hordas**: ajuntamentos baseados na adesão, não em saldos entre natalidade e mortalidade (p. 272)
+- Economia fundada em coleta, caça e roubos — não na agricultura — resultando em **nomadismo** (p. 272)
+- Grupos geralmente **inferiores a dez pessoas**, unidos em torno de objetivos imediatos (alimentos e proteção) (p. 272)
+- Posição **defensiva**: refúgio em zonas de geografia difícil, risco constante de desaparição (p. 272-273)
+- Boa parte dos recém-evadidos optava por integrar-se a **assentamentos preexistentes** (p. 272)
 
 ---
 
-![Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)](quilombo_boucou_price.jpg){width=70%}
+## Características geográficas e defensivas {.center}
+
+- Refúgio em **bosques e regiões pantanosas** — proteção e recursos naturais (p. 270)
+- Defesas: **armadilhas, fossos, estrepes, trincheiras, paliçadas** (p. 285-287)
+- Sistemas de origem africana (armadilhas cobertas e estacas pontiagudas) encontrados em Palmares, Buraco do Tatu e outros (p. 286)
+- Quilombo do Ambrózio: fosso de 1,5-2m de largura por 2-3m de profundidade circundando 90m × 70m (p. 287)
+
+![*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107](quilombo_sao_goncalo.jpg){width=60%}
 
 ---
 
-## Redes de interação e sociabilidade {.center}
+## Economia e proto-campesinato {.center}
 
-- Herança africana: destreza militar, estratégias de ataque e defesa, emergência de lideranças fortes, hierarquia rígida e em alguns casos de escravidão (p. 285)
-
----
-
-## Redes de interação: alianças {.center}
-
-> "Os palenques mantinham graus razoáveis de interação com escravos, indígenas, forros e homens livres que viviam em seu entorno, e senhores e autoridades coloniais sabiam que as redes que os uniam eram fundamentais para a reprodução e o crescimento dos grupos de fugitivos." (p. 273)
+- A transição para comunidade camponesa exigia **agricultura, pecuária e trocas** (p. 272-273)
+- Grandes quilombos combinavam campos, horticultura, capacidade de armazenamento e produção para exportação (p. 282-283)
+- Exemplos: cana e cachaça (Moquim, RJ); algodão, milho, feijão, mandioca (Minas Gerais); cacau, tabaco (Esmeraldas) (p. 282-283)
+- Excedentes comercializados em **mercados e armazéns** locais (p. 283-284)
+- Divisão social do trabalho: ferreiros, artífices, tecelões (p. 283)
 
 ---
 
-## Redes de interação: alianças {.center}
+## Organização interna e hierarquias {.center}
 
-- Pena de morte para fugitivos de mais de 6 meses com contato com quilombolas
-- "Redes estáveis de sociabilidade e auxílio permitiam a obtenção de alimentos, armas, munição, dinheiro e informações que garantiam a sobrevivência presente e futura" (p. 273)
-- Relação de aliança com muitas comunidades indígenas, especialmente em regiões de fronteira
-
----
-
-## Organização interna {.center}
-
-> "Além dos variados tipos de relações com o entorno, a reiteração temporal das grandes comunidades palenqueras repousava na possibilidade de combinar eficientemente uma população em crescimento, mantida por sistemas agrários razoavelmente produtivos, um panorama de significativo incremento de relações de parentesco a unir seus membros, hierarquias internas bem estruturadas." (p. 279)
+- Hierarquização baseada no **princípio da anterioridade**: os mais antigos administravam o mercado matrimonial e a distribuição de terras (p. 280-281)
+- Reis, rainhas, capitães, tenentes, alferes e sargentos nomeavam-se entre os quilombolas (p. 288-290)
+- Instituições políticas: "Casas de Audiência", "Casa do Conselho", "Casa do Rei" (p. 288)
+- Lideranças combinavam funções **religiosas e políticas**: Nanny (Jamaica), Macandal (Saint Domingue), Ventura Sanchez (Cuba) (p. 289-290)
+- Havia escravidão interna: em Palmares, cativos raptados mantinham seu *status* (p. 291)
 
 ---
 
-![Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260](tabela_quilombos_mg.jpg){width=90%}
+## Relações com a sociedade de plantation {.center}
+
+- **Comércio**: pequenos armazéns e vendas comercializavam excedentes — "cada venda é um quilombo" (Câmara de Vila Rica, 1754) (p. 274)
+- **Alianças**: quilombolas do Barba Negra (RS) trabalhavam para estancieiros, que os alertavam sobre expedições (p. 285)
+- **Guerra**: ataques a fazendas para raptar escravos e escravas — "destruindo tudo, pondo em miserável estado" (p. 286)
+- **Tratados de paz**: Colômbia, México, Jamaica, Suriname — reconhecimento de liberdade e território em troca de devolução de novos fugitivos (p. 276-278)
+
+---
+
+## Tratados: Yanga e Kwadwo {.center}
+
+- **Yanga** (México, 1609): obteve liberdade para seus seguidores, um povoado (San Lorenzo de los Negros) e uma igreja; comprometeu-se a devolver fugitivos futuros e servir ao rei (p. 277)
+- **Kwadwo** (Jamaica, 1739): após anos de ataques, firmou tratado garantindo 1.500 acres; maroons comprometeram-se a debelar rebeliões escravas na ilha (p. 277-278)
+- San Basílio (Colômbia): o governador de Cartagena traiu e enforcou o líder Benkos em 1619, mas o palenque sobreviveu até 1686 com três mil habitantes (p. 278)
+
+---
+
+## Redes com indígenas {.center}
+
+- Desde 1503: africanos refugiados entre os tainos de La Española (p. 275)
+- Cooperação em Cuba (1529), Nicarágua (1540), Panamá (1546-1550) (p. 275)
+- **Comunidades mestiças**: Palmares tinha 20% de população ameríndia (1644); quilombo do Piolho (MT) — 79 negros, 30 indígenas, famílias com mulheres índias (p. 276-277)
+- Mas indígenas também serviam como **forças repressoras**: tapuias ajudaram a destruir Palmares (p. 275)
+- Quando aliados às autoridades, indígenas rejeitavam contatos e devolviam fugitivos (p. 275-276)
+
+---
+
+## Gênero e comunidade cimarrona {.center}
+
+- **Crônico deficit de mulheres negras** nos quilombos — homens raptavam mulheres indígenas para constituir famílias (p. 276-277)
+- No Mato Grosso (1770-1795): capturados 6 negros idosos, 8 índios, 19 índias e 21 caburés — preferência pela permanência de mulheres indígenas (p. 276)
+- Em comunidades camponesas consolidadas, **famílias nucleares** eram o eixo da organização (p. 280-281)
+- No santuário de Mose (Flórida, 1759): ¼ da população tinha menos de 15 anos, todos nascidos no local; 13 de 22 casas habitadas por famílias nucleares (p. 280)
+- **Nanny**: liderança feminina na Jamaica, combinava funções religiosas e políticas (p. 289)
+
+---
+
+## Quilombos no Brasil: o caso de Minas Gerais {.center}
+
+- Pelo menos **166 quilombos** entre 1711-1795 (p. 270)
+- População média dos grandes quilombos: **~600 habitantes** (p. 280)
+- Agricultura diversificada: milho, feijão, algodão, cana, mandioca; criação de gado (p. 282-283)
+- Defesas sofisticadas: fossos, trincheiras, fortificações (p. 285-287)
+- Quilombo do Bacaxá (RJ): mais de 60 pessoas, todos nascidos no quilombo, "em parte de suas roças e, em parte, de furtos" (p. 278)
+
+![Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260](tabela_quilombos_mg.jpg){width=80%}
+
+---
+
+## Comparações hemisféricas {.center}
+
+- **Brasil e Caribe**: fugas e quilombos **mais frequentes** que na América espanhola continental e sul dos EUA (p. 266)
+- **Sul dos EUA**: quilombos congregavam menores contingentes e obtinham **menores êxitos** (p. 266)
+- **Suriname e Jamaica**: casos raros onde quilombolas estabeleceram **tratados** e descendentes sobrevivem até hoje (p. 271)
+- **Palmares** (Brasil, séc. XVII): 11 mil habitantes, federação de dez assentamentos — o maior quilombo das Américas (p. 259, 279)
+- O século XVIII foi a **"época áurea das fugas"** no continente (2/3 de todas as viagens negreiras) (p. 266)
+
+![Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)](quilombo_boucou_price.jpg){width=60%}
+
+---
+
+## Quilombos: considerações finais {.center}
+
+- Os quilombos **não estavam radicalmente isolados** da sociedade escravista (p. 293)
+- As comunidades locais relacionavam-se com eles de modo **desigual** — nem todo quilombo era uma "contrassociedade" (p. 279)
+- Havia quilombos que acolhiam **brancos e mulatos livres pobres**, além de indígenas (p. 279)
+- "As fugas permanentes não enlaçaram a maioria dos cativos que se evadiu" — e os quilombos "jamais lograram ameaçar os sistemas escravistas como um todo" (p. 293)
 
 ---
 
@@ -240,35 +358,18 @@ toc: false
 
 ---
 
-# Formas de resistência {.center}
+# Revoltas, Rebeliões e Revolução {.center}
 
 ---
 
-## A fuga como resistência {.center}
+## Revoltas, Rebeliões e Revolução {.center}
 
-- Ataque direto à propriedade privada
+### ✦ Conteúdo a ser adicionado ✦
 
-- "A fuga, como a insurgência, não pode ser banalizada: é um ato extremo e sua simples possibilidade marca os limites da dominação, mesmo para o mais acomodado dos escravos e o mais terrível dos senhores, garantindo-lhes espaço para negociação no conflito" (p. 63)
-
-- Fugas-reivindicatórias
-- Fugas-rompimento
-
----
-
-## Luta por liberdade específica {.center}
-
-- Campesinato, independência, autonomia
-- Maior número de fugas em regiões com maior dependência do tráfico transatlântico
-- Quanto maiores as taxas de alforria, menor o número de fugas
-- Adultos de sexo masculino fugiam mais
-
----
-
-## Fugas para fora e fugas para dentro {.center}
-
-- **Fugas para fora** (do século XVI até 1870, no Brasil): paradigma colonial — buscam se isolar da sociedade
-
-- **Fugas para dentro** (a partir de 1870): quebra do paradigma ideológico — "para o interior da própria sociedade escravista, onde encontram, finalmente, a dimensão política de luta pela transformação do sistema" (p. 72)
+- Este bloco abordará revoltas escravas de larga escala, conspirações e insurreições nas Américas
+- Incluirá a Revolução Haitiana (1791-1804) como ponto central
+- Abrangerá também revoltas urbanas, conspirações e rebeliões rurais
+- **Conteúdo completo será inserido em etapa posterior**
 
 ---
 
