@@ -1,5 +1,5 @@
 ---
-title: "Aula 13: Lutas contra o cativeiro, lutas pela liberdade — parte 1"
+title: "Aula 13: Lutas contra o cativeiro, lutas pela liberdade"
 date: "2026-06-11"
 date-format: full
 lang: pt-br
@@ -201,33 +201,11 @@ toc: false
 
 ---
 
-## O "muro de Berlim historiográfico" (1/2) {.center}
-
-- Separação artificial entre historiadores da escravidão e do movimento operário (Chalhoub & Silva, 2009)
-- "Paradigma da ausência" também na história operária: trabalhadores como vítimas de modernização incompleta
-- Novo sindicalismo pós-1978 questionou a imagem de passividade e atrofia histórica
-
----
-
-## O "muro de Berlim historiográfico" (2/2) {.center}
-
-- "Tanto Gilberto Freyre como a Escola Paulista continuam fazendo parte de nossa produção intelectual" (Palermo, 2017)
-- As disputas sobre agência, violência estrutural e capitalismo histórico permanecem em aberto
-
----
-
-## Tradições eletivas: síntese (1/2) {.center}
+## Tradições eletivas: síntese {.center}
 
 - Cada tendência dialogou fortemente com seu contexto e propôs "a fundação de novas tradições" (Palermo, 2017)
 - O campo é marcado por "contendas políticas, ideológicas e epistemológicas"
 - Freyre → Escola Paulista → renovação pós-1980: não são etapas superadas, mas tradições em disputa
-
----
-
-## Tradições eletivas: síntese (2/2) {.center}
-
-- "Muro de Berlim historiográfico" entre escravidão e trabalho livre ainda emperra o diálogo
-- Superar essas divisões exige reformular os "modos do pensamento historiográfico"
 
 ---
 
@@ -370,7 +348,9 @@ Baseado em Florentino & Amantino (2012)
 - Sistemas de origem africana (armadilhas cobertas e estacas pontiagudas) encontrados em Palmares, Buraco do Tatu e outros (p. 286)
 - Quilombo do Ambrózio: fosso de 1,5-2m de largura por 2-3m de profundidade circundando 90m × 70m (p. 287)
 
-![*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107](quilombo_sao_goncalo.jpg){width=60%}
+---
+
+![*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107](quilombo_sao_goncalo.jpg)
 
 ---
 
@@ -418,14 +398,6 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## Tratados: Yanga e Kwadwo {.center}
-
-- **Yanga** (México, 1609): obteve liberdade para seus seguidores, um povoado (San Lorenzo de los Negros) e uma igreja; comprometeu-se a devolver fugitivos futuros e servir ao rei (p. 277)
-- **Kwadwo** (Jamaica, 1739): após anos de ataques, firmou tratado garantindo 1.500 acres; maroons comprometeram-se a debelar rebeliões escravas na ilha (p. 277-278)
-- San Basílio (Colômbia): o governador de Cartagena traiu e enforcou o líder Benkos em 1619, mas o palenque sobreviveu até 1686 com três mil habitantes (p. 278)
-
----
-
 ## Redes com indígenas (1/2) {.center}
 
 - Desde 1503: africanos refugiados entre os tainos de La Española (p. 275)
@@ -469,7 +441,9 @@ Baseado em Florentino & Amantino (2012)
 - Defesas sofisticadas: fossos, trincheiras, fortificações (p. 285-287)
 - Quilombo do Bacaxá (RJ): mais de 60 pessoas, todos nascidos no quilombo, "em parte de suas roças e, em parte, de furtos" (p. 278)
 
-![Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260](tabela_quilombos_mg.jpg){width=80%}
+---
+
+![Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260](tabela_quilombos_mg.jpg)
 
 ---
 
@@ -486,7 +460,9 @@ Baseado em Florentino & Amantino (2012)
 - **Palmares** (Brasil, séc. XVII): 11 mil habitantes, federação de dez assentamentos — o maior quilombo das Américas (p. 259, 279)
 - O século XVIII foi a **"época áurea das fugas"** no continente (2/3 de todas as viagens negreiras) (p. 266)
 
-![Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)](quilombo_boucou_price.jpg){width=60%}
+---
+
+![Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)](quilombo_boucou_price.jpg)
 
 ---
 
@@ -495,7 +471,6 @@ Baseado em Florentino & Amantino (2012)
 - Os quilombos **não estavam radicalmente isolados** da sociedade escravista (p. 293)
 - As comunidades locais relacionavam-se com eles de modo **desigual** — nem todo quilombo era uma "contrassociedade" (p. 279)
 - Havia quilombos que acolhiam **brancos e mulatos livres pobres**, além de indígenas (p. 279)
-- "As fugas permanentes não enlaçaram a maioria dos cativos que se evadiu" — e os quilombos "jamais lograram ameaçar os sistemas escravistas como um todo" (p. 293)
 
 ---
 
@@ -503,76 +478,25 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-# Revoltas, Rebeliões e Revolução {.center}
+## Revoltas, Rebeliões e Revolução {.center}
 
 ---
 
-## Tipologia da Resistência Escrava {.center}
+## Tipologia da Resistência Escrava (1/2) {.center}
 
 - **Conspirações**: complôs abortados, difíceis de autenticar — dependem de testemunhos obtidos sob coação (Geggus 2011, p. 24)
 - **Revoltas abertas**: escravos como participantes mais importantes; deixam evidências materiais (mortes, destruição)
+
+---
+
+## Tipologia da Resistência Escrava (2/2) {.center}
+
 - **Guerras maroons**: insurgentes "nasceram livres" — não se confundem com rebelião escrava (Geggus 2011, p. 24)
 - **Conflitos multiclassistas**: envolvem escravos mas são dominados por **pardos livres** ou **Caribes negros** (Granada, São Vicente, 1795)
 
 ---
 
-## A Conspiração de Antigua — Plano e Liderança (1/2) {.center}
-
-- Liderada por **Court (Tackey)**, coromantee, e **Tomboy**, crioulo carpinteiro (Gaspar 1978, p. 308)
-- Plano: explodir o salão do baile de coroação de Jorge II, matando governador e elite; grupos de 300-400 escravos atacariam St. John's (p. 308-309)
-- Baile adiado de 11 para 30 de outubro; líderes optaram por esperar — trama descoberta nesse intervalo (p. 309)
-
----
-
-## A Conspiração de Antigua — Plano e Liderança (2/2) {.center}
-
-- Resultado: **88 executados** (5 na roda, 6 enforcados, 77 queimados) e **47 banidos** (p. 309)
-
----
-
-## A Conspiração de Antigua — Causas Endógenas (1/2) {.center}
-
-- **Frouxidão do controle**: "talvez o fator geral mais importante" — reuniões abertas como a "dança ikem" de Court, com "perto de dois mil" negros (Gaspar 1978, p. 315-316)
-- **Recessão econômica**: mercado açucareiro em crise nos anos 1730; condições de vida dos escravos pioraram (p. 316-317)
-
----
-
-## A Conspiração de Antigua — Causas Endógenas (2/2) {.center}
-
-- **Pragas e desastres**: "the blast" (praga nos canaviais), secas, epidemias, terremotos em 1735 (p. 317)
-- Superioridade numérica dos escravos: 24 mil negros para 3 mil brancos — mais de 88% da população (p. 313)
-
----
-
-## A Conspiração de Antigua — Composição Social (1/2) {.center}
-
-- Dos 10 principais líderes executados, 7 eram **não-lavradores** e pelo menos **8 crioulos** (Gaspar 1978, p. 317-318)
-- Entre os executados: 13 carpinteiros, 8 tanoeiros, 26 feitores (*drivers*) — "escravos não-lavradores predominaram" (p. 318)
-
----
-
-## A Conspiração de Antigua — Composição Social (2/2) {.center}
-
-- **Aliança interétnica crucial**: Court (coromantee) e Tomboy (crioulo) superaram uma "longa frieza" entre os dois grupos (p. 321)
-- Conspiração "**etnicamente orientada, mas gerada por condições locais**" (p. 323)
-
----
-
-## A Conspiração de Antigua — Autenticidade (1/2) {.center}
-
-- Conspirações escravas "são difíceis de autenticar" — diferentemente de revoltas abertas (Gaspar 1978, p. 310)
-- Testemunhos de escravos obtidos sob coação são "suspeitos, se não inteiramente não confiáveis" (p. 311)
-
----
-
-## A Conspiração de Antigua — Autenticidade (2/2) {.center}
-
-- Indícios de autenticidade: confissão de Court e Tomboy; escravo Ned exortando companheiros a "manter suas mentes para si mesmos e ser fiéis ao seu compromisso" (p. 311)
-- Consistência do volume de testemunhos, ainda que obtidos em condições questionáveis (p. 311)
-
----
-
-## O "Enigma da Jamaica" nos 1790s — Paradoxo {.center}
+## O "Enigma da Jamaica" nos 1790s {.center}
 
 - Jamaica possuía "um impressionante histórico de resistência violenta do século XVII até a década de 1830" (Geggus 1987, p. 274)
 - **Paradoxo**: durante a Era das Revoluções, quando São Domingos viveu a maior revolta escrava, as colônias britânicas atingiram seu **nível mais baixo** de rebeliões (p. 274)
@@ -680,52 +604,50 @@ Baseado em Florentino & Amantino (2012)
 
 ---
 
-## O Fator Militar Revisitado (1/2) {.center}
-
-- Guerras geralmente **dificultaram** rebeliões pela mobilização de grandes contingentes armados (Geggus 2011, p. 36-37)
-- Escassez de revoltas no Caribe britânico durante as guerras revolucionárias e napoleônicas atribuída às **guarnições excepcionalmente grandes**
-
----
-
-## O Fator Militar Revisitado (2/2) {.center}
-
-- Muitas rebeliões ocorreram após **declínio recente na força da guarnição local**: São Domingos (1791), Barbados (1816), Demerara (1823), Jamaica (1831)
-- Em Cuba, rebelião aumentava quando guarnições diminuíam e diminuía quando reforçadas (p. 37)
-
----
-
-## Síntese: Conspirações, Condições Locais e Agência Escrava (1/2) {.center}
-
-- Gaspar (1978): conspiração de Antigua "etnicamente orientada, mas gerada por condições locais" — liderança carismática, aliança interétnica (p. 323)
-- Geggus (1987): "a abordagem mais geralmente válida enfatiza a **força das forças de controle**" (p. 299)
-
----
-
-## Síntese: Conspirações, Condições Locais e Agência Escrava (2/2) {.center}
+## Síntese: Conspirações, Condições Locais e Agência Escrava {.center}
 
 - Geggus (2011): insurreições eram "**mais racionalmente calculadas, menos desesperadas** do que muitas vezes pareceram" (p. 299)
 - Em todos os textos: agência escrava como escolha racional condicionada por estruturas de poder — demografia, economia, presença militar e circulação de notícias
 
 ---
 
-## Bibliografia — Historiografia {.center}
+# Bibliografia {.center}
+
+---
+
+## Historiografia (1/2) {.center}
 
 - PALERMO, Luis Claudio. Disputas no campo da historiografia da escravidão brasileira: perspectivas clássicas e debates atuais. *Dimensões*, v. 39, p. 324-347, 2017.
 - QUEIROZ, Suely Robles Reis de. Rebeldia escrava e historiografia. *Estudos Econômicos* (São Paulo), v. 17, n. Especial, p. 07–35, 1987.
+
+---
+
+## Historiografia (2/2) {.center}
+
 - CHALHOUB, Sidney; SILVA, Fernando Teixeira da. Sujeitos no imaginário acadêmico: escravos e trabalhadores na historiografia brasileira desde os anos 1980. *Cadernos AEL*, v. 14, n. 26, 2009.
 
 ---
 
-## Bibliografia — Formas de Resistência {.center}
+## Formas de resistência (1/2) {.center}
 
 - FLORENTINO, Manolo; AMANTINO, Márcia. Uma morfologia dos quilombos nas Américas, séculos XVI-XIX. *História, Ciências, Saúde — Manguinhos*, Rio de Janeiro, v. 19, supl., p. 259-297, dez. 2012.
 - MULLIN, Michael. *Africa in America: Slave Acculturation and Resistance in the American South and the British Caribbean, 1736-1831*. Urbana: University of Illinois Press, 1994.
+
+---
+
+## Formas de resistência (2/2) {.center}
+
 - ARANA, Paola Vargas. Balanço historiográfico sobre as insurgências de africanos(as) e afrodescendentes contra a escravidão em América. *Anais eletrônicos da XII Jornada de Estudos Históricos Professor Manoel Salgado*, PPGHIS-UFRJ, v. 3, p. 657-678, 2017.
 
 ---
 
-## Bibliografia — Rebeliões Escravas {.center}
+## Rebeliões Escravas (1/2) {.center}
 
 - GASPAR, David Barry. The Antigua Slave Conspiracy of 1736: A Case Study of the Origins of Collective Resistance. *The William and Mary Quarterly*, v. 35, n. 2, p. 308–323, abr. 1978.
 - GEGGUS, David. The Enigma of Jamaica in the 1790s: New Light on the Causes of Slave Rebellions. *The William and Mary Quarterly*, v. 44, n. 2, p. 274–299, 1987.
+
+---
+
+## Rebeliões Escravas (2/2) {.center}
+
 - GEGGUS, David. Slave rebellion during the Age of Revolution. In: KLOOSTER, Wim; OOSTINDIE, Geert (Orgs.). *Curaçao in the Age of Revolutions, 1795-1800*. Leiden: BRILL, 2011.

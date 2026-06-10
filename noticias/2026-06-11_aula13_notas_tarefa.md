@@ -30,7 +30,7 @@ Olá, turma!
 
 **Aula 13 disponível!**
 
-Os slides da aula "Lutas contra o cativeiro, lutas pela liberdade — parte 1" já estão disponíveis no site da disciplina:
+Os slides da aula "Lutas contra o cativeiro, lutas pela liberdade" já estão disponíveis no site da disciplina:
 
 🔗 [Slides da Aula 13](https://ericbrasil.com.br/cclhm0076/slides/aula-13/)
 
@@ -54,4 +54,4 @@ Eric Brasil
 
 ---
 
-*Mensagem escrita com assistência do [William Stoner](https://hermes-agent.nousresearch.com).*
+*Mensagem escrita com assistência do [Agente de IA Hermes](https://hermes-agent.nousresearch.com).*
