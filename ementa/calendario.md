@@ -35,8 +35,6 @@ format:
 - **12/12/2026**: fim do período letivo.
 - **15 a 19/12/2026**: consolidação das notas.
 
-**Feriados informados:** 07/08, 04/10, 12/10, 15/10, 28/10, 02/11, 15/11 e 20/11/2026.
-
 ## Cronograma
 
 | Aula | Data       | Módulo | Tema                                                                            | CH | Observação                    |
