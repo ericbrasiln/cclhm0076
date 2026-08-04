@@ -1,13 +1,13 @@
 ---
 title: "História da América: Colonização e Resistência"
-subtitle: "CCLHM0076 - 2026.1"
+subtitle: "CCLHM0076 - 2026.2"
 author:
   - name: Eric Brasil
     email: profericbrasil@unilab.edu.br
     orcid: 0000-0001-5067-8475
     affiliation: Instituto de Humanidades e Letras - UNILAB
 date: today
-description: "Plano de Ensino da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2026.1, no curso de Licenciatura em História da UNILAB."
+description: "Plano de Ensino da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2026.2, no curso de Licenciatura em História da UNILAB."
 lang: pt-BR
 date-format: long
 format:
@@ -33,7 +33,7 @@ format:
 
 |   Código      |                   Disciplina                   |  CH | Dia | Horário        | Sala |
 | :-----------: | :--------------------------------------------: | :-: | :-: | :------------: | :--: |
-| CCLHM0076     | História da América: Colonização e Resistência | 60h |  5ª | 8h30-11h30     |  4   |
+| CCLHM0076     | História da América: Colonização e Resistência | 60h |  5ª | 8h30-11h30     | A definir |
 
 ***
 
@@ -46,7 +46,7 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 :::
 
 ::: {.callout-warning}
-**Observação (Calendário 2026.1 / UNILAB):** não haverá aula em **02/04/2026 (recesso decretado pela Reitoria)** nem em **04/06/2026 (Corpus Christi)**.
+**Observação (Calendário 2026.2 / UNILAB):** não haverá aula em **17/09/2026 (Festival das Culturas)**, **15/10/2026 (feriado)** e **22/10/2026 (Semana Universitária)**. As atividades de **08/10**, **12/11** e **10/12/2026** serão realizadas remotamente.
 :::
 
 ***
@@ -55,14 +55,15 @@ Formações sociais e políticas nas Américas antes do século XV: representaç
 
 A avaliação da disciplina será composta por:
 
-* **AT1. Atividade assíncrona**: iniciada na aula de **26/02/2026**, com prazo de entrega até **12/03/2026 (23:59)**. A atividade consiste em debater o conceito de **América Latina / *latinidad*** e a forma como o Brasil é percebido (ou não) nesse campo. Carga horária: 4 horas. Acesse pelo [formulário online](https://forms.gle/YABz9wUbPsPcnBFj9). **Nota: 1,0 ponto.**
-* **AT2. Leitura e participação**: ao longo do semestre, serão realizados debates de textos e leitura crítica de fontes em sala de aula. As/os estudantes deverão selecionar **um texto da bibliografia** e **uma fonte** para apresentar e debater em sala. **A estratégia será definida coletivamente na primeira aula.** **Nota: 9,0 pontos.**
-* **AT3. Prova escrita presencial**: a ser realizada em **30/04/2026**, com duração de **2 horas**. A prova terá formato discursivo, com **três questões**, das quais as/os estudantes deverão escolher **duas** para responder. O conteúdo abrangerá os temas discutidos nas **aulas 5 a 8**, conforme descrito no conteúdo programático. **Nota: 10,0 pontos.**
+* **PR. Prova escrita presencial**: será realizada em **29/10/2026**, após a aula sobre trabalho e tributo colonial. **Valor: 8,0 pontos.**
+* **AT1. Análise de fonte**: atividade remota a ser realizada em **08/10/2026**. **Valor: 2,0 pontos.**
+* **AT2. Apresentação de texto em sala**: será realizada ao longo do semestre. **Valor: 2,0 pontos.**
+* **TF. Trabalho final**: será realizado de forma remota em **10/12/2026**. **Valor: 8,0 pontos.**
 
-A média final da disciplina será calculada com base nas notas das atividades **AT1**, **AT2** e **AT3**, conforme a seguinte fórmula:
+A média final será calculada pela seguinte fórmula:
 
 $$
-\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}
+\text{Média Final} = \frac{(\text{PR} + \text{AT1}) + (\text{TF} + \text{AT2})}{2}
 $$
 
 ***
@@ -76,7 +77,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ## Módulo I - Sociedades Autóctones das Américas
 
-### AULA 1 (26/02/2026)
+### AULA 1 (13/08/2026)
 
 **Tema**: Quais Américas? Apresentação e reflexões sobre a disciplina
 
@@ -90,29 +91,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 * SILVA, K. V.; SILVA, M. H. Índio. in: **Dicionário de conceitos históricos.** São Paulo: Contexto, 2009. [Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf).
 
-**Atividade assíncrona (AT1)**
-
-::: {.callout-important}
-Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga horária: 4 horas. Valor: **1,0 ponto**.
-
-**Tema:** Debatendo o conceito de América Latina / *latinidad* e a forma como o Brasil é percebido (ou não) nesse campo.
-
-[Acesse o formulário aqui](https://forms.gle/YABz9wUbPsPcnBFj9)
-:::
-
-### AULA 2 (05/03/2026)
-
-**Tema**: Atividade presencial — Cuba nos Malês!
-
-**Modalidade**: Atividade presencial
-
-########### 12/03/2026
-
-::: {.callout-warning}
-**12/03/2026 — Sem aula:** paralisação estudantil.
-:::
-
-### AULA 3 (19/03/2026)
+### AULA 2 (20/08/2026)
 
 **Tema**: Sociedades autóctones americanas antes do século XVI
 
@@ -133,7 +112,7 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 
 * MURRA, John. “As sociedades andinas anteriores a 1532”. In: **História da América Latina: América Latina Colonial.** BETHEL, Leslie (org.). São Paulo: Edusp, 2004, pp. 63-100.
 
-### AULA 4 (26/03/2026)
+### AULA 3 (27/08/2026)
 
 **Tema**: Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI
 
@@ -160,13 +139,7 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 
 ## Módulo II - Conquistas, Colonização e Resistências
 
-########### 02/04/2026
-
-::: {.callout-warning}
-**02/04/2026 — Sem aula:** recesso decretado pela Reitoria.
-:::
-
-### AULA 5 (09/04/2026)
+### AULA 4 (03/09/2026)
 
 **Tema**: As várias visões da conquista
 
@@ -188,7 +161,7 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 
 * RESTALL, Matthew. Guerreiros Invisíveis: o mito do conquistador branco. In: **Sete mitos da conquista espanhola**. Rio de Janeiro: José Olympio, 2006.
 
-### AULA 6 (16/04/2026)
+### AULA 5 (10/09/2026)
 
 **Tema**: Formação da sociedade colonial espanhola (XVI-XVIII)
 
@@ -205,7 +178,13 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 * RAMINELLI, Ronald. "A monarquia católica e os poderes locais do Novo Mundo." *Simpósio Nacional de História*, XXVI, São Paulo (2011): 1-26.
 * STOLKE, V. O enigma das interseções: classe, "raça", sexo, sexualidade: a formação dos impérios transatlânticos do século XVI ao XIX. *Revista Estudos Feministas*, v. 14, n. 1, p. 15–42, jan. 2006. 
 
-### AULA 7 (23/04/2026)
+### 17/09/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Festival das Culturas:** não haverá aula.
+:::
+
+### AULA 6 (24/09/2026)
 
 **Tema**: Resistências, negociações e agência indígenas nos séculos XVI e XVII
 
@@ -218,22 +197,7 @@ Iniciada nesta aula, com prazo de entrega até **12/03/2026 (23:59)**. Carga hor
 * BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.) **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992, pp. 77-87.
 * MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. Métis: história & cultura, v. 16, n. 31, 11 set. 2017.
 
-### AULA 8 (30/04/2026)
-
-**Prova escrita presencial**
-
-**Temas**
-
-* As várias visões da Conquista
-* Resistências, negociação, agência: história e historiografia (XVI-XVII)
-* Formação da sociedade colonial espanhola (XVI-XVIII)
-* Trabalho e tributo colonial
-
-::: {.callout-important}
-A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve escolher apenas **DUAS** das 3 questões para responder. A prova terá duração de 2 horas e será realizada no formato presencial, na sala de aula. O conteúdo da prova abrangerá os temas discutidos nas aulas 5 a 8, conforme descrito acima.
-:::
-
-### AULA 9 (07/05/2026)
+### AULA 7 (01/10/2026)
 
 **Tema**: Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones
 
@@ -246,9 +210,44 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * ZAGALSKY, Paula Cecilia. O trabalho mineiro de Potosí nos mundos do trabalho indígena na América colonial hispânica, séculos XVI-XVII; Paco Editorial; 2022; 59-84
 
+### AULA 8 (08/10/2026)
+
+**Tema**: Análise de fontes
+
+**Modalidade**: Atividade remota
+
+**Atividade avaliativa**: AT1 — **2,0 pontos**
+
+### 15/10/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Feriado:** não haverá aula.
+:::
+
+### 22/10/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Semana Universitária:** não haverá aula. As/os estudantes deverão participar das atividades do evento.
+:::
+
+### AULA 9 (29/10/2026)
+
+**Prova escrita presencial**
+
+**Temas**
+
+* As várias visões da conquista
+* Formação da sociedade colonial espanhola (XVI–XVIII)
+* Resistências, negociação e agência: história e historiografia (XVI–XVII)
+* Trabalho e tributo colonial
+
+::: {.callout-important}
+O conteúdo da prova abrangerá os temas discutidos nas aulas 4 a 8. A atividade vale **8,0 pontos**. As orientações e os critérios de avaliação serão informados antes da atividade.
+:::
+
 ## Módulo III - Escravidão Africana nas Américas
 
-### AULA 10 (14/05/2026)
+### AULA 10 (05/11/2026)
 
 **Tema**: Tráfico transatlântico de africanos escravizados
 
@@ -261,11 +260,11 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 * FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). Estudos afro-latino-americanos : uma introdução. Buenos Aires: CLACSO, 2018, p. 47–74. Disponível em: <http://biblioteca.clacso.edu.ar/clacso/se/20181206024023/EstudiosAfro_PT.pdf>. Acesso em: 16 abr. 2019.
 * WILLIAMS, Eric. Origens da escravidão negra. In: Capitalismo e escravidão. São Paulo: Companhia das Letras, 2012.
 
-### AULA 11 (21/05/2026)
+### AULA 11 (12/11/2026)
 
 **Tema**: A escravidão nas regiões Andina, Platina e Mexicana
 
-**Modalidade**: Atividade assíncrona (vídeo-aula)
+**Modalidade**: Aula remota
 
 ::: {.callout-important}
 **Vídeo-aula obrigatória**: [A escravidão nas regiões Andina, Platina e Mexicana](https://www.youtube.com/watch?v=lnyPIwc_KKo)
@@ -281,7 +280,7 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 * KLEIN, Herbert S. Los esclavos africanos. In: Historia General de La America Latina: Consolidación del Ordem Colonial. Paris: UNESCO; Editorial Trotta, 2007, v. 3.
 * ROSAL, Miguel Ángel. La esclavitud en Buenos Aires y sus fuentes. 5º Encontro Escravidão e Liberdade no Brasil Meridional, Porto Alegre, 2011.
 
-### AULA 12 (28/05/2026)
+### AULA 12 (19/11/2026)
 
 **Tema**: O Caribe, as colônias na América do Norte e o sistema de plantation
 
@@ -293,9 +292,9 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015
 
-### AULA 13 (11/06/2026)
+### AULA 13 (26/11/2026)
 
-**Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 1
+**Tema**: Lutas contra o cativeiro, lutas pela liberdade — parte 1
 
 **Objetivos**
 
@@ -306,9 +305,9 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * ARANA, Paola Vargas. Balanço historiográfico sobre as insurgências de africanos(as) e afrodescendentes contra a escravidão em América. Anais eletrônicos da XII Jornada de Estudos Históricos Professor Manoel Salgado (2017) PPGHIS-UFRJ, v. 3, p. 657-678, 2017.
 
-### AULA 14 (18/06/2026)
+### AULA 14 (03/12/2026)
 
-**Tema**: Lutas contra o cativeiro, lutas pela liberdade - parte 2
+**Tema**: Lutas contra o cativeiro, lutas pela liberdade — parte 2
 
 **Objetivos**
 
@@ -319,6 +318,12 @@ A prova escrita presencial terá 3 questões discursistas. Cada estudantes deve 
 
 * EM BREVE.
 
-### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
+### AULA 15 (10/12/2026)
 
+**Tema**: Trabalho final
 
+**Modalidade**: Atividade remota
+
+::: {.callout-important}
+O trabalho final vale **8,0 pontos**. As orientações, o formato de entrega e os critérios de avaliação serão divulgados antes da atividade.
+:::
