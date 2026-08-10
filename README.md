@@ -4,17 +4,17 @@ Repositório da disciplina **História da América: Colonização e Resistência
 
 | Docente     | Período | CH  | Horário        | Sala | Contato                         |
 |:-----------:|:-------:|:---:|:--------------:|:----:|:-------------------------------:|
-| Eric Brasil | 2026.1  | 60h | Quintas, 8h30  | 4    | profericbrasil@unilab.edu.br    |
+| Eric Brasil | 2026.2  | 60h | Quintas, 8h30  | A definir | profericbrasil@unilab.edu.br    |
 
 ---
 
-## Página do online da disciplina
+## Página online da disciplina
 
 [História da América: Colonização e Resistência](https://ericbrasil.com.br/cclhm0076)
 
 ---
 
-Versão atual, semestre 2026.1, no branch `main`.
+Versão atual, semestre 2026.2, no branch `2026_2`.
 
 ---
 

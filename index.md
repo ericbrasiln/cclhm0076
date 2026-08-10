@@ -1,14 +1,14 @@
 ---
 title: "História da América: Colonização e Resistência"
-subtitle: "CCLHM0076 — 2026.1"
+subtitle: "CCLHM0076 — 2026.2"
 author:
     - name: Eric Brasil
       email: profericbrasil@unilab.edu.br
       orcid: 0000-0001-5067-8475
       affiliation: Instituto de Humanidades e Letras - UNILAB
 email: profericbrasil@unilab.edu.br
-date: 2026-03-11
-description: "Página da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2026.1, no curso de Licenciatura em História da UNILAB."
+date: 2026-08-13
+description: "Página da disciplina História da América: Colonização e Resistência, ministrada pelo Prof. Eric Brasil, no semestre 2026.2, no curso de Licenciatura em História da UNILAB."
 lang: pt-BR
 logo: imgs/banner_logos_hist.png
 toc: true
@@ -16,7 +16,7 @@ format: html
 page-layout: full
 ---
 
-Bem-vindo(as) ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2026.1.
+Bem-vindo(as) ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2026.2.
 
 ## Sobre a Disciplina
 
@@ -28,11 +28,11 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 |---|---|
 | **Professor** | Eric Brasil |
 | **Código** | CCLHM0076 |
-| **Período Letivo** | 2026.1 |
+| **Período Letivo** | 2026.2 |
 | **Carga horária** | 60h |
 | **Dia e horário** | Quintas-feiras, 8h30–11h30 |
-| **Sala** | 4 |
-| **Local** | Sala 4 — Campus dos Malês, UNILAB |
+| **Sala** | A definir |
+| **Local** | Campus dos Malês, UNILAB |
 
 ## Ementa e Cronograma
 
@@ -45,20 +45,24 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 
 | Aula | Data | Tema | Link |
 |---|---|---|---|
-| 1 | 26/02/2026 | Quais Américas? Apresentação e reflexões sobre a disciplina | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-1/) |
-| 2 | 05/03/2026 | Atividade presencial — Cuba nos Malês! | — |
-| 3 | 19/03/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
-| 4 | 26/03/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
-| 5 | 09/04/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
-| 6 | 16/04/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-6/) |
-| 7 | 23/04/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-7/) |
-| 8 | 30/04/2026 | **Prova escrita presencial** | — |
-| 9 | 07/05/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-9/) |
-| 10 | 14/05/2026 | Tráfico transatlântico de africanos escravizados | — |
-| 11 | 21/05/2026 | A escravidão nas regiões Andina, Platina e Mexicana *(assíncrona — vídeo-aula)* | [vídeo-aula](https://www.youtube.com/watch?v=lnyPIwc_KKo) |
-| 12 | 28/05/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
-| 13 | 11/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | — |
-| 14 | 18/06/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
+| 1 | 13/08/2026 | Quais Américas? Apresentação e reflexões sobre a disciplina | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-1/) |
+| 2 | 20/08/2026 | Sociedades autóctones americanas antes do século XVI | — |
+| 3 | 27/08/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
+| 4 | 03/09/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
+| 5 | 10/09/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
+| — | 17/09/2026 | *Festival das Culturas — dia não letivo* | — |
+| 6 | 24/09/2026 | Resistências, negociações e agência indígenas nos séculos XVI e XVII | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-6/) |
+| 7 | 01/10/2026 | Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-7/) |
+| 8 | 08/10/2026 | Análise de fontes *(atividade remota — AT1)* | — |
+| — | 15/10/2026 | *Feriado — sem aula* | — |
+| — | 22/10/2026 | *Semana Universitária — dia não letivo* | — |
+| 9 | 29/10/2026 | **Prova escrita presencial** | — |
+| 10 | 05/11/2026 | Tráfico transatlântico de africanos escravizados: história e historiografia | — |
+| 11 | 12/11/2026 | A escravidão nas regiões Andina, Platina e Mexicana *(aula remota — vídeo-aula)* | [vídeo-aula](https://www.youtube.com/watch?v=lnyPIwc_KKo) |
+| 12 | 19/11/2026 | O Caribe, as colônias na América do Norte e o sistema de plantation | — |
+| 13 | 26/11/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 1 | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-13/) |
+| 14 | 03/12/2026 | Lutas contra o cativeiro, lutas pela liberdade — parte 2 | — |
+| 15 | 10/12/2026 | Trabalho final *(atividade remota)* | — |
 
 ## Contato
 
