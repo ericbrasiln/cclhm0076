@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="pt-BR" style="color-scheme: light only;">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light only">
+  <meta name="theme-color" content="#f5f2e9">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 fill=%22%239e1b32%22/><text x=%2232%22 y=%2243%22 text-anchor=%22middle%22 font-size=%2234%22 fill=%22white%22>H</text></svg>">
+  <title>CCLHM0076 — Protótipo de slides 2026.2</title>
+  <style>
+    :root {
+      --paper: #f5f2e9;
+      --paper-deep: #ece7da;
+      --ink: #17201b;
+      --muted: #5e675f;
+      --line: #d5d0c3;
+      --accent: #9e1b32;
+      --accent-dark: #741125;
+      --gold: #d5a832;
+      --white: #fffef9;
+      --shadow: 0 28px 80px rgba(31, 35, 30, .16);
+      --serif: Georgia, "Times New Roman", serif;
+      --sans: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", Inter, system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; min-height: 100%; margin: 0; background: #dedbd2 !important; color: var(--ink) !important; }
+    body { font-family: var(--sans); overflow: hidden; }
+    button, a { font: inherit; }
+    button:focus-visible, a:focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
+    .stage { min-height: 100dvh; display: grid; place-items: center; padding: 16px; }
+    .deck {
+      position: relative;
+      width: min(calc(100vw - 32px), calc((100vh - 32px) * 16 / 9));
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      background: var(--paper) !important;
+      border: 1px solid rgba(23, 32, 27, .15);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      isolation: isolate;
+    }
+    .progress { position: absolute; inset: 0 0 auto; height: 4px; z-index: 40; background: rgba(23,32,27,.08); }
+    .progress span { display: block; width: 0; height: 100%; background: var(--accent); transition: width .24s ease; }
+    .slide {
+      position: absolute; inset: 0; display: none; overflow: hidden;
+      padding: clamp(74px, 7vw, 122px) clamp(70px, 7.6vw, 142px) clamp(74px, 6vw, 108px);
+      background: var(--paper) !important;
+    }
+    .slide.active { display: grid; align-content: center; animation: enter .24s ease both; }
+    @keyframes enter { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .institutional {
+      position: absolute; top: clamp(22px, 2.4vw, 38px); left: clamp(28px, 3.2vw, 56px); right: clamp(28px, 3.2vw, 56px);
+      display: flex; justify-content: space-between; align-items: center; min-height: 36px; z-index: 4;
+    }
+    .institutional img { display: block; width: clamp(210px, 29vw, 430px); max-height: 58px; object-fit: contain; object-position: left center; }
+    .institutional .lesson { color: var(--muted); font-size: clamp(13px, 1.08vw, 18px); letter-spacing: .09em; text-transform: uppercase; white-space: nowrap; }
+    .slide-footer { position: absolute; left: clamp(28px, 3.2vw, 56px); bottom: clamp(22px, 2.4vw, 38px); color: var(--muted); font-size: clamp(12px, .95vw, 16px); letter-spacing: .03em; }
+    h1, h2, h3, p, ul, blockquote { margin-top: 0; }
+    h1 { max-width: 15ch; margin-bottom: .34em; font-family: var(--serif); font-size: clamp(52px, 5.7vw, 100px); line-height: .98; font-weight: 600; letter-spacing: -.045em; text-wrap: balance; }
+    h2 { max-width: 18ch; margin-bottom: .72em; font-family: var(--serif); font-size: clamp(42px, 4.5vw, 76px); line-height: 1.03; font-weight: 600; letter-spacing: -.036em; text-wrap: balance; }
+    h3 { font-size: clamp(24px, 2.1vw, 36px); line-height: 1.15; }
+    .eyebrow { margin-bottom: 1.3em; color: var(--accent); font-size: clamp(14px, 1.15vw, 19px); font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+    .lede { max-width: 42ch; color: var(--muted); font-family: var(--serif); font-size: clamp(25px, 2.25vw, 39px); line-height: 1.28; }
+    .meta { display: flex; flex-wrap: wrap; gap: 12px 30px; margin-top: clamp(28px, 3.2vw, 54px); color: var(--muted); font-size: clamp(17px, 1.35vw, 23px); }
+    ul { display: grid; gap: clamp(18px, 2.1vw, 34px); max-width: 50ch; margin-bottom: 0; padding-left: 1.25em; font-size: clamp(25px, 2.15vw, 38px); line-height: 1.25; }
+    li::marker { color: var(--accent); }
+    strong { font-weight: 800; }
+    a { color: var(--accent-dark); text-decoration-thickness: .08em; text-underline-offset: .16em; }
+    .rule { width: 96px; height: 7px; margin-bottom: 28px; background: var(--accent); }
+    .grid-2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(34px, 5vw, 90px); align-items: center; }
+    .grid-2 > * { min-width: 0; }
+    .compact ul { gap: clamp(12px, 1.4vw, 22px); font-size: clamp(21px, 1.76vw, 31px); }
+    .facts { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); border-top: 1px solid var(--line); }
+    .fact { padding: clamp(18px, 2.2vw, 34px) clamp(8px, 1vw, 18px); border-bottom: 1px solid var(--line); }
+    .fact:nth-child(odd) { padding-right: clamp(26px, 3vw, 48px); border-right: 1px solid var(--line); }
+    .fact:nth-child(even) { padding-left: clamp(26px, 3vw, 48px); }
+    .fact b { display: block; margin-bottom: 8px; color: var(--accent); font-size: clamp(16px, 1.25vw, 21px); letter-spacing: .08em; text-transform: uppercase; }
+    .fact span { font-family: var(--serif); font-size: clamp(24px, 2.05vw, 35px); line-height: 1.18; }
+    .formula { padding: clamp(28px, 3.6vw, 62px); border-block: 1px solid var(--line); font-family: var(--serif); font-size: clamp(31px, 3.25vw, 57px); text-align: center; }
+    .question h2 { max-width: 20ch; font-size: clamp(52px, 5.5vw, 94px); }
+    .question::after { content: "?"; position: absolute; right: 7%; bottom: 5%; color: rgba(158,27,50,.09); font-family: var(--serif); font-size: clamp(210px, 28vw, 490px); line-height: .75; z-index: -1; }
+    .quote blockquote { max-width: 34ch; margin-bottom: 26px; font-family: var(--serif); font-size: clamp(27px, 2.42vw, 43px); line-height: 1.23; }
+    .quote cite { display: block; max-width: 70ch; color: var(--muted); font-size: clamp(15px, 1.16vw, 20px); font-style: normal; line-height: 1.35; }
+    .media { width: 100%; max-height: 58vh; object-fit: contain; }
+    .qr { width: min(33vw, 420px); padding: 14px; background: white; border: 1px solid var(--line); }
+    .full-image { padding: 0; background: #101510 !important; }
+    .full-image .institutional, .full-image .slide-footer { padding: 6px 12px; background: rgba(245,242,233,.92); border-radius: 3px; }
+    .full-image .institutional { top: 22px; }
+    .full-image .institutional img { width: clamp(190px, 25vw, 360px); }
+    .full-image figure { width: 100%; height: 100%; margin: 0; }
+    .full-image figure img { width: 100%; height: 100%; object-fit: contain; }
+    .image-wash { background-size: cover !important; background-position: center !important; }
+    .image-wash::before { content: ""; position: absolute; inset: 0; background: rgba(245,242,233,.78); z-index: -1; }
+    .iframe-slide { padding-inline: clamp(42px, 5vw, 84px); }
+    .iframe-wrap { position: relative; width: 100%; height: min(61vh, 620px); overflow: hidden; border: 1px solid var(--line); background: var(--white); }
+    .iframe-wrap iframe { width: 100%; height: 100%; border: 0; }
+    .iframe-note { position: absolute; right: 20px; bottom: 20px; width: min(440px, 38%); padding: 18px 20px; background: rgba(255,254,249,.94); border: 1px solid var(--line); font-size: clamp(15px, 1.1vw, 19px); line-height: 1.4; }
+    .biblio { font-size: clamp(20px, 1.65vw, 29px); line-height: 1.4; }
+    .controls { position: fixed; z-index: 80; left: 50%; bottom: max(24px, env(safe-area-inset-bottom)); transform: translateX(-50%); display: flex; align-items: center; gap: 8px; padding: 6px; background: rgba(23,32,27,.92); border-radius: 999px; box-shadow: 0 8px 24px rgba(0,0,0,.18); }
+    .controls button { width: 48px; height: 44px; border: 0; border-radius: 999px; background: transparent; color: white; cursor: pointer; font-size: 24px; }
+    .controls button:hover { background: rgba(255,255,255,.12); }
+    .controls button:disabled { opacity: .32; cursor: default; }
+    .counter { min-width: 76px; color: white; font-size: 14px; font-variant-numeric: tabular-nums; text-align: center; }
+    .source-chip { position: fixed; right: 20px; top: 18px; z-index: 70; padding: 7px 11px; color: #404740; background: rgba(255,255,255,.72); border: 1px solid rgba(23,32,27,.12); border-radius: 3px; font-size: 12px; }
+    @media (max-width: 700px) {
+      body { overflow: hidden; background: var(--paper) !important; }
+      .stage { display: block; min-height: 100dvh; padding: 0; }
+      .deck { width: 100%; height: 100dvh; aspect-ratio: auto; border: 0; border-radius: 0; box-shadow: none; }
+      .slide { padding: 92px 22px calc(94px + env(safe-area-inset-bottom)); overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain; }
+      .slide.active { display: block; }
+      .institutional { position: fixed; top: max(14px, env(safe-area-inset-top)); left: 18px; right: 18px; min-height: 48px; padding-bottom: 10px; background: rgba(245,242,233,.96); border-bottom: 1px solid var(--line); }
+      .institutional img { width: min(220px, 60vw); max-height: 46px; }
+      .institutional .lesson { display: none; }
+      .slide-footer { display: none; }
+      h1 { max-width: 12ch; font-size: clamp(42px, 14vw, 64px); }
+      h2, .question h2 { max-width: 15ch; font-size: clamp(36px, 11vw, 52px); }
+      h3 { font-size: 25px; }
+      .eyebrow { margin-top: 18px; font-size: 13px; }
+      .lede { font-size: 24px; }
+      .meta { display: grid; gap: 8px; font-size: 17px; }
+      ul { gap: 18px; padding-left: 1.15em; font-size: 21px; line-height: 1.32; }
+      .compact ul { font-size: 19px; }
+      .grid-2 { grid-template-columns: 1fr; gap: 28px; }
+      .facts { grid-template-columns: 1fr; }
+      .fact:nth-child(odd), .fact:nth-child(even) { padding: 20px 0; border-right: 0; }
+      .fact span { font-size: 23px; }
+      .formula { margin-top: 36px; padding: 30px 8px; overflow-x: auto; font-size: 25px; white-space: nowrap; }
+      .quote blockquote { font-size: 25px; }
+      .quote cite, .biblio { font-size: 16px; }
+      .qr { width: min(72vw, 310px); }
+      .media { max-height: 42vh; }
+      .full-image { padding: 88px 0 88px; background: var(--paper) !important; }
+      .full-image figure { height: calc(100dvh - 176px); }
+      .full-image figure img { object-fit: contain; }
+      .full-image .institutional { top: max(14px, env(safe-area-inset-top)); padding: 0 0 10px; background: rgba(245,242,233,.96); }
+      .iframe-slide { padding-inline: 16px; }
+      .iframe-wrap { height: 58dvh; margin-top: 20px; }
+      .iframe-note { position: static; width: auto; margin-top: 14px; font-size: 16px; }
+      .question::after { display: none; }
+      .controls { bottom: max(14px, env(safe-area-inset-bottom)); }
+      .source-chip { display: none; }
+    }
+    @media (max-width: 340px) { .institutional img { width: 190px; } .controls { gap: 2px; } .counter { min-width: 62px; } }
+    @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }
+    @media print {
+      @page { size: 13.333in 7.5in; margin: 0; }
+      html, body { background: white !important; overflow: visible; }
+      .stage, .deck { display: block; width: auto; height: auto; padding: 0; border: 0; box-shadow: none; }
+      .slide, .slide.active { position: relative; display: grid !important; width: 13.333in; height: 7.5in; padding: .85in 1in .7in; overflow: hidden; break-after: page; animation: none; }
+      .controls, .progress, .source-chip { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="stage">
+    <div class="deck" id="deck" aria-label="Apresentação da Aula 1">
+      <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+      <section class="slide active" id="abertura" data-title="Abertura">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos da UNILAB, do IHL e do curso de História"><span class="lesson">Aula 1 · 2026.2</span></div>
+        <div class="eyebrow">CCLHM0076 · História da América</div>
+        <h1>Quais Américas?</h1>
+        <p class="lede">Apresentação e reflexões sobre a disciplina</p>
+        <div class="meta"><span>Eric Brasil</span><span>13 de agosto de 2026</span><span>UNILAB</span></div>
+        <div class="slide-footer">Colonização e resistência</div>
+      </section>
+
+      <section class="slide" id="acesso" data-title="Acesse os slides">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos da UNILAB, do IHL e do curso de História"><span class="lesson">Aula 1</span></div>
+        <div class="grid-2">
+          <div><div class="rule"></div><h2>Acesse os slides da Aula 1</h2><p class="lede">Abra a apresentação no celular e acompanhe no seu ritmo.</p></div>
+          <img class="qr" src="../slides/imgs/qrc_aula1.png" alt="QR code para acessar os slides da Aula 1">
+        </div>
+        <div class="slide-footer">CCLHM0076 · 2026.2</div>
+      </section>
+
+      <section class="slide" id="objetivos-1" data-title="Objetivos da aula 1 de 2">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Objetivos · 1/2</span></div>
+        <div class="eyebrow">Ponto de partida</div><h2>Objetivos da aula</h2>
+        <ul><li>Apresentar o curso, o cronograma e as formas de avaliação</li><li>Estabelecer os combinados e as rotinas da turma</li><li>Discutir práticas de ensino relacionadas à História da América</li></ul>
+        <div class="slide-footer">Aula 1 · Quais Américas?</div>
+      </section>
+
+      <section class="slide question" id="objetivos-2" data-title="Objetivos da aula 2 de 2">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Objetivos · 2/2</span></div>
+        <div class="eyebrow">Conceitos em debate</div><h2>Índio, indígena e América Latina</h2>
+        <p class="lede">Como os conceitos organizam — e também disputam — nossa compreensão da história?</p>
+        <div class="slide-footer">Aula 1 · Quais Américas?</div>
+      </section>
+
+      <section class="slide compact" id="disciplina" data-title="Apresentação da disciplina">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">A disciplina</span></div>
+        <div class="eyebrow">Informações gerais</div><h2>História da América: Colonização e Resistência</h2>
+        <div class="facts"><div class="fact"><b>Código</b><span>CCLHM0076</span></div><div class="fact"><b>Professor</b><span>Eric Brasil</span></div><div class="fact"><b>Período</b><span>2026.2</span></div><div class="fact"><b>Horário</b><span>Quintas, 8h30–11h30</span></div></div>
+        <div class="slide-footer">Contato: profericbrasil@unilab.edu.br</div>
+      </section>
+
+      <section class="slide compact" id="avaliacoes" data-title="Avaliações">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Avaliação</span></div>
+        <div class="eyebrow">Percurso avaliativo</div><h2>Avaliações</h2>
+        <div class="facts"><div class="fact"><b>PR · 8,0</b><span>Prova escrita presencial<br>29/10/2026</span></div><div class="fact"><b>AT1 · 2,0</b><span>Análise de fonte<br>08/10/2026</span></div><div class="fact"><b>AT2 · 2,0</b><span>Apresentação de texto<br>ao longo do semestre</span></div><div class="fact"><b>TF · 8,0</b><span>Trabalho final<br>10/12/2026</span></div></div>
+        <div class="slide-footer">CCLHM0076 · 2026.2</div>
+      </section>
+
+      <section class="slide" id="media" data-title="Cálculo da média final">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Avaliação</span></div>
+        <div class="eyebrow">Cálculo</div><h2>Média final</h2>
+        <div class="formula">Média Final = ((PR + AT1) + (TF + AT2)) ÷ 2</div>
+        <div class="slide-footer">Consulte os critérios completos na ementa</div>
+      </section>
+
+      <section class="slide compact" id="semestre" data-title="Organização do semestre">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Calendário</span></div>
+        <div class="eyebrow">Organização</div><h2>O semestre em três linhas</h2>
+        <ul><li><strong>Aulas presenciais:</strong> quintas-feiras, das 8h30 às 11h30</li><li><strong>Atividades remotas:</strong> 08/10, 12/11 e 10/12/2026</li><li><strong>Dias não letivos:</strong> 17/09, 15/10 e 22/10/2026</li></ul>
+        <div class="slide-footer">Cronograma sujeito às atualizações registradas no site</div>
+      </section>
+
+      <section class="slide image-wash" id="geografia" data-title="Geografia do continente" style="background-image:url('assets/continentes.jpg') !important;">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Quais Américas?</span></div>
+        <div class="eyebrow">Espaço</div><h2>Geografia do continente</h2>
+        <ul><li>América do Norte</li><li>América Central e Caribe</li><li>América do Sul</li></ul>
+        <div class="slide-footer">Mapa: Atlas Escolar do IBGE</div>
+      </section>
+
+      <section class="slide full-image" id="mapa" data-title="Mapa do continente americano">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Quais Américas?</span></div>
+        <figure><img src="assets/continentes.jpg" alt="Mapa-múndi político com destaque para os continentes"></figure>
+        <div class="slide-footer">Atlas Escolar do IBGE</div>
+      </section>
+
+      <section class="slide iframe-slide" id="tamanho-real" data-title="Tamanho real">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Cartografia</span></div>
+        <div class="iframe-wrap"><iframe src="https://thetruesize.com/" title="Site interativo The True Size"></iframe></div>
+        <div class="iframe-note"><strong>Tamanho real.</strong> A representação dos países e continentes no mapa-múndi tradicional apresenta discrepâncias com a realidade.</div>
+        <div class="slide-footer">Recurso interativo: thetruesize.com</div>
+      </section>
+
+      <section class="slide" id="cronologia" data-title="Cronologia clássica">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Periodização</span></div>
+        <div class="eyebrow">Tempo histórico</div><h2>Cronologia clássica</h2>
+        <ul><li>Período “Pré-Colombiano” — até o século XV</li><li>Período Colonial — séculos XVI–XIX</li><li>Período das Américas Independentes — séculos XIX–XXI</li></ul>
+        <div class="slide-footer">O que essa periodização ilumina? O que ela oculta?</div>
+      </section>
+
+      <section class="slide question" id="descobrimento" data-title="Descobrimento da América">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Problematização</span></div>
+        <div class="eyebrow">Conceito</div><h2>“Descobrimento da América”?</h2>
+        <div class="slide-footer">Aula 1 · Quais Américas?</div>
+      </section>
+
+      <section class="slide full-image" id="waldseemuller" data-title="Planisfério de Waldseemüller">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Cartografia · 1507</span></div>
+        <figure><img src="../slides/imgs/planisferio1507.jpg" alt="Planisfério de Waldseemüller, de 1507"></figure>
+        <div class="slide-footer">Planisfério de Waldseemüller · 1507</div>
+      </section>
+
+      <section class="slide question" id="brasil-americas" data-title="Brasil e Américas">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Pertencimentos</span></div>
+        <div class="eyebrow">Brasil e Américas</div><h2>Integração latino-americana? Mercosul?</h2>
+        <div class="slide-footer">Quais fronteiras políticas, culturais e historiográficas?</div>
+      </section>
+
+      <section class="slide" id="indio-indigena" data-title="Índio, indígena, nativos">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Conceitos</span></div>
+        <div class="eyebrow">Nomear e disputar</div><h2>Índio? Indígena? Nativos?</h2>
+        <ul><li>Origem do termo</li><li>Quem é o índio no século XIX?</li><li>Identidade étnica e luta por direitos</li></ul>
+        <div class="slide-footer">Leitura: Silva e Silva, 2009</div>
+      </section>
+
+      <section class="slide quote" id="conceito-indio" data-title="Conceito de índio">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Leitura</span></div>
+        <blockquote>“Índio é todo descendente dos povos autóctones das Américas, conscientes de seus costumes, língua e tradições, mesmo que modificados ao longo do tempo, que seja considerado a partir dessa condição por si próprio e por pares.”</blockquote>
+        <cite>SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. “Índio”. In: <em>Dicionário de conceitos históricos</em>. São Paulo: Contexto, 2009.</cite>
+        <div class="slide-footer">Citação conforme o .qmd da Aula 1</div>
+      </section>
+
+      <section class="slide question" id="ensino-basico" data-title="Américas no ensino básico">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Discussão</span></div>
+        <div class="eyebrow">Experiências escolares</div><h2>O que vocês estudaram sobre as Américas no ensino básico?</h2>
+        <div class="slide-footer">Ponto de partida para o debate em sala</div>
+      </section>
+
+      <section class="slide" id="mito-colonias" data-title="Colônia de povoamento e exploração">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Um mito persistente</span></div>
+        <div class="eyebrow">Colonização</div><h2>Colônia de Povoamento × Colônia de Exploração</h2>
+        <ul><li>Ibéricos × Britânicos</li><li>Clima e Geografia</li><li>Origens do “atraso” ou “sucesso” das colônias</li></ul>
+        <div class="slide-footer">Aula 1 · Quais Américas?</div>
+      </section>
+
+      <section class="slide question" id="colonizar" data-title="O que é colonizar">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Síntese</span></div>
+        <div class="eyebrow">Questão final</div><h2>Afinal, o que é colonizar?</h2>
+        <div class="slide-footer">Da palavra aos processos históricos</div>
+      </section>
+
+      <section class="slide" id="leitura" data-title="Leitura da aula">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Bibliografia</span></div>
+        <div class="eyebrow">Leitura da aula</div><h2>“Índio”</h2>
+        <p class="lede">SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. In: <em>Dicionário de conceitos históricos</em>. São Paulo: Contexto, 2009.</p>
+        <p><a href="https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf">Acessar o texto da aula</a></p>
+        <div class="slide-footer">CCLHM0076 · Aula 1</div>
+      </section>
+
+      <section class="slide" id="bibliografia" data-title="Bibliografia da aula">
+        <div class="institutional"><img src="../imgs/banner_logos_hist.png" alt="Logos institucionais"><span class="lesson">Referência</span></div>
+        <div class="eyebrow">Bibliografia da aula</div><h2>Referência</h2>
+        <p class="biblio">SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. Índio. In: SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. <em>Dicionário de conceitos históricos</em>. São Paulo: Contexto, 2009.</p>
+        <div class="slide-footer">Fim · Aula 1</div>
+      </section>
+    </div>
+  </main>
+
+  <div class="source-chip">Protótipo v1 · fonte: slides/aula-1/index.qmd</div>
+  <nav class="controls" aria-label="Navegação dos slides">
+    <button id="prev" type="button" aria-label="Slide anterior">‹</button>
+    <div class="counter" id="counter" aria-live="polite">1 / 20</div>
+    <button id="next" type="button" aria-label="Próximo slide">›</button>
+  </nav>
+
+  <script>
+    (() => {
+      const slides = [...document.querySelectorAll('.slide')];
+      const prev = document.getElementById('prev');
+      const next = document.getElementById('next');
+      const counter = document.getElementById('counter');
+      const progress = document.getElementById('progressBar');
+      const storageKey = 'cclhm0076-slides-2026-2-v1';
+      const hashId = decodeURIComponent(location.hash.replace(/^#/, ''));
+      const hashIndex = slides.findIndex(s => s.id === hashId);
+      const saved = Number.parseInt(localStorage.getItem(storageKey) || '0', 10);
+      let index = hashIndex >= 0 ? hashIndex : Math.min(Math.max(saved, 0), slides.length - 1);
+
+      function show(target, updateHash = true) {
+        index = Math.min(Math.max(target, 0), slides.length - 1);
+        slides.forEach((slide, i) => {
+          const active = i === index;
+          slide.classList.toggle('active', active);
+          slide.setAttribute('aria-hidden', String(!active));
+          if (active) slide.scrollTop = 0;
+        });
+        counter.textContent = `${index + 1} / ${slides.length}`;
+        progress.style.width = `${((index + 1) / slides.length) * 100}%`;
+        prev.disabled = index === 0;
+        next.disabled = index === slides.length - 1;
+        localStorage.setItem(storageKey, String(index));
+        document.title = `${index + 1}/${slides.length} — ${slides[index].dataset.title} — CCLHM0076`;
+        if (updateHash) history.replaceState(null, '', `#${slides[index].id}`);
+      }
+      function go(delta) { show(index + delta); }
+      prev.addEventListener('click', () => go(-1));
+      next.addEventListener('click', () => go(1));
+      addEventListener('keydown', event => {
+        if (['ArrowRight', 'PageDown', ' '].includes(event.key)) { event.preventDefault(); go(1); }
+        if (['ArrowLeft', 'PageUp'].includes(event.key)) { event.preventDefault(); go(-1); }
+        if (event.key === 'Home') { event.preventDefault(); show(0); }
+        if (event.key === 'End') { event.preventDefault(); show(slides.length - 1); }
+      });
+      addEventListener('hashchange', () => {
+        const id = decodeURIComponent(location.hash.replace(/^#/, ''));
+        const i = slides.findIndex(s => s.id === id);
+        if (i >= 0) show(i, false);
+      });
+      let startX = 0, startY = 0;
+      const deck = document.getElementById('deck');
+      deck.addEventListener('pointerdown', event => { startX = event.clientX; startY = event.clientY; });
+      deck.addEventListener('pointerup', event => {
+        const dx = event.clientX - startX;
+        const dy = event.clientY - startY;
+        if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) go(dx < 0 ? 1 : -1);
+      });
+      show(index);
+    })();
+  </script>
+</body>
+</html>

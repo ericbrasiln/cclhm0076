@@ -1,8 +1,8 @@
 ---
-title: "Aula 1: Apresentação e combinados"
-date: "2026-02-26"
+title: "Aula 1: Quais Américas? Apresentação e reflexões sobre a disciplina"
+date: "2026-08-13"
 date-format: full
-lang: pt-br
+lang: pt-BR
 format:
   revealjs:
     theme: [default, ../custom.scss]
@@ -24,90 +24,126 @@ toc: false
 
 ---
 
-## Objetivos da aula {.center}
+## Objetivos da aula (1/2) {.center}
 
-- Apresentar o curso, cronograma e formas de avaliação
-- Estabelecer combinados e rotinas
+- Apresentar o curso, o cronograma e as formas de avaliação
+- Estabelecer os combinados e as rotinas da turma
+- Discutir práticas de ensino relacionadas à História da América
 
 ---
 
-## Apresentação da disciplina {.center}
+## Objetivos da aula (2/2) {.center}
+
+- Debater os conceitos de *índio/indígena* e *América Latina*
+
+---
+
+## Apresentação da disciplina (1/2) {.center}
 
 - **Disciplina:** História da América: Colonização e Resistência
 - **Código:** CCLHM0076
 - **Professor:** Eric Brasil
-- **Período:** 2026.1
-- **Dia e horário:** Quintas-feiras, 8h30 às 11h30 — Sala 4
-- **Formato:** Presencial com atividades remotas ocasionais
+
+---
+
+## Apresentação da disciplina (2/2) {.center}
+
+- **Período:** 2026.2
+- **Horário:** quintas-feiras, das 8h30 às 11h30 — sala a definir
 - **E-mail:** profericbrasil@unilab.edu.br
 
 ---
 
-## Sobre a disciplina {.center}
+## Sobre a disciplina (1/2) {.center}
 
 - Formações sociais e políticas nas Américas antes do século XV
 - Invasões, contatos e conquistas nos séculos XV e XVI
 - Formação das sociedades coloniais: desigualdades e diferenças
+
+---
+
+## Sobre a disciplina (2/2) {.center}
+
 - Trabalho, tributo e resistências nas Américas coloniais
 - Escravidão africana e formação das Afro-Américas
-- O ensino de história da América na escola básica
+- O ensino de História da América na escola básica
 
 ---
 
-## Avaliações {.center}
+## Avaliações (1/2) {.center}
 
-- **AT1 — Atividade assíncrona** *(entrega: 12/03/2026)*: debate sobre o conceito de América Latina e a percepção do Brasil — **1,0 ponto**
-- **AT2 — Leitura e participação**: apresentação de um texto da bibliografia e debate de fontes em sala — **9,0 pontos**
-- **AT3 — Prova escrita presencial** *(30/04/2026)*: questões discursivas sobre as aulas 5–8 — **10,0 pontos**
-
----
-
-## {.center}
-
-$$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
+- **PR — Prova escrita presencial:** 29/10/2026 — **8,0 pontos**
+- **AT1 — Análise de fonte:** atividade remota em 08/10/2026 — **2,0 pontos**
 
 ---
 
-## Site da disciplina {.center}
+## Avaliações (2/2) {.center}
 
-- Página inicial: [https://ericbrasil.com.br/cclhm0076/](https://ericbrasil.com.br/cclhm0076/)
-- Ementa: [https://ericbrasil.com.br/cclhm0076/ementa/ementa](https://ericbrasil.com.br/cclhm0076/ementa/ementa)
-- Cronograma: [https://ericbrasil.com.br/cclhm0076/ementa/calendario](https://ericbrasil.com.br/cclhm0076/ementa/calendario)
-- Lista dos Slides: [https://ericbrasil.com.br/cclhm0076/#slides-das-aulas](https://ericbrasil.com.br/cclhm0076/#slides-das-aulas)
-- Código-fonte: [https://github.com/ericbrasiln/cclhm0076](https://github.com/ericbrasiln/cclhm0076)
+- **AT2 — Apresentação de texto em sala:** realizada ao longo do semestre — **2,0 pontos**
+- **TF — Trabalho final:** atividade remota em 10/12/2026 — **8,0 pontos**
 
 ---
 
-## Combinado não sai caro! {.center}
+## Cálculo da média final {.center}
+
+$$
+\text{Média Final} = \frac{(\text{PR} + \text{AT1}) + (\text{TF} + \text{AT2})}{2}
+$$
+
+---
+
+## Organização do semestre {.center}
+
+- **Aulas presenciais:** quintas-feiras, das 8h30 às 11h30
+- **Atividades remotas:** 08/10, 12/11 e 10/12/2026
+- **Dias não letivos:** 17/09, 15/10 e 22/10/2026
+
+---
+
+## Site da disciplina (1/2) {.center}
+
+- [Página inicial](https://ericbrasil.com.br/cclhm0076/)
+- [Ementa](https://ericbrasil.com.br/cclhm0076/ementa/ementa)
+- [Cronograma](https://ericbrasil.com.br/cclhm0076/ementa/calendario)
+
+---
+
+## Site da disciplina (2/2) {.center}
+
+- [Slides das aulas](https://ericbrasil.com.br/cclhm0076/#slides-das-aulas)
+- [Código-fonte](https://github.com/ericbrasiln/cclhm0076)
+
+---
+
+## Combinado não sai caro! (1/2) {.center}
 
 :::: {.columns}
 ::: {.column width="50%"}
 ![](https://media1.tenor.com/m/e8-36w65OA4AAAAd/ed-truck.gif)
 :::
 ::: {.column width="50%"}
-- **Horário**: quintas-feiras, iniciando impreterivelmente às 8h30!
-- **Presença obrigatória**: mínimo de 75% para aprovação (chamada será feita)
+- **Horário:** início às 8h30
+- **Presença:** mínimo de 75% para aprovação
 :::
 ::::
 
 ---
 
-## Combinado não sai caro! {.center}
+## Combinado não sai caro! (2/2) {.center}
 
 :::: {.columns}
 ::: {.column width="50%"}
-- **Atividades remotas**: serão anunciadas com antecedência
-- **Material de apoio**: slides e textos disponibilizados no site do curso e no SIGAA
+- **Material de apoio:** slides e textos no site da disciplina e no SIGAA
+- **Participação:** leitura e envolvimento nas discussões
 :::
 ::: {.column width="50%"}
-- **Participação**: esperamos que todos participem ativamente das discussões
-- **Respeito, empatia e diálogo são essenciais**
+- **Convivência:** respeito, empatia e diálogo são essenciais
 :::
 ::::
 
 ---
 
-## E as leituras obrigatórias? São Obrigatórias, ué {.center}
+## E as leituras obrigatórias? São obrigatórias, ué {.center}
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -126,7 +162,6 @@ $$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
 ---
 
 ## E a tal da Inteligência Artificial? {.center}
-<br>
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -134,7 +169,111 @@ $$\text{Média Final} = \frac{(\text{AT1} + \text{AT2}) + \text{AT3}}{2}$$
 :::
 ::: {.column width="50%"}
 - Pode usar?
-- Bom, eu tô usando aqui, então sim, pode usar.
-- Mas como usar? Vejam esse [material de apoio](https://ericbrasil.com.br/cclhm00114/aulas/aula7)
+- Bom, eu estou usando aqui; então, sim, pode usar.
+- Mas como usar? Veja este [material de apoio](https://ericbrasil.com.br/cclhm00114/aulas/aula7).
 :::
 ::::
+
+---
+
+## Geografia do Continente {background-image="https://atlasescolar.ibge.gov.br/images/mapas/mundo/1920/continentes.jpg" background-opacity="0.2" .center}
+
+- América do Norte
+- América Central e Caribe
+- América do Sul
+
+---
+
+## {background-image="https://atlasescolar.ibge.gov.br/images/mapas/mundo/1920/continentes.jpg" .center}
+
+---
+
+## Tamanho real {background-iframe="https://thetruesize.com/" background-interactive="true"}
+
+::: {style="position: absolute; width: 40%; right: 0; background-color: rgba(255,255,255,0.9); color: black; padding: 20px; font-size: 20px;"}
+A representação dos países e continentes no mapa **mundi** tradicional apresenta discrepâncias com a realidade. O site [The True Size](https://thetruesize.com/) nos ajuda a visualizá-las.
+:::
+
+---
+
+## {background-iframe="https://thetruesize.com/" background-interactive="true" .center}
+
+---
+
+## Cronologia Clássica {.center}
+
+- Período "Pré-Colombiano" (até o séc. XV)
+- Período Colonial (XVI–XIX)
+- Período das Américas Independentes (XIX–XXI)
+
+---
+
+## "Descobrimento da América"? {.center}
+
+---
+
+## Planisfério de Waldseemüller de 1507 {background-image="../imgs/planisferio1507.jpg" background-opacity="0.2" .center}
+
+---
+
+## {background-image="../imgs/planisferio1507.jpg" .center}
+
+---
+
+## Brasil e Américas {.center}
+
+Integração latino-americana? Mercosul?
+
+---
+
+## Índio? Indígena? Nativos? {.center}
+
+- Origem do termo
+- Quem é o índio no séc. XIX?
+- Identidade étnica e luta por direitos
+
+---
+
+## {.center}
+
+Índio é um conceito étnico construído ao longo do séc. XX e atualmente é utilizado pelas próprias comunidades como estratégia de manter identidades e lutar por direitos, aliando-se a outras comunidades etnicamente distintas para mobilizar reivindicações aos Estados Nacionais.
+
+---
+
+## {.center}
+
+> "Índio é todo descendente dos povos autóctones das Américas, conscientes de seus costumes, língua e tradições, mesmo que modificados ao longo do tempo, que seja considerado a partir dessa condição por si próprio e por pares."
+
+SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. "Índio". In: *Dicionário de conceitos históricos*. São Paulo: Contexto, 2009.
+
+---
+
+## O que vocês estudaram sobre as Américas no ensino básico? {.center}
+
+---
+
+## Colônia de Povoamento X Colônia de Exploração {.center}
+
+### Um mito persistente {.center}
+
+- Ibéricos X Britânicos
+- Clima e Geografia
+- Origens do "atraso" ou "sucesso" das colônias
+
+---
+
+## Afinal, o que é colonizar? {.center}
+
+---
+
+## Leitura da aula {.center}
+
+> SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. **Índio**. In: *Dicionário de conceitos históricos*. São Paulo: Contexto, 2009.
+
+[Link para download](https://ericbrasil.com.br/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf)
+
+---
+
+## Bibliografia da aula {.center}
+
+- SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. Índio. In: SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. *Dicionário de conceitos históricos*. São Paulo: Contexto, 2009.
