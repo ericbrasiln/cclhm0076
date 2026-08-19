@@ -65,6 +65,8 @@ html: "index.html"
 
 <https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Florentine_Codex-_Aztec_Calendar.tiff/lossy-page1-1200px-The_Florentine_Codex-_Aztec_Calendar.tiff.jpg>
 
+**Fonte da imagem:** [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Florentine_Codex-_Aztec_Calendar.tiff/lossy-page1-1200px-The_Florentine_Codex-_Aztec_Calendar.tiff.jpg).
+
 ---
 
 ## Slide 6 — Regiões densamente habitadas
@@ -80,6 +82,8 @@ html: "index.html"
 **Mídia:** mapa político da América Central e do Caribe, Atlas Escolar do IBGE.
 
 <https://atlasescolar.ibge.gov.br/images/mapas/mundo/1920/america-central-e-caribe-politico.jpg>
+
+**Fonte da imagem:** [Atlas Escolar do IBGE](https://atlasescolar.ibge.gov.br/images/mapas/mundo/1920/america-central-e-caribe-politico.jpg).
 
 ---
 
@@ -139,6 +143,8 @@ html: "index.html"
 
 <https://upload.wikimedia.org/wikipedia/commons/f/fb/Ancient_Mex.jpg>
 
+**Fonte da imagem:** [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/fb/Ancient_Mex.jpg).
+
 ---
 
 ## Slide 15 — Leitura obrigatória
@@ -158,6 +164,8 @@ NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas”. In: **O impéri
 **Mídia:** capa da obra.
 
 <https://upload.wikimedia.org/wikipedia/en/b/b3/Visi%C3%B3nDeLosVencidos.jpg>
+
+**Fonte da imagem:** [Wikimedia](https://upload.wikimedia.org/wikipedia/en/b/b3/Visi%C3%B3nDeLosVencidos.jpg).
 
 ---
 
@@ -181,6 +189,8 @@ NARDI, Tawnne T. de A. “Mesoamérica, Mexicas e Tlapanecas”. In: **O impéri
 
 <https://upload.wikimedia.org/wikipedia/commons/0/00/Cabeza_Colosal_n%C2%BA1_del_Museo_Xalapa.jpg>
 
+**Fonte da imagem:** [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/00/Cabeza_Colosal_n%C2%BA1_del_Museo_Xalapa.jpg).
+
 ---
 
 ## Slide 20 — Olmecas (1500 a.C.–400 a.C.)
@@ -194,6 +204,8 @@ Desenvolvem-se na região sul do atual México. Cultura complexa — marcada por
 **Mídia:** mapa de sítios do período Formativo no sudeste da Mesoamérica.
 
 <https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SE_Mesoamerican_Formative_Period_sites_PT.svg/1280px-SE_Mesoamerican_Formative_Period_sites_PT.svg.png>
+
+**Fonte da imagem:** [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SE_Mesoamerican_Formative_Period_sites_PT.svg/1280px-SE_Mesoamerican_Formative_Period_sites_PT.svg.png).
 
 ---
 
@@ -252,6 +264,8 @@ Formação, consolidação e expansão do Estado mexica pela Mesoamérica.
 
 <https://upload.wikimedia.org/wikipedia/commons/d/df/Tonalpohualli_20.JPG>
 
+**Fonte indicada no material legado:** [Pedra do Sol](https://pt.wikipedia.org/wiki/Pedra_do_Sol).
+
 ---
 
 ## Slide 28 — Códice Mendoza: mito fundador mexica
@@ -264,7 +278,44 @@ Formação, consolidação e expansão do Estado mexica pela Mesoamérica.
 
 ---
 
-## Slide 29 — Conceitos para a leitura e o debate
+## Slide 29 — Cronologia Mexica
+
+- **1325–1425:** mexicas subjugados ao domínio tecpaneca, devendo tributos e serviços.
+- **1426–1430:** guerra entre mexicas e tecpanecas. A vitória mexica garante independência e consolida o poder dos *pipiltin* (“nobres”), abrindo caminho para a expansão militar.
+- **1430–1519:** expansão militar com força bélica e “destino manifesto”. Contínua expansão política e econômica sobre povos de diferentes etnias.
+
+---
+
+## Slide 30 — A questão das fontes escritas
+
+- Registros dos missionários.
+- Registros dos funcionários e militares europeus.
+- Escritos indígenas e de seus descendentes.
+
+---
+
+## Slide 31 — Historiografia sobre os Mexicas (1/3)
+
+- **Cronistas espanhóis e historiadores do século XIX:** interpretação eurocêntrica, aproximando as estruturas mexicas das da sociedade feudal europeia.
+- **Morgan (1877) e Bandelier (1880):** revisionismo que nega o caráter feudal. Afirma que não haveria “classes sociais diferenciadas” nem formas de organização política — apenas vínculos de sangue.
+
+---
+
+## Slide 32 — Historiografia sobre os Mexicas (2/3)
+
+- **1930–1940:** Moreno, Kirchhoff, Monzón e Katz. Análise das fontes indígenas. Demonstram a complexidade da organização social mexica: classes, posse da terra e formação de Estado.
+- **1960–1970:** interpretação marxista (Pedro Carrasco). Modo asiático de produção. Aldeias comunais e uso coletivo da terra.
+
+---
+
+## Slide 33 — Historiografia sobre os Mexicas (3/3)
+
+- **1970–1980:** análise sociocultural a partir das fontes indígenas, inclusive em língua náhuatl. León-Portilla e Christian Duverger.
+- **1990:** Serge Gruzinski — o processo de ocidentalização criou uma imagem uniforme dos mundos nativos que em nada corresponde à diversidade desse universo.
+
+---
+
+## Slide 34 — Conceitos para a leitura e o debate
 
 - *Calpulli* e *altepetl*.
 - *Macehualtin* e *pipiltin*.
@@ -274,7 +325,7 @@ Formação, consolidação e expansão do Estado mexica pela Mesoamérica.
 
 ---
 
-## Slide 30 — Próxima aula
+## Slide 35 — Próxima aula
 
 **Aula 3 — 27/08/2026**
 
@@ -286,4 +337,4 @@ Formação, consolidação e expansão do Estado mexica pela Mesoamérica.
 
 # Ponto de corte editorial proposto
 
-O detalhamento da cronologia mexica, da historiografia, da organização social, da Tríplice Aliança, da tributação, dos códices e da expansão do Estado mexica permanece reservado à Aula 3. O bloco legado sobre sociedades andinas não integra esta versão.
+A expansão do Estado mexica em 1519, a organização social, a Tríplice Aliança, a tributação e os demais códices permanecem reservados à Aula 3. O bloco legado sobre sociedades andinas não integra esta versão.
