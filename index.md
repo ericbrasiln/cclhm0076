@@ -46,7 +46,7 @@ Esta disciplina busca compreender os processos históricos de formação das soc
 | Aula | Data | Tema | Link |
 |---|---|---|---|
 | 1 | 13/08/2026 | Quais Américas? Apresentação e reflexões sobre a disciplina | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-1/) |
-| 2 | 20/08/2026 | Sociedades autóctones americanas antes do século XVI | — |
+| 2 | 20/08/2026 | Sociedades autóctones americanas antes do século XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-2/) |
 | 3 | 27/08/2026 | Conclusão: sociedades mexicas; Expansão europeia nos séculos XV e XVI | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-3/) |
 | 4 | 03/09/2026 | As várias visões da conquista | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-4/) |
 | 5 | 10/09/2026 | Formação da sociedade colonial espanhola (XVI–XVIII) | [slides](https://ericbrasil.com.br/cclhm0076/slides/aula-5/) |
