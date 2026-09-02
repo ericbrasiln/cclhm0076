@@ -88,7 +88,7 @@ fonte_legada: "slides/aula-4/index.qmd (2026.1) — expansão marítima; slides/
 
 **Arquivo local:** `assets/planisferio_1507.jpg`.
 
-**Nota editorial:** o QMD legado não indica fonte da imagem. A definir.
+**Fonte da imagem:** [Library of Congress](https://www.loc.gov/item/2003626426/).
 
 ---
 
@@ -431,9 +431,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** negociação entre tlaxcaltecas e castelhanos intermediadas por Malintzin.
 
-**Arquivo local:** `assets/negociacao_malintzin.jpg`.
+**Legenda:** Negociação entre tlaxcaltecas e castelhanos intermediadas por Malintzin. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/negociacao_malintzin.jpg`.
 
 ---
 
@@ -441,9 +441,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** alianças com Iliyocan.
 
-**Arquivo local:** `assets/alianca_iliyocan.jpg`.
+**Legenda:** Alianças com Iliyocan. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/alianca_iliyocan.jpg`.
 
 ---
 
@@ -451,9 +451,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** matança de Cholula.
 
-**Arquivo local:** `assets/matanca_cholula.jpg`.
+**Legenda:** Matança de Cholula. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/matanca_cholula.jpg`.
 
 ---
 
@@ -461,9 +461,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** Cortés e Montezuma em Tenochtitlan.
 
-**Arquivo local:** `assets/cortez_montezuma_tenochtitlan.jpg`.
+**Legenda:** Cortés e Montezuma em Tenochtitlan. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado grafava "Cortez"; padronizado para "Cortés". Fonte da imagem não indicada no legado (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/cortez_montezuma_tenochtitlan.jpg`.
 
 ---
 
@@ -471,9 +471,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** retrato de La Malinche.
 
-**Arquivo local:** `assets/la_malinche.jpg`.
+**Legenda:** La Malinche. El libro rojo: 1520-1867. Tomo I / por Vicente Riva Palacio, Manuel Payno, Juan A. Mateos y Rafael Martínez de la Torre. [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra/el-libro-rojo-1520-1867-tomo-i/).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem. A definir.
+**Arquivo local:** `assets/la_malinche.jpg`.
 
 ---
 
@@ -523,9 +523,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** Massacre do Templo Mayor.
 
-**Arquivo local:** `assets/massacre_templo_mayor.jpg`.
+**Legenda:** Massacre do Templo Mayor. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/massacre_templo_mayor.jpg`.
 
 ---
 
@@ -533,9 +533,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** Retorno à Tlaxcala.
 
-**Arquivo local:** `assets/retorno_tlaxcala.jpg`.
+**Legenda:** Retorno à Tlaxcala. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/retorno_tlaxcala.jpg`.
 
 ---
 
@@ -543,9 +543,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** O cerco à cidade de Tenochtitlan.
 
-**Arquivo local:** `assets/cerco_tenochtitlan.jpg`.
+**Legenda:** O cerco à cidade de Tenochtitlan. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/cerco_tenochtitlan.jpg`.
 
 ---
 
@@ -553,9 +553,9 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 
 **Mídia:** Conquista de Tenochtitlan.
 
-**Arquivo local:** `assets/conquista_tenochtitlan.jpg`.
+**Legenda:** Conquista de Tenochtitlan. Lienzo de Tlaxcala (1552). [Internet Archive](https://archive.org/details/lienzo-of-tlaxcala).
 
-**Nota editorial:** o QMD legado não indica fonte da imagem (prancha do Lienzo de Tlaxcala). A definir.
+**Arquivo local:** `assets/conquista_tenochtitlan.jpg`.
 
 ---
 
@@ -592,6 +592,6 @@ Dom Manuel intitula-se "Senhor da Guiné e da conquista, navegação e comércio
 - O `index.qmd` de `slides/aula-5/` (2026.1, visões da conquista) permanece intocado; seu conteúdo foi incorporado aqui por decisão docente. A aula 5 de 2026.2 ("Formação da sociedade colonial espanhola") usará material próprio.
 - Bibliografia: união das bibliografias legados das aulas 4 e 5 (2026.1), **exceto Nardi (2019)**, cujo debate ocorreu na aula 3 de 2026.2. Reverter se necessário.
 - Objetivos da aula (Slide 3): combinam os objetivos da aula 3 (expansão marítima — remanejados) e da aula 4 (visões da conquista), conforme ementa 2026.2.
-- Imagens sem fonte no legado foram sinalizadas com "Nota editorial: a definir" — não foram inventadas atribuições.
+- Fontes confirmadas pelo docente (03/09/2026): pranchas do Lienzo de Tlaxcala — Internet Archive; retrato de La Malinche — *El libro rojo: 1520-1867*, Tomo I (Biblioteca Virtual Miguel de Cervantes); planisfério de Waldseemüller — Library of Congress (item 2003626426).
 - QR code regenerado com a URL `https://ericbrasil.com.br/cclhm0076/slides/aula-4` (02/09/2026).
 - Assets copiados de `slides/imgs/` para `slides/aula-4/assets/` com nomenclatura descritiva em português; mapa de Colombo baixado do Wikimedia Commons (com User-Agent) e redimensionado para 2400px.
