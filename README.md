@@ -22,35 +22,35 @@ Versão atual, semestre 2026.2, no branch `2026_2`.
 
 A partir de 2026.2, as apresentações podem utilizar um HTML responsivo próprio, projetado para ocupar toda a tela e funcionar tanto em computadores quanto em celulares.
 
-### Fonte canônica
+### Fontes e fluxo editorial
 
-O arquivo Markdown/Quarto de cada aula permanece como referência principal do conteúdo:
+Cada aula pode conter três arquivos relacionados:
 
 ```text
-slides/aula-N/index.qmd   # fonte canônica: textos, ordem, citações e links
-slides/aula-N/index.html  # apresentação responsiva publicada
+slides/aula-N/conteudo.md  # fonte editorial durante a revisão
+slides/aula-N/index.qmd   # estrutura Quarto; sincronizada após aprovação
+slides/aula-N/index.html  # apresentação standalone responsiva
 slides/aula-N/assets/     # mídias locais específicas da aula
 ```
 
-O HTML não substitui o `.qmd` como documento de autoria. Toda alteração de conteúdo deve ser feita primeiro no `.qmd` e depois transposta para o HTML.
+Enquanto a revisão estiver aberta, as alterações de conteúdo devem ser feitas em `conteudo.md`. O `index.qmd` legado permanece preservado até a aprovação docente; depois, o conteúdo aprovado é sincronizado para o `.qmd` e para o HTML final.
 
-### Como o HTML é gerado
+A apresentação responsiva não é gerada pelo Quarto: é uma **transposição editorial assistida**, não uma conversão automática genérica. O fluxo é:
 
-A geração é uma **transposição editorial assistida**, não uma conversão automática genérica do Quarto. O fluxo é:
-
-1. Ler integralmente `index.qmd`, incluindo o YAML, os separadores de slides e os blocos de conteúdo.
-2. Usar cada slide do `.qmd` como unidade de referência, preservando textos, datas, links, citações, bibliografia e sequência.
-3. Converter essas unidades em seções semânticas no HTML (`<section class="slide">`), aplicando o sistema visual responsivo da disciplina.
+1. Ler o material legado integralmente, preservando textos, datas, links, citações, bibliografia e sequência.
+2. Registrar a versão editorial em `conteudo.md`, incluindo o recorte e o ponto de corte quando a aula vier de um deck anterior.
+3. Converter as unidades aprovadas em seções semânticas no HTML (`<section class="slide">`).
 4. Adaptar apenas a composição: hierarquia tipográfica, distribuição em colunas, janelas de imagens, legendas, navegação e comportamento móvel.
 5. Copiar as mídias necessárias para `assets/`; sempre que possível, substituir GIFs pesados por MP4 local com `autoplay`, `muted`, `loop` e `playsinline`.
-6. Comparar o conteúdo do HTML com o `.qmd` e registrar explicitamente qualquer fusão, divisão ou reorganização solicitada pelo docente.
+6. Comparar o conteúdo do HTML com `conteudo.md` e com o material legado, registrando qualquer fusão, divisão ou reorganização solicitada pelo docente.
 7. Testar a apresentação em desktop e celular antes de publicar.
 
-A Aula 1 é o primeiro exemplo desse formato:
+Exemplo atual:
 
-- fonte: `slides/aula-1/index.qmd`;
-- apresentação publicada: `slides/aula-1/index.html`;
-- 35 slides HTML, incluindo um encerramento com o tema da aula seguinte.
+- fonte editorial: `slides/aula-6/conteudo.md`;
+- material legado preservado: `slides/aula-7/index.qmd`;
+- apresentação standalone: `slides/aula-6/index.html`;
+- 21 slides HTML, com encerramento sobre o tema da Aula 7.
 
 ### Atenção ao Quarto
 
@@ -71,7 +71,7 @@ Antes de commitar uma apresentação:
 - testar, no mínimo, em 1440×900 e 390×844;
 - confirmar ausência de overflow horizontal e erros de console;
 - verificar carregamento de logos, imagens, vídeos e QR code;
-- manter o `.qmd` no commit sempre que houver alteração de conteúdo.
+- manter `conteudo.md`, `index.qmd` e `index.html` sincronizados somente após a aprovação da revisão;
 
 ---
 
