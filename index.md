@@ -16,7 +16,7 @@ format: html
 page-layout: full
 ---
 
-Bem-vindo(as) ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2026.2.
+Boas-vindas ao repositório da disciplina **História da América: Colonização e Resistência**, oferecida no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB (campus dos Malês) no semestre 2026.2.
 
 ## Sobre a Disciplina
 

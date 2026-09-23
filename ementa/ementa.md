@@ -194,8 +194,8 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 **Leituras**
 
-* BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.) **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992, pp. 77-87.
-* MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. Métis: história & cultura, v. 16, n. 31, 11 set. 2017.
+* BRUIT, Héctor. O visível e o invisível na Conquista hispânica da América. In: VAINFAS, Ronaldo (org.). **América em tempo de conquista**. Rio de Janeiro: Zahar Editor, 1992, pp. 77-99.
+* MARTINS, F. P. Repressão e resistência nos Andes coloniais: o movimento Taki Onqoy. *Métis: história & cultura*, v. 16, n. 31, 11 set. 2017, pp. 245-274.
 
 ### AULA 7 (01/10/2026)
 
