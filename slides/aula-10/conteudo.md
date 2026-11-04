@@ -219,26 +219,7 @@ Fonte: Trans-Atlantic Slave Trade Database (Lovejoy, tab. 1)
 - **Estudos interdisciplinares**: arqueologia, genética, história digital
 - Fontes locais ainda pouco exploradas para grande parte da América espanhola
 
-## Slide 31 — Questões para debate em sala
-
-1. Os paradigmas quantitativista e sociocultural são **realmente complementares** ou há tensões irredutíveis entre eles?
-2. Como as fontes **notariais** alteram as periodizações baseadas apenas em fontes metropolitanas?
-3. O conceito de tráfico **transimperial** desfoca a centralidade do tráfico atlântico ou a complexifica?
-
-## Slide 32 — Síntese
-
-- Williams inaugurou o debate sobre a centralidade econômica da escravidão — mas com limites
-- Lovejoy propõe uma tipologia que distingue escravidão incidental de modo de produção escravista
-- Ferreira e Seijas oferecem um balanço historiográfico que integra dimensões quantitativas e socioculturais
-- A historiografia recente enfatiza **agência**, **tráfico transimperial** e **interseccionalidades**
-
-## Slide 33 — Para a discussão
-
-- Se o racismo foi consequência e não causa da escravidão, como se articularam economia e racialização no período colonial?
-- Que contribuições a perspectiva integrada de Ferreira e Seijas traz para além da abordagem de Williams?
-- Como relacionar os dados quantitativos do tráfico com as experiências dos cativos?
-
-## Slide 34 — Bibliografia da aula
+## Slide 31 — Bibliografia da aula
 
 - FERREIRA, Roquinaldo; SEIJAS, Tatiana. O tráfico de escravos para a América: um balanço historiográfico. In: ANDREWS, George Reid; DE LA FUENTE, Alejandro (Orgs.). *Estudos afro-latino-americanos: uma introdução*. Buenos Aires: CLACSO, 2018, p. 47–74.
 - LOVEJOY, Paul. *A escravidão na África: uma história de suas transformações*. Rio de Janeiro: Civilização Brasileira, 2018.
