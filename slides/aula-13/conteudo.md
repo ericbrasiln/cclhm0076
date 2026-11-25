@@ -359,9 +359,11 @@ Baseado em Florentino & Amantino (2012)
 - Sistemas de origem africana (armadilhas cobertas e estacas pontiagudas) encontrados em Palmares, Buraco do Tatu e outros (p. 286)
 - Quilombo do Ambrózio: fosso de 1,5-2m de largura por 2-3m de profundidade circundando 90m × 70m (p. 287)
 
-## Slide 49 — *Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107
+## Slide 49 — Quilombo de São Gonçalo
 
-![*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107](quilombo_sao_goncalo.jpg)
+![Quilombo de São Gonçalo](quilombo_sao_goncalo.jpg)
+
+*Quilombo de São Gonçalo*, 1769, MG. Fonte: Amantino, 2003, p. 107.
 
 ## Slide 50 — Economia e proto-campesinato
 
@@ -452,9 +454,11 @@ Baseado em Florentino & Amantino (2012)
 - Defesas sofisticadas: fossos, trincheiras, fortificações (p. 285-287)
 - Quilombo do Bacaxá (RJ): mais de 60 pessoas, todos nascidos no quilombo, "em parte de suas roças e, em parte, de furtos" (p. 278)
 
-## Slide 62 — Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260
+## Slide 62 — Quilombos de Minas Gerais
 
-![Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260](tabela_quilombos_mg.jpg)
+![Quilombos de Minas Gerais](tabela_quilombos_mg.jpg){width=90%}
+
+Tabela 4: Estimativas populacionais de alguns quilombos de Minas Gerais, 1766-1770. Fonte: Amantino, 2003, p. 259-260.
 
 ## Slide 63 — Comparações hemisféricas
 
@@ -471,9 +475,11 @@ Baseado em Florentino & Amantino (2012)
 - **Palmares** (Brasil, séc. XVII): 11 mil habitantes, federação de dez assentamentos — o maior quilombo das Américas (p. 259, 279)
 - O século XVIII foi a **"época áurea das fugas"** no continente (2/3 de todas as viagens negreiras) (p. 266)
 
-## Slide 65 — Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)
+## Slide 65 — Quilombo de Boucou
 
-![Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII)](quilombo_boucou_price.jpg)
+![Quilombo de Boucou](quilombo_boucou_price.jpg)
+
+Figura 6: Quilombo de Boucou (Price, 1992, p. XXIII).
 
 ## Slide 66 — Quilombos: considerações finais
 
@@ -483,9 +489,11 @@ Baseado em Florentino & Amantino (2012)
 - As comunidades locais relacionavam-se com eles de modo **desigual** — nem todo quilombo era uma "contrassociedade" (p. 279)
 - Havia quilombos que acolhiam **brancos e mulatos livres pobres**, além de indígenas (p. 279)
 
-## Slide 67 — Tabela 3: Perfis demográficos dos escravos fugidos constantes em avisos de jornais do Caribe e sul dos EUA (1730-1805). Fonte: Mullin, 1994, p. 289
+## Slide 67 — Perfis dos fugitivos
 
-![Tabela 3: Perfis demográficos dos escravos fugidos constantes em avisos de jornais do Caribe e sul dos EUA (1730-1805). Fonte: Mullin, 1994, p. 289](tabela_perfis_fugas.jpg){width=90%}
+![Perfis dos fugitivos](tabela_perfis_fugas.jpg){width=90%}
+
+Tabela 3: Perfis demográficos dos escravos fugidos constantes em avisos de jornais do Caribe e sul dos EUA (1730-1805). Fonte: Mullin, 1994, p. 289.
 
 ## Slide 68 — Revoltas, Rebeliões e Revolução
 
